@@ -1,0 +1,5000 @@
+#	Spanish	Meaning	Part
+5	a 	to, at	prep
+4341	a bordo 	on board	nm
+1944	a menudo 	often	adv
+347	a través 	across, over, through	adv
+631	abajo 	down, below, downward	adv
+2298	abandonado 	abandoned	adj
+638	abandonar 	to abandon, leave (a place)	v
+2524	abandono 	abandonment, desertion	nm
+4422	abanico 	range, handheld fan	nm
+2163	abarcar 	to encompass, comprise	v
+4741	abeja 	bee	nf
+4649	abiertamente 	openly	adv
+439	abierto 	open, unlocked	adj
+3612	abismo 	abyss, large gap	nm
+1680	abogado 	lawyer	nm/f
+2273	abordar 	to board, get in/on	v
+2873	abrazar 	to hug, embrace	v
+3767	abrazo 	hug, embrace	nm
+2996	abrigo 	overcoat, shelter	nm
+1922	abril 	April	nm
+252	abrir 	to open	v
+1181	absolutamente 	absolutely, completely	adv
+574	absoluto 	absolute	adj
+2056	absorber 	to absorb, soak up	v
+4872	abstracción 	abstraction	nf
+3549	abstracto 	abstract	adj
+2010	absurdo 	absurd	adj
+3648	absurdo 	absurdity, nonsense	nm
+2408	abuela 	grandmother	nf
+1740	abuelo 	grandfather	nm
+3178	abundancia 	abundance	nf
+2316	abundante 	abundant, plentiful	adj
+2923	abundar 	to be plentiful	v
+2813	aburrido 	boring, bored	adj
+4488	aburrimiento 	boredom	nm
+4024	aburrir 	to bore, tire	v
+3658	abusar 	to abuse	v
+2605	abuso 	abuse, misuse	nm
+2230	acá 	here, around here	adv
+266	acabar 	to have just	v
+4039	academia 	academy	nf
+2399	académico 	academic	adj
+4398	acariciar 	to stroke, fondle, caress	v
+3631	acarrear 	to bring up, entail	v
+1072	acaso 	by chance, maybe	adv
+4820	acatar 	to comply with, abide by	v
+2130	acceder 	to consent, agree, accede	v
+4992	accesible 	accessible	adj
+1315	acceso 	access, entry	nm
+1098	accidente 	accident, irregularity	nm
+405	acción 	action, act, deed	nf
+2076	aceite 	oil	nm
+4633	acelerado 	accelerated, quick	adj
+3053	acelerar 	to accelerate, speed up	v
+2610	acento 	accent, stress	nm
+2718	acentuar 	to accent, stress	v
+3384	aceptable 	acceptable, suitable	adj
+2758	aceptación 	acceptance, approval	nf
+296	aceptar 	to accept	v
+4886	acera 	sidewalk	nf
+1288	acerca 	about, concerning	adv
+4334	acercamiento 	approach, approximation	nm
+410	acercar 	to come near	v
+3064	acero 	steel	nm
+4040	acertado 	correct, accurate	adj
+3308	acertar 	to get right	v
+3729	ácido 	acid	nm
+4248	acierto 	good aim, guess, hit	nm
+1133	aclarar 	to clarify, clear up	v
+2715	acoger 	to welcome, accept	v
+4768	acomodado 	well-to-do, suitable	adj
+2196	acomodar 	to be/make comfortable	v
+512	acompañar 	to accompany	v
+1828	aconsejar 	to advise, counsel	v
+3831	acontecer 	to happen, come about	v
+1125	acontecimiento 	event, happening	nm
+595	acordar 	to remember, remind	v [also recordar]
+3783	acorde 	agreement, accord	nm
+3077	acostar 	to put/go to bed	v
+1595	acostumbrado 	accustomed	adj
+1628	acostumbrar 	to be accustomed to	v [also soler]
+4592	acta 	meeting proceedings, minutes	nf el
+644	actitud 	attitude	nf
+393	actividad 	activity, action	nf
+1328	activo 	active	adj
+572	acto 	act, action	nm
+1705	actor 	actor	nm
+4606	actriz 	actress	nf
+1924	actuación 	performance, acting	nf
+676	actual 	current (adj)	adj
+2046	actualidad 	present time	nf
+2362	actualmente 	now, at present	adv
+576	actuar 	to act	v
+1044	acudir 	to attend, go to, frequent	v
+313	acuerdo 	accord; de acuerdo: in agreement	nm
+3718	acumulación 	accumulation	nf
+1301	acumular 	to accumulate, amass	v
+3573	acusación 	accusation, charge	nf
+1524	acusar 	to accuse	v
+3809	adaptación 	adaptation	nf
+2087	adaptar 	to adapt	v
+948	adecuado 	adequate, suitable	adj
+1777	adelantar 	to move forward	v
+516	adelante 	forward, further	adv
+4210	adelanto 	advance, progress	nm [also avance]
+159	además 	also, as well, besides	adv
+4721	adentrar 	to penetrate, go inside	v
+2084	adentro 	inside	adv [also dentro]
+4890	adherir 	to adhere, attach	v
+4933	adhesión 	adherence	nf
+4124	adicional 	additional	adj
+2557	adiós 	goodbye	nm
+2954	adivinar 	to guess, solve	v
+4511	adjetivo 	adjective	nm
+2055	administración 	administration	nf
+3527	administrador 	administrator, manager	nm/f
+2773	administrar 	to administer, manage	v
+2852	administrativo 	administrative	adj
+2934	admirable 	admirable	adj
+2448	admiración 	admiration	nf
+4917	admirador 	admirer	nm
+1682	admirar 	to admire	v
+985	admitir 	to admit	v
+3397	adolescencia 	adolescence	nf
+2645	adolescente 	adolescent (nc)	nc
+4459	adolescente 	adolescent (adj)	adj
+4275	adonde 	to where	adv
+3926	adónde 	to where?	adv
+1267	adoptar 	to adopt	v
+3124	adorar 	to worship, adore	v
+4179	adornar 	to adorn, to decorate	v
+3468	adorno 	decoration, adornment	nm
+603	adquirir 	to acquire, get	v
+3687	adquisición 	acquisition	nf
+2200	adulto 	adult, grown-up (nm)	nm
+2685	adulto 	adult, grown-up (adj)	adj
+3667	adversario 	adversary	nm
+3438	advertencia 	warning, notice	nf
+887	advertir 	to warn	v
+2975	aéreo 	aerial, air	adj
+2993	aeropuerto 	airport	nm
+2152	afán 	eagerness, zeal, effort	nm
+991	afectar 	to affect	v
+2132	afecto 	affection, fondness	nm
+4373	aferrar 	to grasp, clutch	v
+3292	afición 	fondness, interest	nf
+3125	aficionado 	fan, devotee	nm
+4726	afín 	related, similar	adj
+2357	afirmación 	statement, assertion	nf
+978	afirmar 	to assert, affirm	v
+4751	aflojar 	to loosen	v
+2712	afortunadamente 	luckily, fortunately	adv
+4739	afortunado 	fortunate	adj
+3654	africano 	African	adj
+2832	afrontar 	to face, confront	v
+1858	afuera 	outside	adv
+4225	afueras 	outskirts, suburbs	nf
+2074	agarrar 	to grasp, catch	v
+2886	agencia 	agency, branch	nf
+1806	agente 	agent	nc
+4119	ágil 	agile	adj
+4153	agitación 	agitation, excitement	nf
+4045	agitado 	agitated, irritated	adj
+3027	agitar 	to shake, move	v
+4638	agonía 	agony, grief	nf
+1244	agosto 	August	nm
+2861	agotado 	tired, used up, sold out	adj
+1919	agotar 	to exhaust, wear out, run out	v
+1724	agradable 	nice, pleasant	adj
+3619	agradar 	to please	v
+1681	agradecer 	to thank for	v
+4123	agradecido 	grateful, thankful	adj
+4755	agradecimiento 	gratitude, gratefulness	nm
+4499	agrario 	agrarian, agricultural	adj
+4226	agravar 	to aggravate	v
+1708	agregar 	to add, gather	v
+3204	agresión 	aggression, attack	nf
+4931	agresividad 	aggressiveness	nf
+2242	agresivo 	aggressive	adj
+3611	agrícola 	agricultural, farming	adj
+4794	agricultor 	farmer	nm/f
+3741	agricultura 	agriculture, farming	nf
+4441	agrupar 	to put in a group	v
+194	agua 	water	nf el
+1895	aguantar 	to endure, put up with	v
+3598	aguardar 	to wait for, await	v
+2180	agudo 	sharp, acute	adj
+3625	aguja 	needle, spire, stylus	nf
+3128	agujero 	hole, opening	nm
+1489	ah 	oh	interj [also oh]
+189	ahí 	there	adv [also allí]
+2821	ahogar 	to drown, choke, flood	v
+85	ahora 	now	adv
+2775	ahorrar 	to save (money, time)	v
+2977	ahorro 	saving, thrift	nm
+374	aire 	air, wind, appearance	nm
+1533	aislado 	isolated	adj
+4017	aislamiento 	isolation	nm
+3174	aislar 	to isolate, insulate	v
+1175	ajeno 	not belonging to, detached	adj
+1545	ajustar 	to adjust, tighten	v
+4006	ajuste 	adjustment, settlement	nm
+2260	ala 	wing, flank	nf el
+4255	alambre 	wire	nm
+2649	alargar 	to enlarge, elongate	v
+3452	alarma 	alarm	nf
+4565	alarmante 	alarming	adj
+4537	alarmar 	to alarm	v
+3822	albergar 	to lodge, harbor	v
+3277	alcalde 	mayor	nm
+1083	alcance 	reach, scope	nm
+329	alcanzar 	to reach, catch up with	v
+2421	alcohol 	alcohol	nm
+3458	aldea 	small village	nf
+3836	alegar 	to plead, argue	v
+2689	alegrar 	to be/make happy	v
+2304	alegre 	happy, lively, cheerful	adj
+1429	alegría 	joy, happiness	nf
+1894	alejado 	remote, distant, aloof	adj
+1196	alejar 	to move away	v
+963	alemán 	German	adj
+3189	alentar 	to encourage	v
+4068	alerta 	alert	nf
+4503	alertar 	to alert, warn	v
+3158	alfombra 	rug, carpet mat	nf
+101	algo 	something, somewhat	pron
+3613	algodón 	cotton	nm
+480	alguien 	somebody, someone, anyone	pron
+50	alguno 	some, someone	adj, pron
+4086	aliado 	ally	nm
+3851	alianza 	alliance	nf
+3454	aliento 	breath, courage, spirit	nm
+2989	alimentación 	feeding, food	nf
+1609	alimentar 	to feed, support	v
+1143	alimento 	food, nourishment	nm
+3063	aliviar 	to lighten, relieve, comfort	v
+4018	alivio 	relief, unburdening	nm
+324	allá 	there, over there	adv
+167	allí 	there	adv [also ahí]
+984	alma 	soul	nf el
+2455	almacén 	warehouse, store	nm
+4939	almohada 	pillow	nf
+3820	almorzar 	to have lunch	v
+3104	almuerzo 	lunch	nm
+4896	alojar 	to host, accommodate	v
+3761	alquilar 	to rent, hire	v [also arrendar]
+3733	alquiler 	rent, rental	nm
+556	alrededor 	about, around, round (adv)	adv
+1617	alrededor 	surrounding area, vicinity (nm)	nm
+4238	altamente 	highly	adv
+4247	altar 	altar	nm
+3569	alteración 	alteration, change	nf
+1809	alterar 	to alter, modify	v
+3303	alternar 	to alternate	v
+1800	alternativa 	alternative	nf
+4180	alternativo 	alternating, alternative	adj
+3477	altísimo 	very high, tall	adj
+185	alto 	tall, high	adj
+578	altura 	height, altitude	nf
+3037	aludir 	to allude to	v
+3985	alumbrar 	to light, illuminate	v
+969	alumno 	student, pupil	nm
+3640	alusión 	allusion, hint	nf
+2511	alzar 	to lift, raise	v
+3321	ama 	housekeeper, housewife	nc
+2409	amable 	kind, nice, friendly	adj
+3051	amanecer 	daybreak, dawn (nm)	nm
+3591	amanecer 	to dawn, get light (v)	v
+1893	amante 	lover	nc
+1486	amar 	to love	v
+2710	amargo 	bitter, sour, painful	adj
+4408	amargura 	bitterness, sorrow	nf
+1586	amarillo 	yellow	adj
+2440	ambición 	ambition	nf
+3310	ambicioso 	ambitious, greedy	adj
+683	ambiente 	environment, atmosphere	nm
+3645	ambiguo 	ambiguous	adj
+1547	ámbito 	sphere, space	nm
+488	ambos 	both	adj
+4440	ambulante 	traveling	adj
+2229	amenaza 	threat	nf
+4350	amenazado 	threatened	adj
+2239	amenazar 	to threaten	v
+1261	americano 	American	adj
+1817	amiga 	friend (f)	nf
+262	amigo 	friend	nm
+1232	amistad 	friendship	nf
+4462	amistoso 	friendly	adj
+2787	amo 	master, boss (m)	nm
+423	amor 	love	nm
+3028	amoroso 	loving, affectionate	adj
+4289	amparo 	protection, shelter	nm
+4959	ampliación 	enlargement, extension	nf
+4263	ampliamente 	widely	adv
+1931	ampliar 	to enlarge, increase, expand	v
+763	amplio 	wide, ample, broad	adj
+3908	amplitud 	breadth, extent, range	nf
+1369	añadir 	to add	v
+1148	análisis 	analysis	nm
+1048	analizar 	to analyze	v
+1720	ancho 	wide (adj)	adj
+3679	ancho 	width (nm)	nm
+1912	anciano 	elderly, aged	adj
+4591	andaluz 	Andalusian	adj
+536	andar 	to walk	v [also caminar]
+4737	andar 	walk, gait, pace (nm)	nm
+2028	anécdota 	anecdote	nf
+2248	ángel 	angel	nm
+2389	ángulo 	angle	nm
+1957	angustia 	anguish, distress	nf
+4668	angustiado 	anguished, distressed	adj
+4699	angustioso 	distressing	adj
+4401	anhelo 	longing, yearning	nm
+3150	anillo 	ring	nm
+3163	animado 	excited, lively	adj
+497	animal 	animal	nm
+1354	animar 	to cheer up	v
+1240	ánimo 	zest, spirit, heart	nm
+3669	aniversario 	anniversary	nm
+55	año 	year	nm
+3418	anoche 	last night	adv
+2499	anónimo 	anonymous	adj
+2570	anotar 	to annotate, jot, note	v
+3832	ansia 	anxiety, anguish	nf el
+3284	ansiedad 	anxiety	nf
+3395	ansioso 	anxious eager	adj
+3924	antaño 	in days gone by, last year	adv
+236	ante 	before, in the presence of	prep
+2567	antecedente 	antecedent	nm
+3601	antemano 	beforehand, in advance	adv
+4644	antena 	antenna	nf
+3600	antepasado 	ancestor	nm
+370	anterior 	previous, preceding	adj
+2719	anteriormente 	previously	adv [also previamente]
+114	antes 	before	adv
+2366	anticipar 	to anticipate, advance	v
+3562	antigüedad 	antiquity, seniority	nf
+348	antiguo 	old, ancient, former	adj
+3508	anual 	annual, yearly	adj
+2637	anular 	to annul, cancel	v
+730	anunciar 	to announce, advertise	v
+2114	anuncio 	advertisement, announcement	nm
+4405	apagado 	turned off	adj
+2104	apagar 	to turn off, extinguish	v
+1168	aparato 	apparatus, device	nm
+221	aparecer 	to appear	v
+4205	aparentar 	to give the appearance	v
+2659	aparente 	apparent	adj
+1853	aparentemente 	apparently	adv
+1854	aparición 	appearance, apparition	nf
+1863	apariencia 	appearance, aspect	nf
+1505	apartar 	to move away, separate	v
+1313	aparte 	apart, aside, separately	adv
+3547	apasionado 	passionate	adj
+3790	apelar 	to call upon, appeal to	v
+2167	apellido 	last name	nm
+587	apenas 	hardly, barely	adv
+3368	apertura 	opening, beginning	nf
+4082	apetito 	appetite	nm
+4976	aplastado 	crushed, flattened	adj
+3391	aplastar 	to flatten, crush, smash	v
+3068	aplaudir 	to clap, applaud	v
+3282	aplauso 	applause, praise, acclaim	nm
+2263	aplicación 	application	nf
+1827	aplicado 	applied	adj
+650	aplicar 	to apply	v
+3421	apoderar 	to take power	v
+1738	aportar 	to provide, contribute	v
+3957	aporte 	contribution (nm)	nm
+3635	apostar 	to wager, bet	v
+616	apoyar 	to support, lean on	v
+830	apoyo 	support, backing	nm
+4443	apreciación 	appreciation, assessment	nf
+1483	apreciar 	to appreciate	v
+422	aprender 	to learn	v
+2675	aprendizaje 	learning, apprenticeship	nm
+4377	apresurar	to hurry up	se 
+3806	apretado 	tight, jammed	adj
+2404	apretar 	to squeeze, tighten, compress	v
+3709	aprobación 	approval, consent	nf
+1443	aprobar 	to pass a test, approve	v
+2422	apropiado 	appropriate	adj
+612	aprovechar 	to take advantage of	v
+4241	aproximación 	approximation	nf
+2256	aproximadamente 	approximately	adv
+2070	aproximar 	to come near, closer	v
+3535	apto 	appropriate, fit, able	adj
+4320	apuesta 	wager, bet	nf
+1361	apuntar 	to point, note, aim	v
+3599	apunte 	note, annotation	nm
+4389	apurarse 	to hurry (LAm)	v [also apresurarse]
+4618	apuro 	trouble, predicament	nm
+107	aquel 	that (over there)	adj
+1390	aquél 	that one over there (m)	pron
+814	aquello 	that over there (n)	pron
+129	aquí 	here	adv
+2433	árabe 	Arab	adj
+4717	araña 	spider	nf
+4015	arbitrario 	arbitrary	adj
+833	árbol 	tree	nm
+3244	archivo 	archive, file, filing cabinet	nm
+2412	arco 	arch, arc, bow	nm
+3087	arder 	to burn, glow	v
+4446	ardiente 	passionate, ardent	adj
+1602	área 	area, zone (nf el)	nf el
+1635	arena 	sand	nf
+1626	argentino 	Argentine	adj
+4139	argumentar 	to argue, deduce	v
+1279	argumento 	argument, plot	nm
+4634	árido 	arid, dry	adj
+832	arma 	weapon	nf el
+1639	armado 	armed	adj
+2627	armar 	to arm, put together	v
+2529	armonía 	harmony	nf
+3863	aroma 	aroma	nm
+2808	arquitecto 	architect	nm/f
+2516	arquitectura 	architecture	nf
+1268	arrancar 	to start a machine, uproot	v
+4077	arranque 	start, outburst, kick-start	nm
+4158	arrasar 	to raze, ravage	v
+1134	arrastrar 	to drag, pull	v
+3439	arrebatar 	to snatch, grab	v
+1351	arreglar 	to fix, arrange	v
+2607	arreglo 	arrangement	nm
+3528	arrepentir 	to repent, regret	v
+544	arriba 	up above	adv
+3183	arriesgar 	to risk, venture	v
+1846	arrojar 	to throw (violently), to hurl [also lanzar]	v
+4218	arroyo 	brook, stream, gutter	nm
+3130	arroz 	rice	nm
+567	arte 	art, skill	nm
+4509	artefacto 	artifact, device	nm
+4101	articular 	to articulate	v
+819	artículo 	article, product, item	nm
+2018	artificial 	artificial	adj
+928	artista 	artist, performer	nc
+1598	artístico 	artistic	adj
+3517	asaltar 	to assault	v
+3768	asalto 	assault, robbery	nm
+3899	asamblea 	assembly	nf
+1909	ascender 	to ascend, be promoted	v
+3286	ascenso 	promotion, climb	nm
+3954	ascensor 	elevator	nm
+4375	asco 	disgust	nm
+542	asegurar 	to assure, secure, insure	v
+3494	asentar 	to settle, establish, locate	v
+4742	asentir 	to assent, agree	v
+3352	asesinar 	to murder, assassinate	v
+3333	asesinato 	murder, assassination	nm
+3092	asesino 	killer, assassin	nm
+4466	asesor 	adviser, consultant	nm/f
+59	así 	like that	adv
+2061	asiento 	seat, chair	nm
+3008	asignar 	to assign, allocate	v
+4865	asilo 	asylum, shelter	nm
+2928	asimilar 	to assimilate	v
+3511	asimismo 	as well, also, moreover	adv
+2751	asistencia 	attendance, assistance	nf
+3180	asistente 	assistant	nc
+822	asistir 	to attend	v
+2123	asociación 	association	nf
+1661	asociar 	to associate with	v
+2383	asomar 	to appear, show, stick (out)	v
+4541	asombrado 	amazed, bewildered	adj
+3565	asombrar 	to amaze, astound	v
+3906	asombro 	amazement, astonishment	nm
+3526	asombroso 	amazing	adj
+385	aspecto 	aspect, appearance	nm
+3854	áspero 	rough, coarse, harsh	adj
+2589	aspiración 	ambition, aspiration	nf
+1552	aspirar 	to aspire, want	v
+4746	astro 	star (nm)	nm
+1132	asumir 	to assume, take on	v
+518	asunto 	matter, issue, affair	nm
+3633	asustado 	scared, frightened	adj
+2565	asustar 	to frighten, scare	v
+1393	atacar 	to attack	v
+1157	ataque 	attack, raid	nm
+2153	atar 	to tie (up)	v
+4186	atardecer 	evening, dusk	nm
+441	atención 	attention	nf
+697	atender 	to serve, attend to	v
+4448	atener 	to abide by, comply with	v
+4692	atentado 	attack, offense	nm
+2532	atento 	attentive, polite	adj
+2003	atmósfera 	atmosphere, environment	nf
+2768	atracción 	attraction	nf
+2131	atractivo 	attractive (adj)	adj
+3094	atractivo 	attraction, charm (nm)	nm
+1293	atraer 	to attract	v
+4234	atrapado 	trapped	adj
+3589	atrapar 	to trap, catch	v
+483	atrás 	behind	adv
+4120	atrasado 	behind, slow	adj
+937	atravesar 	to cross	v [also cruzar]
+1276	atrever 	to dare	v
+1539	atribuir 	to attribute	v
+4094	atributo 	attribute, quality	nm
+4599	atroz 	atrocious	adj
+4757	audacia 	boldness, audacity	nf
+4107	audaz 	audacious, bold	adj
+3353	audiencia 	audience, hearing	nf
+3876	aula 	classroom	nf el
+633	aumentar 	to increase	v [also incrementar]
+1873	aumento 	increase, rise	nm
+843	aun 	even (though), still	adv
+282	aún 	still, yet	adv [also todavía]
+117	aunque 	although, even though	conj
+1321	ausencia 	absence	nf
+2562	ausente 	absent	adj
+1223	auténtico 	authentic	adj
+2259	auto 	auto, car	nm
+4676	autobús 	bus	nm
+3324	automáticamente 	automatically	adv
+2984	automático 	automatic	adj
+1578	automóvil 	automobile	nm
+3317	autonomía 	autonomy, range	nf
+2761	autónomo 	autonomous	adj
+4523	autopista 	freeway, motorway	nf
+538	autor 	writer, author	nm/f
+718	autoridad 	authority	nf
+3552	autoritario 	authoritarian	adj
+4106	autorización 	authorization	nf
+3896	autorizado 	authorized	adj
+2829	autorizar 	to authorize, legalize	v
+3373	auxiliar 	auxiliary, ancillary	adj
+3500	auxilio 	help, aid, assistance	nm
+1565	avance 	advance, progress	nm [also adelanto]
+1856	avanzado 	advanced	adj
+618	avanzar 	to advance, progress	v
+2207	ave 	bird	nm [also pájaro]
+2876	avenida 	avenue	nf
+1366	aventura 	adventure	nf
+4800	aventurar 	to venture, risk	v
+1983	averiguar 	to investigate, find out	v
+1283	avión 	plane, airplane, aircraft	nm
+2268	avisar 	to notify	v [also notificar]
+2611	aviso 	warning	nm
+2337	ay 	oh no! oh my!	interj
+1112	ayer 	yesterday	adv
+594	ayuda 	help, aid	nf
+2901	ayudante 	helper, assistant	nc
+345	ayudar 	to help	v
+2400	azar 	random, chance, hazard	nm
+2033	azúcar 	sugar	nm
+904	azul 	blue	adj
+4950	bachillerato 	high school diploma	nm
+4770	bahía 	bay	nf
+2071	bailar 	to dance	v
+4508	bailarín 	dancer	nm/f
+2222	baile 	dance, ball	nm
+569	bajar 	to come down, let down	v
+214	bajo 	under, underneath (prep)	prep
+412	bajo 	short, low (adj)	adj
+3328	bala 	bullet, shot	nf
+3151	balance 	outcome, balance	nm
+4551	balanza 	balance, (measuring) scale	nf
+3207	balcón 	balcony	nm
+3224	bañar 	to bathe, take a bath	v
+4735	bancario 	bank, banking	adj
+881	banco 	financial bank, bench	nm
+2025	banda 	musical band, sash	nf
+4240	bandeja 	tray	nf
+2021	bandera 	flag	nf
+3380	bando 	faction, side	nm
+1789	baño 	bathroom, bath, swim	nm
+4734	banquete 	banquet, feast	nm
+2359	bar 	snack bar, café	nm
+1470	barato 	inexpensive	adj
+3451	barba 	beard	nf
+4013	barbaridad 	atrocity	nf
+2757	bárbaro 	savage, horrible	adj
+1164	barco 	boat	nm
+2721	barra 	bar, rod, rail	nf
+3156	barrer 	sweep, clean out	v
+2568	barrera 	barrier, obstacle	nf
+1146	barrio 	neighborhood, district	nm
+2894	barro 	clay, mud	nm
+1430	basar 	to base on, base upon	v
+498	base 	base, basis	nf
+3862	básicamente 	basically	adv
+2295	básico 	basic, essential	adj
+270	bastante 	rather, fairly, quite a bit	adj, adv
+899	bastar 	to be sufficient	v
+4454	bastón 	walking cane	nm
+2594	basura 	garbage, rubbish	nf
+1091	batalla 	battle	nf
+4597	batería 	battery, gun deck	nf
+3313	batir 	to beat an object	v
+3186	bautizar 	to baptize, christen	v
+3406	bebé 	baby	nm
+1476	beber 	to drink	v
+2828	bebida 	drink, beverage	nf
+3959	beca 	scholarship, grant	nf
+4955	bélico 	warlike	adj
+1472	belleza 	beauty	nf
+1338	bello 	beautiful, fine	adj
+4560	bendito 	blessed	adj
+3129	beneficiar 	to benefit	v
+1142	beneficio 	benefit, profit	nm
+3696	besar 	to kiss	v
+3322	beso 	kiss	nm
+3765	bestia 	beast, brute	nf
+4625	bíblico 	biblical	adj
+1825	biblioteca 	library	nf
+4687	bicho 	bug, creature	nm
+3955	bicicleta 	bicycle	nf
+73	bien 	well (adv)	adv [also bueno]
+667	bien 	goods, property, benefit (nm)	nm
+2335	bienestar 	wellbeing, welfare	nm
+4182	bigote 	mustache	nm
+3070	billete 	ticket, bill, note	nm
+4200	biografía 	biography	nf
+3674	biológico 	biological	adj
+250	blanco 	white	adj
+2783	blando 	soft, limp, gentle	adj
+2480	bloque 	block	nm
+635	boca 	mouth, entrance, opening	nf
+2677	boda 	marriage, wedding	nf
+4643	bodega 	cellar, pantry, warehouse	nf
+2639	bola 	ball, sphere	nf
+1915	bolsa 	bag, purse, stock exchange	nf
+2121	bolsillo 	pocket	nm
+1562	bomba 	bomb, explosion, pump	nf
+2814	bondad 	goodness, kindness	nf
+1707	bonito 	pretty, nice	adj
+1763	borde 	edge	nm
+4915	bordear 	to border	v
+1890	borrar 	to erase	v
+1506	bosque 	forest	nm
+2735	bota 	boot, wineskin	nf
+3840	bote 	small boat	nm
+2161	botella 	bottle, flask	nf
+2865	botón 	button	nm
+4391	brasileño 	Brazilian	adj
+2572	bravo 	fierce, angry	adj
+620	brazo 	arm	nm
+1153	breve 	brief, short	adj
+4587	brevemente 	briefly	adv
+1342	brillante 	brilliant, shiny, sparkling	adj
+2558	brillar 	to shine, twinkle, be outstanding	v
+3463	brillo 	shine, twinkling, sparkle	nm
+2170	brindar 	to offer	v
+3265	británico 	British	adj
+2482	broma 	joke	nf
+3413	bronce 	bronze	nm
+2979	brotar 	to sprout	v
+4305	bruja 	witch, hag	nf
+4406	bruscamente 	quickly, sharply	adv
+3332	brusco 	brusque, abrupt, sudden	adj
+3505	brutal 	brutal, savage	adj
+2642	bruto 	brutal, coarse, clumsy	adj
+115	bueno 	good (adj)	adj
+337	bueno 	well (adv)	adv [also bien]
+4772	buey 	ox	nm
+3925	bulto 	bulk, shape	nm
+3974	buque 	large ship	nm
+4169	burla 	mockery, joke, trick	nf
+3047	burlar 	to mock	v
+4610	burro 	donkey	nm
+1441	busca 	search, hunt	nf
+173	buscar 	to look for	v
+1727	búsqueda 	search	nf
+4731	caballería 	cavalry, knighthood	nf
+1885	caballero 	gentleman, knight	nm
+780	caballo 	horse	nm
+3723	cabecera 	head, header	nf
+2920	cabello 	hair	nm [also pelo]
+695	caber 	to fit into	v
+298	cabeza 	head (part of body)	nf
+4882	cabina 	cabin, cockpit	nf
+2812	cable 	cable, wiring	nm
+477	cabo 	end, bit	nm
+4912	cabra 	goat	nf
+96	cada 	each, every	adj
+2165	cadáver 	corpse, body	nm
+1236	cadena 	chain	nf
+4279	cadera 	hip	nf
+245	caer 	to fall	v
+1250	café 	coffee, café	nm
+1659	caída 	fall, drop, falling	nf
+2168	caído 	fallen	adj
+1258	caja 	bank, box, safe	nf
+2620	cajón 	drawer	nm
+4977	cal 	lime, whitewash	nf
+1155	calcular 	to calculate, figure out	v
+1897	cálculo 	calculation, calculus	nm
+4637	caldo 	broth, soup	nm
+3656	calendario 	calendar	nm
+2531	calentar 	to warm, heat	v
+772	calidad 	quality	nf
+2704	cálido 	warm	adj
+1793	caliente 	hot, warm, spirited	adj
+4295	calificación 	evaluation, qualification	nf
+2279	calificar 	to grade, rate, qualify	v
+3095	callado 	quiet, reserved	adj
+2245	callar 	to be/make quiet	v
+248	calle 	street	nf
+4889	callejero 	of the street	adj
+2202	calma 	calm, lull	nf
+3331	calmar 	to calm, soothe, relieve	v
+989	calor 	heat, warmth	nm
+4414	calzar 	to wear shoes	v
+1185	cama 	bed (furniture)	nf
+1172	cámara 	camera, chamber	nf
+246	cambiar 	to change	v
+186	cambio 	change	nm
+919	caminar 	to walk	v [also andar]
+319	camino 	road, route, path	nm
+2503	camión 	truck, van, tanker	nm
+2443	camisa 	shirt	nf
+4427	camiseta 	T-shirt	nf
+3910	campamento 	camp, camping	nm
+3000	campana 	bell	nf
+1362	campaña 	campaign	nf
+4840	campeón 	champion	nm
+1815	campesino 	rural	adj
+295	campo 	field, country	nm
+3173	caña 	cane, reed	nf
+1804	canal 	channel, canal	nm
+3242	cáncer 	cancer	nm
+4485	cancha 	playing field, court	nf
+1459	canción 	song	nf
+2149	candidato 	candidate	nm
+3229	cañón 	canyon, cannon	nm
+2147	cansado 	tired, tiresome	adj
+2544	cansancio 	tiredness, weariness	nm
+2552	cansar 	to tire, annoy	v
+3147	cantante 	singer	nc
+1124	cantar 	to sing	v
+404	cantidad 	quantity, amount	nf
+1778	canto 	singing, chant	nm
+2419	caos 	chaos	nm
+1496	capa 	layer, coat	nf
+675	capacidad 	capacity	nf
+411	capaz 	capable, able	adj
+3788	capilla 	chapel	nf
+651	capital 	capital city (f), money (m)	nmf
+2370	capitán 	captain, chief	nm
+1450	capítulo 	chapter	nm
+2882	capricho 	caprice, whim	nm
+4635	caprichoso 	capricious, whimsical	adj
+1996	captar 	to capture, attract	v
+4325	capturar 	to capture	v
+356	cara 	face, expression	nf
+530	carácter 	personality, nature	nm
+1266	característica 	characteristic, aspect	nf
+2090	característico 	characteristic	adj
+2476	caracterizar 	to characterize, portray	v
+4762	caramelo 	piece of candy, caramel	nm
+3909	carbón 	coal, charcoal	nm
+4484	carcajada 	hearty laughter, guffaw	nf
+1991	cárcel 	jail, prison	nf
+1633	carecer 	to be without	v
+3199	carencia 	lack, shortage	nf [also falta]
+4907	carente 	lacking, devoid	adj
+1031	carga 	load, charge, cargo	nf
+748	cargar 	to load up, carry	v
+791	cargo 	position, charge, fee	nm
+3984	caridad 	charity	nf
+2246	cariño 	love, affection	nm
+4033	cariñoso 	affectionate	adj
+787	carne 	meat, flesh	nf
+1876	caro 	expensive, difficult, dear	adj
+485	carrera 	career, course, race	nf
+1818	carretera 	highway, road	nf
+1871	carro 	car, cart	nm
+586	carta 	letter, playing card	nf
+3169	cartel 	poster	nm
+2834	cartera 	wallet, satchel	nf
+3393	cartón 	cardboard, carton, sketch	nm
+116	casa 	house	nf
+1830	casado 	married	adj
+1105	casar 	to marry	v
+3033	casco 	helmet	nm
+3370	casero 	homemade	adj
+146	casi 	almost, nearly	adv
+3849	casita 	cottage	nf
+130	caso 	case, occasion	nm
+1660	castellano 	Castilian, Spanish	adj
+2274	castigar 	to punish	v
+1867	castigo 	punishment, penalty	nm
+3343	castillo 	castle	nm
+2190	casualidad 	chance, coincidence	nf
+4097	catalán 	Catalan	adj
+4287	catálogo 	catalog	nm
+3099	catástrofe 	catastrophe	nf
+4070	cátedra 	academic chair	nf
+4041	catedral 	cathedral	nf
+1280	categoría 	category	nf
+2137	católico 	Catholic	adj
+2278	catorce 	fourteen	num
+3075	cauce 	riverbed, ditch	nm
+4296	caudal 	volume, abundance	nm
+546	causa 	cause	nf
+1007	causar 	to cause, bring about	v
+4621	cautela 	caution	nf
+2451	caza 	hunting (game)	nf
+3376	cazador 	hunter	nm/f
+3066	cazar 	to hunt	v
+1289	ceder 	to give way, yield	v
+4227	ceja 	eyebrow, brow	nf
+3409	celebración 	celebration	nf
+1059	celebrar 	to celebrate	v
+3127	célebre 	famous, renowned	adj
+4026	celeste 	heavenly, sky-blue	adj
+2924	celo 	jealousy, zeal	nm
+4211	celoso 	jealous	adj
+3052	célula 	cell (biology)	nf
+2700	cementerio 	cemetery, graveyard	nm
+3098	cemento 	cement, concrete	nm
+2971	cena 	dinner	nf
+3261	cenar 	to dine	v
+4299	ceñir 	to adhere to, fit tightly	v
+3546	ceniza 	ash	nf
+3990	censura 	censorship, criticism	nf
+4892	centavo 	cent	nm
+3480	centenar 	hundred (nm)	nm
+2329	centímetro 	centimeter	nm
+1062	central 	central (adj)	adj
+3844	central 	headquarters (nf)	nf
+2810	centrar 	to center, focus, base on	v
+339	centro 	center, middle, downtown	nm
+4593	cera 	wax	nf
+391	cerca 	close, near	adv
+2943	cercanía 	nearness, proximity	nf
+942	cercano 	near	adj
+4996	cerco 	fence, circle, ring	nm
+3200	cerdo 	pig, sow, slob	nm
+4860	cerebral 	cerebral	adj
+1734	cerebro 	brain	nm
+2111	ceremonia 	ceremony	nf
+2284	cero 	zero, naught, nil	num
+680	cerrado 	closed	adj
+454	cerrar 	to close	v
+3187	cerro 	hill	nm
+2663	certeza 	certainty	nf
+3134	cerveza 	beer, ale	nf
+2227	cesar 	to cease, stop	v
+4372	chaqueta 	jacket	nf
+2830	charla 	talk, chat	nf
+3671	charlar 	to chat, talk	v
+1907	chica 	girl, female	nf
+1079	chico 	boy	nm [also muchacho]
+3164	chileno 	Chilean	adj
+4415	chimenea 	chimney, fireplace	nf
+1444	chino 	Chinese	adj
+4704	chiquillo 	kid, youngster	nm
+3980	chispa 	spark	nf
+2674	chiste 	joke, funny story	nm
+1883	chocar 	to crash into, collide with	v
+3776	chocolate 	chocolate	nm
+2930	choque 	crash, collision	nm
+4361	chorro 	stream, jet, spurt	nm
+4475	chupar 	to suck	v
+2225	ciclo 	cycle	nm
+1481	ciego 	blind	adj
+932	cielo 	sky, heaven, ceiling	nm
+775	ciencia 	science, knowledge	nf
+1634	científico 	scientific (adj)	adj
+2745	científico 	scientist (nm/f)	nm/f
+300	ciento 	hundred (num)	num
+2481	cierre 	zipper, closing	nm
+2785	ciertamente 	certainly, indeed	adv
+123	cierto 	certain, sure, true	adj
+1540	cifra 	figure, number, amount	nf
+2858	cigarrillo 	cigarette	nm
+4291	cima 	summit, peak, top	nf
+231	cinco 	five	num
+782	cincuenta 	fifty	num
+1159	cine 	cinema, US movie theater	nm
+1916	cinta 	tape, ribbon, film, strip	nf
+3323	cintura 	waist	nf
+3922	cinturón 	belt	nm
+3666	circo 	circus	nm
+3554	circuito 	circuit, circumference, track	nm
+2837	circulación 	circulation, traffic	nf
+1822	circular 	to circulate, go around, flow (v)	v
+4219	circular 	circular (adj)	adj
+1222	círculo 	circle, club	nm
+704	circunstancia 	circumstance	nf
+4698	cirujano 	surgeon	nm/f
+2045	cita 	appointment, date, quotation	nf
+1077	citar 	to cite, quote	v
+197	ciudad 	city	nf
+1787	ciudadano 	citizen (nm)	nm
+2883	ciudadano 	community, citizen (adj)	adj
+774	civil 	civil (adj)	adj
+3436	civil 	civilian (nc)	nc
+2057	civilización 	civilization	nf
+4000	civilizado 	civilized	adj
+4269	clandestino 	undercover, clandestine	adj
+1477	claramente 	clearly	adv
+1630	claridad 	clearness, clarity	nf
+259	claro 	clear (adj)	adj
+482	claro 	of course, clearly (adv)	adv
+288	clase 	kind, class, order	nf
+1329	clásico 	classic	adj
+4233	clasificación 	classification	nf
+3642	clasificar 	to classify, sort, file	v
+3146	clavar 	to nail	v
+1903	clave 	key (nf)	nf
+3445	clave 	key (adj)	adj
+4363	clavo 	nail, tack, peg	nm
+1550	cliente 	client, customer	nc
+4823	clientela 	customers, clients	nf
+1576	clima 	climate	nm
+3967	clínica 	clinic	nf
+4887	clínico 	clinical	adj
+2429	club 	club, society	nm
+1013	cobrar 	to charge money	v
+3503	cobre 	copper	nm
+1131	coche 	car, carriage	nm
+1673	cocina 	kitchen	nf
+3372	cocinar 	to cook	v
+4023	cocinero 	cook	nm/f
+4929	coco 	coconut	nm
+2078	código 	code	nm
+4412	codo 	elbow	nm
+1896	coger 	to hold, take, catch	v
+4166	coherente 	coherent, connected	adj
+4937	cohete 	rocket	nm
+2713	coincidencia 	coincidence	nf
+920	coincidir 	to coincide, agree	v
+1589	cola 	line, queue, tail	nf
+2387	colaboración 	collaboration	nf
+2881	colaborador 	collaborator	nm
+1943	colaborar 	to collaborate, work together	v
+4237	colar 	to slip in [se]	v
+4449	colchón 	mattress	nm
+1906	colección 	collection	nf
+1728	colectivo 	collective, joint (adj)	adj
+3606	colectivo 	collective, group (nm)	nm
+2094	colega 	colleague	nc
+1073	colegio 	high school, college	nm
+4758	cólera 	rage (f), cholera (m)	nmf
+3185	colgado 	hanging	adj
+2049	colgar 	to hang up	v
+4003	colina 	hill, slope	nf
+4197	collar 	collar, necklace	nm
+3525	colmo 	climax; para colmo: to top it all	nm
+562	colocar 	to place, position	v
+4695	colombiano 	Colombian	adj
+2420	colonia 	colony, cologne	nf
+3293	colonial 	colonial	adj
+359	color 	color	nm
+4614	colorado 	red, colored	adj
+1406	columna 	column, spine	nf
+3739	coma 	comma (f), coma (m)	nmf
+3755	comandante 	commander, commanding officer	nm
+4810	comando 	command, order	nm
+2494	combate 	combat, battle, fight	nm
+1726	combatir 	to fight against	v
+2164	combinación 	combination	nf
+4956	combinado 	combined	adj
+2348	combinar 	to combine	v
+3457	comedia 	comedy, play, pretense	nf
+3021	comedor 	dining room	nm
+742	comentar 	to comment on	v
+1030	comentario 	remark, comment	nm
+223	comenzar 	to begin, start	v [also empezar]
+389	comer 	to eat	v
+1253	comercial 	commercial, shopping	adj
+2442	comerciante 	merchant, businessman	nc
+1522	comercio 	commerce, trade	nm
+4857	cometa 	comet (m), kite (f)	nmf
+1213	cometer 	to commit	v
+3485	cómico 	comic	adj
+873	comida 	food, meal	nf
+1162	comienzo 	start, beginning	nm
+4332	comisario 	commissioner, delegate	nm
+2155	comisión 	commission, committee	nf
+16	como 	like, as	conj
+126	cómo 	how?	adv
+2296	comodidad 	comfort, convenience	nf
+1627	cómodo 	comfortable, convenient	adj
+4162	compacto 	compact, dense	adj
+2346	compañera 	female companion	nf
+693	compañero 	companion, classmate	nm
+798	compañía 	company	nf
+3719	comparable 	comparable	adj
+1772	comparación 	comparison	nf
+1058	comparar 	to compare	v
+681	compartir 	to share	v
+4194	compás 	rhythm, time, compass	nm
+3891	compatriota 	fellow countryman	nc
+4342	compensación 	compensation	nf
+3006	compensar 	to compensate, make up for	v
+1529	competencia 	competition, contest	nf
+2486	competir 	to compete	v
+3823	complacer 	to please, satisfy	v
+4906	complejidad 	complexity	nf
+1278	complejo 	complex, complicated (adj)	adj
+2948	complejo 	complex (nm)	nm
+3659	complementar 	to complement, supplement	v
+3948	complementario 	additional, complementary	adj
+4650	complemento 	complement, supplement	nm
+869	completamente 	completely	adv
+1718	completar 	to complete	v
+458	completo 	complete	adj
+3400	complicación 	complication	nf
+1368	complicado 	complicated, complex	adj
+1911	complicar 	to complicate, make difficult	v
+4310	cómplice 	accomplice	nc
+4816	complicidad 	involvement, complicity	nf
+2656	componente 	component, ingredient	nm
+1336	componer 	to compose, be part of	v
+1343	comportamiento 	behavior, conduct	nm
+2294	comportar 	to behave	v
+1898	composición 	composition, make-up, essay	nf
+1374	compra 	shopping, buy, purchase	nf
+4266	comprador 	buyer	nm
+437	comprar 	to buy	v
+306	comprender 	to understand	v [also entender]
+4048	comprensible 	understandable	adj
+1732	comprensión 	understanding (nf)	nf
+4713	comprensivo 	understanding (adj)	adj
+852	comprobar 	to verify, prove	v
+2069	comprometer 	to compromise	v
+2803	comprometido 	committed, engaged	adj
+1029	compromiso 	compromise, engagement	nm
+2062	compuesto 	composite, mixed	adj
+4253	computadora 	computer	nf
+438	común 	common	adj
+659	comunicación 	communication	nf
+952	comunicar 	to communicate	v
+1130	comunidad 	community	nf
+3986	comunión 	communion	nf
+4775	comunismo 	communism	nm
+2315	comunista 	Communist	adj
+4416	comunitario 	of the community	adj
+13	con 	with	prep
+1518	concebir 	to conceive, understand	v
+1331	conceder 	to grant, concede	v
+1670	concentración 	concentration, gathering	nf
+1233	concentrar 	to concentrate	v
+2232	concepción 	conception	nf
+997	concepto 	concept	nm
+3486	concesión 	awarding, concession	nf
+696	conciencia 	conscience, consciousness	nf
+2435	concierto 	concert, concerto	nm
+1221	concluir 	to conclude, finish	v
+1138	conclusión 	conclusion, end	nf
+3466	concretamente 	specifically, exactly	adv
+2839	concretar 	to materialize, fulfill	v
+909	concreto 	concrete, real	adj
+4798	concurrencia 	coming together, participation	nf
+4183	concurrir 	to coincide, concur, meet	v
+2628	concurso 	competition, gathering	nm
+3519	condena 	sentence in prison, penalty	nf
+1323	condenar 	to convict, condemn	v
+341	condición 	condition	nf
+4126	condicionado 	conditioned	adj
+4498	condicionar 	to condition, determine	v
+868	conducir 	to lead, drive	v
+1388	conducta 	conduct, behavior	nf
+3016	conductor 	driver, conductor	nm/f
+3084	conectar 	to connect, plug in	v
+4316	conejo 	rabbit	nm
+3302	conexión 	connection, relationship	nf
+2171	conferencia 	conference, lecture	nf
+4561	conferir 	to confer	v
+1972	confesar 	to confess, admit	v
+3237	confesión 	confession, admission	nf
+947	confianza 	confidence, trust	nf
+1423	confiar 	to trust, confide	v
+4257	configurar 	to make up, comprise	v
+1435	confirmar 	to confirm	v
+1282	conflicto 	conflict	nm
+1156	conformar 	to conform	v
+1572	conforme 	in agreement	adj
+4943	confundido 	confused	adj
+1149	confundir 	to confuse	v
+1706	confusión 	confusion	nf
+2634	confuso 	confused, mixed up	adj
+4518	congelado 	frozen	adj
+3280	congreso 	congress	nm
+721	conjunto 	group, set	nm
+1845	conmigo 	with me	pron
+3664	conmover 	to move, affect	v
+4245	conocedor 	expert, judge, connoisseur	nm
+124	conocer 	to know (someone or place)	v
+540	conocido 	known, well-known	adj
+434	conocimiento 	knowledge	nm
+2650	conquista 	conquest	nf
+2358	conquistar 	to conquer, win over	v
+3956	consagrado 	dedicated, consecrated	adj
+4276	consagrar 	to consecrate, establish	v
+1416	consciente 	conscious, aware	adj
+570	consecuencia 	consequence	nf
+222	conseguir 	to acheive	v
+4089	consejero 	advisor, counselor	nm/f
+1188	consejo 	advice, council, counsel	nm
+3960	consentir 	to consent to, pamper	v
+3661	conservación 	conservation	nf
+2613	conservador 	conservative	adj
+670	conservar 	to conserve, preserve	v
+2283	considerable 	considerable	adj
+1335	consideración 	consideration, regard	nf
+261	considerar 	to consider	v
+4091	consigna 	watchword, motto, slogan	nf
+2807	consiguiente 	consequent	adj
+4661	consistencia 	consistency	nf
+688	consistir 	to consist of	v
+3705	consolar 	to console	v
+4376	consolidar 	to consolidate	v
+4673	conspiración 	conspiracy	nf
+3148	constancia 	perseverance	nf
+1034	constante 	constant	adj
+1868	constantemente 	constantly	adv
+1655	constar 	to consist of, comprise	v
+4314	constatar 	to prove, verify	v
+4231	constitución 	constitution	nf
+4213	constitucional 	constitutional	adj
+689	constituir 	to constitute, consist of	v
+794	construcción 	construction	nf
+4985	constructivo 	constructive	adj
+525	construir 	to construct, build	v
+4031	consuelo 	comfort, consolation	nm
+2194	consulta 	consultation, advice	nf
+1587	consultar 	to consult	v
+3516	consumar 	to complete, carry out	v
+1326	consumir 	to consume, take in	v
+2136	consumo 	consumption	nm
+648	contacto 	contact	nm
+4273	contagiar 	to infect, infest	v
+155	contar 	to tell, count	v
+807	contemplar 	to contemplate	v
+3009	contemporáneo 	contemporary	adj
+829	contener 	to contain	v
+1038	contenido 	contents, content	nm
+1642	contento 	happy, content	adj
+4863	contestación 	answer	nf
+764	contestar 	to answer, reply	v
+2898	contexto 	context	nm
+4356	contienda 	contest, dispute	nf
+3017	contigo 	with you	pron
+1831	continente 	continent	nm
+1921	continuación 	continuation, follow-up	nf
+2585	continuamente 	continuously	adv
+403	continuar 	to continue	v
+3195	continuidad 	continuity	nf
+1502	continuo 	continuous	adj
+4339	contorno 	outline, perimeter, edge	nm
+172	contra 	against, opposite	prep
+4143	contradecir 	to contradict, be inconsistent	v
+2073	contradicción 	contradiction	nf
+3107	contradictorio 	contradictory	adj
+2782	contraer 	to contract, shrink, abbreviate	v
+460	contrario 	contrary, opposite	adj
+3734	contrastar 	to contrast	v
+2251	contraste 	contrast	nm
+2418	contratar 	to hire, contract	v
+1989	contrato 	contract, agreement	nm
+4168	contribución 	contribution (nf)	nf
+1183	contribuir 	to contribute	v
+889	control 	control	nm
+1070	controlar 	to control	v
+4901	contundente 	decisive, blunt, forceful	adj
+1169	convencer 	to convince, persuade	v
+1294	convencido 	convinced, persuaded	adj
+4540	convencimiento 	convincing (nm)	nm
+4934	convención 	convention, assembly	nf
+2968	convencional 	conventional	adj
+3197	conveniencia 	convenience, usefulness	nf
+1970	conveniente 	convenient	adj
+964	convenir 	to be agreeable, be convenient	v
+4217	convento 	convent, monastery	nm
+892	conversación 	conversation	nf
+2507	conversar 	to converse, talk	v
+271	convertir 	to convert, change, become	v
+2339	convicción 	conviction	nf
+4030	convincente 	convincing (adj)	adj
+2811	convivencia 	coexistence, living together	nf
+2913	convivir 	to coexist	v
+2599	convocar 	to convene, summon	v
+4690	cooperación 	cooperation	nf
+2267	copa 	cup, glass, top of a tree	nf
+2098	copia 	copy	nf
+2402	copiar 	to copy	v
+3385	coraje 	courage, toughness	nm
+649	corazón 	heart, core	nm
+3238	corbata 	tie, sash	nf
+4666	cordial 	cordial, friendly	adj
+4432	cordillera 	mountain range	nf
+4504	cordón 	cord, yarn, braid	nm
+2940	coro 	choir, chorus	nm
+2772	corona 	crown	nf
+4346	coronar 	to crown, top	v
+3715	coronel 	colonel	nm
+4672	corporal 	of the body, corporal	adj
+4302	corral 	corral, yard	nm
+3979	corrección 	correction, amendment	nf
+4118	correctamente 	correctly	adv
+1234	correcto 	correct, suitable	adj
+2591	corredor 	broker, corridor, runner	nm/f
+1585	corregir 	to correct, rectify	v
+3665	correo 	mail, post office	nm
+332	correr 	to run	v
+2893	correspondencia 	correspondence, connection	nf
+599	corresponder 	to correspond with	v
+1461	correspondiente 	corresponding	adj
+838	corriente 	current, flow (nf)	nf
+1709	corriente 	current, common (adj)	adj
+3236	corrupción 	corruption	nf
+597	cortar 	to cut	v
+1041	corte 	court (f), cut (m)	nmf
+4092	cortesía 	courtesy	nf
+4430	corteza 	bark, crust, rind, peel	nf
+3630	cortina 	curtain, screen	nf
+537	corto 	short, brief	adj
+78	cosa 	thing	nf
+2778	cosecha 	harvest, crop	nf
+3799	coser 	to sew	v
+1126	costa 	coast	nf
+3356	costado 	side, flank	nm
+626	costar 	to cost, to be hard to do	v
+3110	costo 	price, cost, expense	nm
+3514	costoso 	costly, expensive	adj
+700	costumbre 	habit, custom, usage	nf
+1434	cotidiano 	daily (adj)	adj [also diario]
+4750	cráneo 	skull, cranium	nm
+1173	creación 	creation	nf
+2393	creador 	creator	nm
+251	crear 	to create	v
+3551	creativo 	creative	adj
+552	crecer 	to grow, increase	v
+2484	creciente 	growing, increasing	adj
+1902	crecimiento 	growth, increase	nm
+1799	crédito 	credit, reputation	nm
+2236	creencia 	belief	nf
+91	creer 	to believe, think	v
+4598	crema 	cream	nf
+4282	cría 	breeding, raising	nf
+1962	criar 	to bring up, rear	v
+2235	criatura 	creature, child	nf
+1783	crimen 	crime, murder	nm
+4061	criminal 	criminal (nc)	nc
+4165	criminal 	criminal (adj)	adj
+1085	crisis 	crisis	nf
+2026	cristal 	glass, crystal, window	nm
+1114	cristiano 	Christian	adj
+1292	criterio 	criterion	nm
+1344	crítica 	criticism, critique	nf
+1849	criticar 	to criticize	v
+1656	crítico 	critical (adj)	adj
+3054	crítico 	critic (nm)	nm
+2817	crónica 	account, chronicle	nf
+4622	crónico 	chronic	adj
+2809	cruce 	crossing, intersection	nm
+2860	crudo 	raw, crude, natural	adj
+2453	cruel 	cruel, harsh	adj
+3830	crueldad 	cruelty, harshness	nf
+2800	cruz 	cross, burden	nf
+726	cruzar 	to cross	v [also atravesar]
+3220	cuaderno 	notebook, workbook	nm
+3826	cuadra 	city block	nf
+2198	cuadrado 	square	adj
+779	cuadro 	painting, picture	nm
+153	cual 	which, who, whom	pron
+395	cuál 	which?	pron
+1997	cualidad 	quality, attribute	nf
+149	cualquier 	any, anyone	adj, pron
+40	cuando 	when (conj)	conj
+1803	cuando 	when (adv)	adv
+1199	cuándo 	when?	adv
+213	cuanto 	en cuanto a: in terms of, regarding	adj
+723	cuánto 	how much?	adj
+943	cuarenta 	forty	num
+2791	cuartel 	quarters, barracks	nm
+655	cuarto 	room, chamber (nm)	nm
+897	cuarto 	fourth (adj)	adj
+188	cuatro 	four	num
+3905	cubano 	Cuban	adj
+3668	cubierta 	covering, top, lid	nf
+1646	cubierto 	covered	adj
+691	cubrir 	to cover	v
+2945	cuchillo 	knife	nm
+1920	cuello 	neck, collar	nm
+4975	cuenca 	socket, basin, bowl	nf
+170	cuenta 	bill, account	nf
+1357	cuento 	story, tale	nm
+2193	cuerda 	cord, rope	nf
+4326	cuerno 	horn, antler	nm
+2848	cuero 	leather, skin	nm
+232	cuerpo 	body	nm
+398	cuestión 	question, matter	nf
+3888	cuestionar 	to question	v
+5000	cueva 	cave	nf
+754	cuidado 	care, carefulness	nm
+3808	cuidadosamente 	carefully	adv
+4049	cuidadoso 	careful, cautious	adj
+846	cuidar 	to take care of	v
+3276	culminar 	to culminate, accomplish	v
+1053	culpa 	blame, fault	nf
+2211	culpable 	guilty	adj
+1936	cultivar 	to cultivate, produce	v
+2333	cultivo 	cultivation, crop	nm
+2725	culto 	cultured, educated (adj)	adj
+2937	culto 	worship, cult (nm)	nm
+521	cultura 	culture	nf
+1277	cultural 	cultural	adj
+3523	cumbre 	summit, top	nf
+3785	cumpleaños 	birthday	nm
+2691	cumplimiento 	fulfillment, compliment	nm
+363	cumplir 	to fulfill	v
+3726	cuna 	cradle, birth, lineage	nf
+2955	cuota 	quota, share, dues	nf
+3833	cúpula 	cupola, dome	nf
+2103	cura 	priest (m), cure (f)	nmf
+2097	curar 	to cure	v
+3469	curiosamente 	strangely, funnily enough	adv
+1857	curiosidad 	curiosity, quaintness	nf
+1084	curioso 	curious, strange	adj
+610	curso 	course, direction	nm
+2781	curva 	curve	nf
+264	cuyo 	whose	adj
+968	dado 	given	adj
+2159	dama 	lady, dame	nf
+3558	dañar 	to damage	v
+1045	daño 	harm, injury, damage	nm
+2434	danza 	dance	nf
+39	dar 	to give	v
+513	dato 	data, fact	nm
+2	de 	of, from	prep
+820	debajo 	underneath, below	adv
+2261	debate 	debate	nm
+3422	debatir 	to debate, discuss	v
+75	deber 	should, ought to; to owe (v)	v
+1588	deber 	duty, obligation (nm)	nm
+4897	debidamente 	properly, duly	adv
+981	debido 	debido a: due to	adj
+1284	débil 	weak	adj
+2439	debilidad 	weakness	nf
+4112	debilitar 	to weaken, debilitate	v
+2127	década 	decade	nf
+3117	decadencia 	decline, decay	nf
+4974	decaer 	to decay, wane	v
+4580	decena 	ten (of something)	nf
+4517	decente 	respectable, decent	adj
+4895	decepción 	disappointment, disenchantment	nf
+4403	decididamente 	decidedly, decisively	adv
+1988	decidido 	determined, resolute	adj
+381	decidir 	to decide	v
+3355	décimo 	tenth	adj
+28	decir 	to tell, say	v
+549	decisión 	decision	nf
+2638	decisivo 	decisive, conclusive	adj
+1746	declaración 	declaration, statement	nf
+1136	declarar 	to declare, testify	v
+4532	decoración 	decoration	nf
+3529	decreto 	decree, order	nm
+3698	dedicación 	dedication, devotion	nf
+415	dedicar 	to dedicate, devote	v
+1248	dedo 	finger, toe, digit	nm
+2869	deducir 	to deduce, infer	v
+1497	defecto 	defect	nm
+665	defender 	to defend, protect	v
+815	defensa 	defense, plea	nf
+4270	defensivo 	defensive	adj
+3499	defensor 	defender	nm
+1676	definición 	definition	nf
+2043	definido 	definite	adj
+974	definir 	to define	v
+1358	definitivamente 	definitely, finally	adv
+803	definitivo 	definitive, conclusive	adj
+94	dejar 	to let, leave	v
+885	delante 	in front of, ahead	adv
+3039	delgado 	thin, skinny	adj
+4986	delicadeza 	gentleness, tenderness	nf
+1380	delicado 	delicate	adj
+3132	delicioso 	delicious, delightful, charming	adj
+4111	delincuente 	delinquent	nc
+4574	delirio 	delirium, nonsense	nm
+2219	delito 	crime, offense	nm
+1950	demanda 	petition, request, demand	nf
+4802	demandar 	to claim, sue	v
+312	demás 	the rest, others	adj
+335	demasiado 	too much, too many	adj
+2576	democracia 	democracy	nf
+2271	democrático 	democratic	adj
+3258	demonio 	demon, devil	nm
+3320	demorar 	to delay, take time	v
+2687	demostración 	demonstration	nf
+501	demostrar 	to show, demonstrate	v
+4914	denominación 	name, denomination	nf
+1869	denominar 	to call, name	v [also llamar]
+4318	densidad 	density, thickness	nf
+3605	denso 	heavy, dense, thick	adj
+174	dentro 	inside	adv [also adentro]
+2838	denuncia 	accusation	nf
+2332	denunciar 	to denounce	v
+1462	departamento 	department, apartment	nm
+2575	dependencia 	dependence, dependency	nf
+673	depender 	to depend on	v
+2019	deporte 	sport	nm
+2862	deportivo 	sports, sporty	adj
+1995	depositar 	to deposit, place, store	v
+2664	depósito 	deposit, sediment	nm
+3419	depresión 	depression, slump	nf
+1035	derecha 	right, right hand	nf
+427	derecho 	right, justice, law (nm)	nm
+912	derecho 	right, straight (adj)	adj
+1739	derivar 	to derive, come from	v
+4222	derramar 	to shed, pour out	v
+3772	derribar 	to knock down, to demolish	v
+2601	derrota 	defeat, loss	nf
+2951	derrotar 	to defeat, beat	v
+3544	derrumbar 	to knock down, demolish	v
+4038	desacuerdo 	disagreement	nm
+4044	desafiar 	to defy, stand up to	v
+2992	desafío 	challenge, provocation	nm
+2237	desagradable 	unpleasant	adj
+528	desaparecer 	to disappear, vanish	v
+3813	desaparecido 	missing	adj
+2470	desaparición 	disappearance	nf
+2369	desarrollado 	developed, grown	adj
+491	desarrollar 	to develop	v
+685	desarrollo 	development	nm
+1953	desastre 	disaster	nm
+3188	desatar 	to untie, unleash, spark off	v
+4588	desayunar 	to have breakfast	v
+3157	desayuno 	breakfast	nm
+3834	desbordar 	to overflow, spill over	v
+4384	descalzo 	barefoot	adj
+1257	descansar 	to rest	v
+1930	descanso 	rest, interval, break	nm
+4971	descarga 	unloading, discharge	nf
+3190	descargar 	to unleash, unload	v
+2877	descartar 	to discard, reject, rule out	v
+1645	descender 	to descend	v
+3387	descendiente 	descendant	nc
+3641	descenso 	decline, descent, lowering	nm
+4946	descifrar 	to decipher	v
+3706	descomponer 	to decompose, break down	v
+4808	desconcertado 	disoriented, disconcerted	adj
+4543	desconcierto 	disorder, chaos	nm
+3170	desconfianza 	distrust	nf
+1662	desconocer 	to not know, not recognize	v
+1302	desconocido 	unknown	adj
+1151	describir 	to describe	v
+2550	descripción 	description	nf
+1622	descubrimiento 	discovery	nm
+369	descubrir 	to discover	v
+3072	descuidar 	to neglect	v
+4624	descuido 	neglect, oversight	nm
+61	desde 	from, since	prep
+4313	deseable 	desirable	adj
+515	desear 	to want, desire, wish for	v
+3855	desechar 	to throw out	v
+3059	desembocar 	to flow, lead into	v
+2100	desempeñar 	to carry out, fulfill	v
+3933	desencadenar 	to unleash, unchain	v
+4507	desenlace 	outcome, result	nm
+3740	desenvolver 	to unwrap	v
+579	deseo 	desire, wish	nm
+4953	desequilibrio 	imbalance, unsteadiness	nm
+2780	desesperación 	desperation, exasperation	nf
+2156	desesperado 	desperate, hopeless	adj
+4642	desesperar 	to despair, lose hope	v
+4329	desfilar 	to march, parade	v
+3973	desfile 	parade, line, formation	nm
+1584	desgracia 	misfortune, bad luck	nf
+3315	desgraciadamente 	unfortunately	adv
+2324	deshacer 	to undo, destroy, take apart	v
+2431	desierto 	desert (nm)	nm
+3782	desierto 	deserted, desolate (adj)	adj
+2479	designar 	to designate	v
+3978	desigual 	unequal, uneven, irregular	adj
+4784	desilusión 	disappointment, letdown	nf
+3651	deslizar 	to slide, glide, slip	v
+4925	desmentir 	to contradict	v
+2008	desnudo 	nude, naked	adj
+2374	desorden 	disorder, mess	nm
+4335	desordenado 	messy, confused	adj
+2487	despacho 	office, study	nm
+3398	despacio 	slow, slowly	adj
+4848	despedida 	goodbye, farewell	nf
+1940	despedir 	to dismiss, to say goodbye to	v
+4573	despejar 	to clear up	v
+4957	desperdicio 	waste, refuse, garbage	nm
+734	despertar 	to wake up, arouse	v
+3958	despierto 	awake	adj
+3887	desplazamiento 	movement, removal	nm
+1771	desplazar 	to replace, move, shift	v
+3058	desplegar 	to unfold, deploy	v
+4963	despliegue 	deployment, display	nm
+4050	despojar 	to deprive, rob	v
+3141	despreciar 	to despise, scorn	v
+2946	desprecio 	contempt, disdain	nm
+1819	desprender 	to detach, release, remove	v
+87	después 	after	adv
+3001	destacado 	outstanding, leading	adj
+941	destacar 	to emphasize, stand out	v
+1057	destinar 	to assign, appoint	v
+844	destino 	destination, destiny	nm
+4679	destreza 	skill	nf
+3945	destrozar 	to rip/break into pieces	v
+2301	destrucción 	destruction	nf
+4487	destruido 	destroyed	adj
+1207	destruir 	to destroy, ruin	v
+2723	desviar 	to deviate, divert, change	v
+4228	detallado 	detailed, thorough	adj
+784	detalle 	detail	nm
+2826	detectar 	to detect	v
+4675	detención 	detention, arrest	nf
+490	detener 	to stop, detain	v
+4639	deteriorar 	to deteriorate	v
+4138	deterioro 	deterioration, damage	nm
+2640	determinación 	determination	nf
+927	determinado 	determined, fixed	adj
+1009	determinar 	to determine, decide	v
+701	detrás 	in the back	adv
+2139	deuda 	debt	nf
+3702	devoción 	devotion	nf
+1003	devolver 	to give back, to return something	v [also retornar]
+4370	devorar 	to devour, consume	v
+71	día 	day	nm
+2878	diablo 	devil	nm
+3825	diagnóstico 	diagnosis	nm
+4883	dialogar 	to confer, talk	v
+1251	diálogo 	dialogue, conversation	nm
+4984	diamante 	diamond	nm
+3524	diariamente 	daily (adv)	adv
+903	diario 	newspaper (nm)	nm
+979	diario 	daily (adj)	adj [also cotidiano]
+2317	dibujar 	to draw, sketch	v
+1692	dibujo 	drawing, sketch	nm
+4223	diccionario 	dictionary	nm
+4590	dicha 	fortune, happiness, luck	nf
+3348	dicho 	saying, proverb (nm)	nm
+3644	dicho 	aforementioned, said (adj)	adj
+4497	dichoso 	fortunate, happy	adj
+1341	diciembre 	December	nm
+4747	dictador 	dictator	nm
+2824	dictadura 	dictatorship	nf
+1881	dictar 	to dictate, announce	v
+2694	dieciocho 	eighteen	num
+2793	dieciséis 	sixteen	num
+3446	diecisiete 	seventeen	num
+1859	diente 	tooth, cog	nm
+3607	dieta 	diet	nf
+346	diez 	ten	num
+400	diferencia 	difference	nf
+2995	diferenciar 	to differentiate, distinguish	v
+365	diferente 	different, separate	adj
+314	difícil 	difficult, hard	adj
+3300	difícilmente 	with difficulty	adv
+741	dificultad 	difficulty, obstacle	nf
+2740	difundir 	to spread out	v
+3816	difusión 	spread, diffusion	nf
+2092	dignidad 	dignity	nf
+1561	digno 	worthy	adj
+4903	diligencia 	diligence	nf
+4029	diluir 	to dilute, weaken	v
+1549	dimensión 	dimension, size	nf
+4025	diminuto 	diminutive, tiny, minute	adj
+4365	dinámica 	dynamics	nf
+4064	dinámico 	dynamic	adj
+291	dinero 	money	nm
+274	dios 	god, divinity	nm
+3681	diplomático 	diplomatic (adj)	adj
+4722	diplomático 	diplomat (nm/f)	nm/f
+3749	diputado 	deputy, member	nm
+636	dirección 	direction, address	nf
+936	directamente 	directly, straight away	adv
+733	directo 	direct, straight	adj
+816	director 	director, manager, principal	nm/f
+3285	dirigente 	leader, director, manager	nc
+331	dirigir 	to direct, manage	v
+1401	disciplina 	discipline, subject	nf
+3714	discípulo 	disciple	nm
+1948	disco 	disc, disk, record	nm
+3025	discreto 	discreet, tactful	adj
+4563	disculpa 	apology, excuse	nf
+4079	disculpar 	to excuse	v
+4791	discurrir 	to flow, pass, roam	v
+1254	discurso 	lecture, discourse, talk	nm
+1055	discusión 	discussion, argument	nf
+859	discutir 	to argue, discuss	v
+2910	diseñar 	to design, develop	v
+2013	diseño 	design	nm
+4115	disfrazado 	disguised	adj
+4979	disfrazar 	to disguise, hide, conceal	v
+1269	disfrutar 	to enjoy	v [also gozar]
+3660	disgusto 	disgust, annoyance	nm
+3364	disimular 	to disguise, hide, pretend	v
+3963	disipar 	to dissipate, disperse	v
+1982	disminuir 	to decrease, diminish	v
+3240	disolver 	to dissolve	v
+2141	disparar 	to shoot at	v
+4022	disparate 	nonsense, blunder	nm
+3932	disparo 	shot, discharge	nm
+4319	dispersar 	to disperse, scatter, spread	v
+3506	disperso 	spread out	adj
+658	disponer 	to have means, dispose	v
+3262	disponible 	available	adj
+1398	disposición 	disposal, disposition	nf
+690	dispuesto 	willing, ready	adj
+3991	disputa 	dispute, argument, quarrel	nf
+3425	disputar 	to dispute, contest	v
+678	distancia 	distance	nf
+2351	distante 	distant, far, remote	adj
+2962	distinción 	distinction	nf
+3228	distinguido 	distinguished	adj
+945	distinguir 	to distinguish	v
+254	distinto 	distinct, different	adj
+4705	distracción 	distraction, amusement	nf
+2905	distraer 	to distract	v
+2299	distribución 	distribution	nf
+1503	distribuir 	to distribute, deliver	v
+4733	diversidad 	diversity, variety	nf
+3345	diversión 	fun, entertainment	nf
+740	diverso 	different, several, diverse	adj
+2553	divertido 	funny, amusing	adj
+2356	divertir 	to amuse, entertain	v
+1015	dividir 	to divide	v
+1888	divino 	divine	adj
+1992	división 	division	nf
+3997	divorcio 	divorce	nm
+1981	doblar 	to bend, turn	v
+1002	doble 	double (adj)	adj
+2354	doble 	double (nm)	nm
+823	doce 	twelve	num
+2774	docena 	dozen	nf
+778	doctor 	doctor	nm/f
+2959	doctrina 	doctrine, teachings	nf
+4578	documentación 	documentation	nf
+1076	documento 	document	nm
+1878	dólar 	dollar	nm
+2037	doler 	to hurt	v
+705	dolor 	pain, ache, sorrow	nm
+2080	doloroso 	painful	adj
+1960	doméstico 	domestic	adj
+3045	domicilio 	residence, address	nm
+3583	dominante 	dominant, prevailing	adj
+926	dominar 	to dominate, master	v
+1121	domingo 	Sunday	nm
+1619	dominio 	power, control	nm
+303	don 	courtesy title (m), Mr., gift	nm
+2410	doña 	courtesy title (f), Mrs.	nf
+84	donde 	where	conj
+421	dónde 	where?	adv
+2696	dorado 	golden, gold-plated	adj
+2786	dormido 	asleep, sleeping	adj
+857	dormir 	to sleep	v
+3382	dormitorio 	bedroom, dormitory	nm
+56	dos 	two	num
+2344	doscientos 	two hundred	num
+2609	dosis 	dose	nf
+3083	dotado 	endowed, gifted	adj
+3998	dotar 	to endow, bestow	v
+2350	drama 	drama	nm
+2011	dramático 	dramatic	adj
+2371	droga 	drug	nf
+399	duda 	doubt	nf
+1252	dudar 	to have doubt	v
+3230	dudoso 	doubtful, dubious	adj
+3751	duelo 	grief, affliction	nm
+3557	dueña 	landlady, owner (f)	nf
+1093	dueño 	owner, landlord (m)	nm
+1882	dulce 	sweet (adj)	adj
+3100	dulce 	candy, sweets (nm)	nm
+3336	duración 	duration, length	nf
+4875	duramente 	harshly, severely	adv
+148	durante 	during, for (time)	adv
+812	durar 	to last	v
+3858	dureza 	hardness, toughness	nf
+615	duro 	hard (adj)	adj
+2083	duro 	money (nm)	nm
+455	echar 	to throw	v
+4942	eclesiástico 	ecclesiastical	adj
+2042	eco 	echo, response	nm
+1504	economía 	economy, economics, thriftiness	nf
+4778	económicamente 	economically	adv
+426	económico 	economic	adj
+4544	economista 	economist	nm/f
+350	edad 	age	nf
+2195	edición 	edition, publication	nf
+4871	edificación 	construction, building	nf
+717	edificio 	building	nm
+4421	editar 	to edit, publish, release	v
+4651	editor 	editor, publisher	nm/f
+4685	editorial 	publisher (f), editorial article (m)	nmf
+845	educación 	education	nf
+4846	educado 	educated	adj
+2068	educar 	to educate	v
+3794	educativo 	educational	adj
+1604	efectivamente 	in fact, actually, indeed	adv
+1820	efectivo 	effective	adj [also eficaz]
+418	efecto 	effect	nm
+2523	efectuar 	to carry out, cause to happen	v
+2825	eficacia 	efficiency, effectiveness	nf
+1976	eficaz 	effective	adj [also efectivo]
+4940	eficiencia 	efficiency	nf
+3571	eficiente 	efficient	adj
+4371	efímero 	ephemeral, short-lived	adj
+4340	egoísmo 	selfishness	nm
+3845	egoísta 	selfish	adj
+2520	eh 	eh	interj
+2521	eje 	axis, shaft, crux	nm
+2415	ejecución 	performance, execution	nf
+2285	ejecutar 	to execute, carry out	v
+3065	ejecutivo 	executive	adj
+2101	ejemplar 	copy, issue (nm)	nm
+2747	ejemplar 	exemplary, model (adj)	adj
+162	ejemplo 	example	nm
+1004	ejercer 	to practice, exercise	v
+1242	ejercicio 	exercise, practice	nm
+1218	ejército 	army	nm
+41	él 	he, [ellos] them (m)	pron
+1	el, la 	the	art
+3663	elaboración 	production	nf [also producción]
+1592	elaborar 	to make, develop	v
+827	elección 	election, choice	nf
+3411	electoral 	electoral	adj
+3950	electricidad 	electricity	nf
+1333	eléctrico 	electric	adj
+3149	electrónico 	electronic	adj
+4945	elefante 	elephant	nm
+4060	elegancia 	elegance, style	nf
+1918	elegante 	elegant, smart, stylish	adj
+494	elegir 	to choose, elect	v
+1901	elemental 	elemental, basic	adj
+607	elemento 	element	nm
+4691	elevación 	rise, elevation, increase	nf
+1512	elevado 	elevated, high, lofty	adj
+1123	elevar 	to elevate, raise	v
+1612	eliminar 	to eliminate, exclude	v
+69	ella, ellas 	she,&nbsp;&nbsp;them (f)	pron
+343	ello 	it (subj-n)	pron
+4719	elocuente 	eloquent	adj
+4062	elogio 	praise, eulogy, compliment	nm
+3460	eludir 	to evade, avoid, elude	v
+4404	embajada 	embassy	nf
+3987	embajador 	ambassador	nm/f
+3969	embarazada 	pregnant	adj
+4051	embarazo 	pregnancy	nm
+3597	embarcar 	to embark, load	v
+180	embargo 	sin embargo: nevertheless	nm
+3273	emergencia 	emergency	nf
+3145	emerger 	to emerge, surface	v
+3850	emigrar 	to emigrate	v
+4812	emisión 	broadcast, emission	nf
+4103	emisor 	transmitter, emitter	nm
+1811	emitir 	to emit, give off	v
+1577	emoción 	emotion, excitement	nf
+3680	emocional 	emotional	adj
+4420	emocionar 	to move, make/get excited	v
+1998	empeñar 	to steam up	v
+3203	empeño 	insistence, determination	nm
+4856	emperador 	emperor	nm
+161	empezar 	to begin, start	v [also comenzar]
+1104	empleado 	employee	nm
+962	emplear 	to employ	v
+1436	empleo 	work, job, occupation	nm
+2365	emprender 	to undertake, embark on	v
+517	empresa 	firm, company, venture	nf
+2796	empresario 	manager, entrepreneur	nm
+1877	empujar 	to push, shove	v
+6	en 	in, on	prep
+3274	enamorado 	in love	adj
+3193	enamorar 	to fall in love	v
+4460	encabezar 	to head, lead off	v
+3049	encajar 	to insert, fit well	v
+4850	encaje 	lace	nm
+4246	encaminar 	to head for, guide	v
+3264	encantado 	pleased, delighted	adj
+3650	encantador 	charming	adj
+2859	encantar 	to be very pleasing to	v
+3078	encanto 	charm, spell	nm
+3839	encarar 	to front, confront	v
+1479	encargado 	in charge of	adj
+1054	encargar 	to entrust, [se] take charge of	v
+3818	encargo 	job, order, errand	nm
+3918	encarnar 	to embody	v
+2133	encender 	to turn on	v
+3002	encendido 	turned on, burning	adj
+2376	encerrado 	locked up	adj
+1861	encerrar 	to shut in	v
+436	encima 	above, on top, in addition	adv
+4828	encomendar 	to commend, entrust	v
+100	encontrar 	to find	v
+836	encuentro 	meeting, game, skirmish	nm
+4281	encuesta 	poll, survey, inquiry	nf
+4656	endurecer 	harden, make hard	v
+1024	enemigo 	enemy	nm
+946	energía 	energy, power	nf
+3459	enérgico 	energetic, vigorous	adj
+1449	enero 	January	nm
+2794	énfasis 	emphasis	nm
+4513	enfermar 	to become ill	v
+666	enfermedad 	illness, sickness	nf
+3122	enfermero 	nurse	nm/f
+698	enfermo 	ill, sick	adj
+3707	enfocar 	to focus	v
+3999	enfoque 	focus, approach	nm
+3212	enfrentamiento 	confrontation	nm
+862	enfrentar 	to confront, face	v
+2541	enfrente 	in front of	adv
+3938	enfriar 	to cool	v
+1917	engañar 	to trick, deceive	v
+3192	engaño 	deceit, falsehood, hoax	nm
+4272	engendrar 	to engender, beget	v
+4796	engordar 	to fatten, get fat	v
+4989	enigma 	enigma, mystery	nm
+4220	enlace 	link, connection, bond	nm
+4232	enlazar 	to link, connect	v
+471	enorme 	enormous, vast	adj
+3678	enormemente 	enormously	adv
+4548	enredar 	to entangle, ensnare	v
+2681	enriquecer 	to enrich	v
+3166	ensayar 	to test	v
+1835	ensayo 	essay, rehearsal	nm
+2707	enseguida 	immediately, at once	adv
+1751	enseñanza 	teaching, instruction	nf
+524	enseñar 	to teach, show	v
+4766	ensuciar 	to get dirty	v
+4952	entablar 	to start, establish	v
+4898	ente 	entity, being, firm	nm
+203	entender 	to understand	v [also comprender]
+1852	entendido 	understood	adj
+3152	entendimiento 	understanding	nm
+4175	enterado 	aware of	adj
+3789	enteramente 	completely, entirely	adv
+1543	enterar 	to find out [se]	v
+760	entero 	entire, whole, complete	adj
+4208	enterrado 	buried	adj
+2779	enterrar 	to bury	v
+2660	entidad 	entity	nf
+4008	entierro 	burial	nm
+76	entonces 	so, then	adv
+2614	entorno 	environment, surroundings	nm
+647	entrada 	entrance, admission ticket	nf
+4681	entrañas 	insides, bowels	nf
+179	entrar 	to enter	v
+58	entre 	between, among	prep
+2182	entrega 	delivery	nf
+558	entregar 	to deliver	v
+4019	entrenamiento 	training	nm
+4670	entrenar 	to train	v
+2722	entretener 	to entertain, amuse	v
+4600	entretenimiento 	entertainment	nm
+1419	entrevista 	interview, meeting	nf
+4160	entrevistar 	to interview	v
+4243	entusiasmado 	enthused, excited	adj
+3793	entusiasmar 	to fill with enthusiasm, excite	v
+1765	entusiasmo 	enthusiasm	nm
+4970	entusiasta 	enthusiastic	adj
+4706	enumerar 	to enumerate, count	v
+4916	envergadura 	breadth, expanse	nf
+842	enviar 	to send	v
+3272	envidia 	envy	nf
+4631	envidiar 	to envy	v
+2363	envolver 	to wrap	v
+2473	envuelto 	wrapped	adj
+2355	episodio 	episode, incident	nm
+358	época 	time, age, period	nf
+2382	equilibrar 	to balance	v
+1487	equilibrio 	balance	nm
+737	equipo 	team, equipment, outfit	nm
+4308	equivalente 	equivalent (adj)	adj
+4780	equivalente 	equivalent (nm)	nm
+3675	equivaler 	to be equivalent, tantamount to	v
+4774	equivocación 	mistake, misconception	nf
+2353	equivocado 	mistaken, wrong	adj
+1457	equivocar 	to be wrong	v
+4076	era 	era, age	nf
+4349	erótico 	erotic	adj
+738	error 	error, mistake	nm
+1542	escala 	scale, ladder, rank	nf
+2595	escalera 	stairs, ladder	nf
+2093	escándalo 	scandal	nm
+757	escapar 	to escape	v
+4725	escaparate 	showcase, display window	nm
+3135	escasez 	scarcity, shortage	nf
+1110	escaso 	scarce, very little	adj
+1139	escena 	scene, stage, setting	nf
+1638	escenario 	stage, setting, scene	nm
+2377	esclavo 	slave	nm
+2048	escoger 	to choose	v
+2701	escolar 	school, scholastic	adj
+1802	esconder 	to hide, conceal	v
+2546	escondido 	hidden	adj
+187	escribir 	to write	v
+4629	escrito 	manuscript, writing	nm
+1011	escritor 	writer	nm/f
+3539	escritorio 	desk, bureau	nm
+2432	escritura 	writing, scripture	nf
+360	escuchar 	to listen to	v
+3081	escudo 	shield, coat of arms	nm
+532	escuela 	school	nf
+4125	escultura 	sculpture, carving	nf
+32	ese, esa 	that	adj
+855	ése, ésa 	that one	pron
+1672	esencia 	essence	nf
+1573	esencial 	essential	adj
+4607	esencialmente 	essentially	adv
+2514	esfera 	sphere, globe	nf
+2823	esforzar 	to make an effort, exert oneself	v
+444	esfuerzo 	effort, endeavor	nm
+63	eso 	that (pron)	pron
+4424	espacial 	spatial, space	adj
+474	espacio 	space, room	nm
+3024	espada 	sword	nf
+1499	espalda 	back (body)	nf
+285	español 	Spanish	adj
+4435	espantar 	to scare, frighten	v
+3281	espantoso 	frightening, dreadful	adj
+364	especial 	special	adj
+2517	especialidad 	specialty, specialized field	nf
+1886	especialista 	specialist	nc
+2474	especializar 	to specialize, major in	v
+684	especialmente 	especially	adv
+388	especie 	kind, sort, species	nf
+4492	específicamente 	specifically	adv
+2372	específico 	specific	adj
+2845	espectacular 	spectacular	adj
+1420	espectáculo 	spectacle, show	nm
+2732	espectador 	spectator, onlooker	nm
+3802	espectro 	ghost, specter	nm
+3928	especulación 	speculation, conjecture	nf
+1730	espejo 	mirror, reflection	nm
+1525	espera 	wait	nf
+805	esperanza 	hope	nf
+163	esperar 	to wait, hope for, expect	v
+3537	espeso 	thick, dense, stiff	adj
+3708	espina 	thorn, spine	nf
+731	espíritu 	spirit, ghost	nm
+1865	espiritual 	spiritual	adj
+2822	espléndido 	splendid, generous	adj
+3992	esplendor 	splendor	nm
+4743	espontáneamente 	spontaneously	adv
+2172	espontáneo 	spontaneous	adj
+4678	esporádico 	sporadic	adj
+951	esposa 	wife	nf
+2676	esposo 	husband, spouse	nm
+4697	espuma 	foam, lather	nf
+4121	esqueleto 	skeleton, framework	nm
+2466	esquema 	outline, diagram, plan	nm
+1926	esquina 	corner	nf
+3251	estabilidad 	stability	nf
+2784	estable 	stable, steady	adj
+565	establecer 	to establish	v
+1515	establecido 	established	adj
+2289	establecimiento 	establishment	nm
+1275	estación 	station, season	nf
+3970	estadio 	stadium	nm
+3339	estadística 	statistic	nf
+4707	estadístico 	statistical	adj
+351	estado 	state, condition, status	nm
+2401	estallar 	to break out, explode, start	v
+4445	estallido 	crash, outbreak, explosion	nm
+4999	estampa 	print, engraving, illustration	nf
+2364	estancia 	stay, stance, ranch	nf
+17	estar 	to be (location, change from norm)	v
+4189	estatal 	state, government-owned	adj
+3923	estático 	static, motionless	adj
+3116	estatua 	statue	nf
+4098	estatura 	stature, height	nf
+2743	este 	East (n)	n
+29	este, esta 	this (adj)	adj
+168	éste, ésta 	this one	pron
+4195	estéril 	sterile, barren	adj
+4730	estética 	aesthetics	nf
+2569	estético 	esthetic	adj
+707	estilo 	style	nm
+1433	estimar 	to estimate, hold in esteem	v
+2662	estimular 	to stimulate, encourage	v
+2714	estímulo 	stimulus, encouragement	nm
+3652	estirar 	to stretch, strain	v
+110	esto 	this (pron)	pron
+2636	estómago 	stomach	nm
+2505	estrategia 	strategy	nf
+4171	estratégico 	strategic	adj
+3501	estrechar 	to tighten, make closer	v
+1686	estrecho 	narrow	adj
+1194	estrella 	star (nf)	nf
+3869	estrenar 	to use for the first time, debut	v
+2587	estrictamente 	strictly	adv
+2079	estricto 	strict, rigorous	adj
+4851	estropear 	to ruin, mess up	v
+1141	estructura 	structure	nf
+1019	estudiante 	student	nc
+328	estudiar 	to study	v
+321	estudio 	study, learning	nm
+3940	estudioso 	studious	adj
+3478	estupendo 	marvelous, stupendous	adj
+4382	estupidez 	stupidity, stupid thing	nf [also tontería]
+3319	estúpido 	stupid, idiotic	adj
+921	etapa 	stage, period	nf
+2154	etcétera 	etcetera	n
+4352	eternidad 	eternity	nf
+1872	eterno 	eternal	adj
+3683	ética 	ethics	nf
+4173	ético 	ethical	adj
+3810	etiqueta 	label, etiquette	nf
+4539	euforia 	euphoria, elation	nf
+1092	europeo 	European	adj
+4419	evaluar 	to evaluate, assess	v
+3867	evento 	event	nm
+2091	evidencia 	evidence, certainty	nf
+1051	evidente 	evident, obvious	adj
+1766	evidentemente 	evidently, obviously	adv
+446	evitar 	to avoid, prevent	v [also prevenir]
+4149	evocar 	to evoke, recall	v
+1754	evolución 	evolution, development	nf
+3018	evolucionar 	to evolve, develop	v
+977	exactamente 	exactly	adv
+3615	exactitud 	accuracy	nf
+879	exacto 	exact, faithful, true	adj
+4442	exageración 	exaggeration	nf
+2603	exagerado 	exaggerated	adj
+2755	exagerar 	to exaggerate	v
+1286	examen 	examination, exam	nm
+1780	examinar 	to examine, inspect	v
+4534	exceder 	to excel, exceed	v
+3026	excelencia 	excellence	nf
+1273	excelente 	excellent	adj
+1319	excepción 	exception	nf
+2392	excepcional 	exceptional, unusual	adj
+3108	excepto 	except for	prep
+3553	excesivamente 	excessively	adv
+1607	excesivo 	excessive	adj
+1495	exceso 	excess	nm
+4701	excitar 	to excite	v
+3121	excluir 	to exclude, reject	v
+1769	exclusivamente 	exclusively	adv
+2253	exclusivo 	exclusive	adj
+3916	excursión 	excursion	nf
+3564	excusa 	excuse	nf
+4884	exento 	exempt, free	adj
+4723	exhibición 	exhibition, showing	nf
+2122	exhibir 	to exhibit, show off	v
+1711	exigencia 	requirement, demand	nf
+3530	exigente 	demanding, urgent	adj
+630	exigir 	to demand	v
+3359	exilio 	exile	nm
+840	existencia 	existence, life	nf
+2833	existente 	existing	adj
+177	existir 	to exist	v
+714	éxito 	success	nm
+3847	exótico 	exotic	adj
+4495	expandir 	to expand	v
+3638	expansión 	expansion, spreading	nf
+2456	expectativa 	expectation, hope, prospect	nf
+3944	expedición 	expedition	nf
+3791	expediente 	dossier, proceedings	nm
+361	experiencia 	experience	nf
+4360	experimental 	experimental	adj
+1484	experimentar 	to experience, experiment	v
+2815	experimento 	experiment	nm
+1452	experto 	expert	nm
+818	explicación 	explanation	nf
+316	explicar 	to explain	v
+4417	explícito 	explicit	adj
+4306	exploración 	exploration	nf
+3595	explorar 	to explore	v
+2175	explosión 	explosion	nf
+3764	explotación 	exploitation, cultivation	nf
+1938	explotar 	to explode, exploit	v
+773	exponer 	to expound, expose	v
+4493	exportación 	export, exportation	nf
+1689	exposición 	exhibition, display	nf
+660	expresar 	to express	v
+555	expresión 	expression	nf
+4181	expresivo 	expressive	adj
+4345	expreso 	express, explicit	adj
+2110	expulsar 	to expel, throw out	v
+4988	expulsión 	expulsion, ejection	nf
+2592	exquisito 	exquisite, superb	adj
+851	extender 	to extend, spread	v
+2082	extensión 	extension, area, expanse	nf
+2306	extenso 	extensive, large	adj
+1163	exterior 	exterior, outside (adj)	adj
+1795	exterior 	exterior, outside (nm)	nm
+2047	externo 	external, outward	adj
+4838	extinción 	extinction	nf
+3616	extinguir 	to extinguish, put out	v
+4756	extra 	extra	adj
+2102	extraer 	to extract, take out	v
+2564	extrañar 	to miss, long for	v
+1042	extranjero 	foreign, alien (adj)	adj
+1171	extranjero 	foreigner (nm)	nm
+551	extraño 	strange, foreign	adj
+3953	extraordinariamente 	extraordinarily	adv
+860	extraordinario 	extraordinary, exceptional	adj
+4494	extremadamente 	extremely	adv
+1036	extremo 	edge, border, end (nm)	nm
+1571	extremo 	extreme (adj)	adj
+1498	fábrica 	factory, manufacture	nf
+4526	fabricación 	manufacture, production	nf
+1408	fabricar 	to manufacture	v
+3596	fabuloso 	fabulous, fantastic	adj
+4718	facción 	face feature, faction	nf
+3710	fachada 	front of a building	nf
+514	fácil 	easy	adj
+1108	facilidad 	ease, facility	nf
+1381	facilitar 	to facilitate	v
+1629	fácilmente 	easily	adv
+1925	factor 	factor, cause, influence	nm
+4552	factura 	invoice, bill	nf
+1383	facultad 	faculty, ability	nf
+4147	faena 	task, job, performance	nf
+3143	falda 	skirt	nf
+4167	falla 	flaw, failure	nf
+1664	fallar 	to fail, miss	v
+3456	fallecer 	to pass away (to die)	v
+3976	fallo 	mistake, blunder, fault	nm
+1140	falso 	FALSE	adj
+344	falta 	lack, shortage	nf [also carencia]
+510	faltar 	to be lacking	v
+1967	fama 	reputation, fame	nf
+201	familia 	family	nf
+744	familiar 	familiar, of the family (adj)	adj
+1934	familiar 	relative (nm)	nm
+713	famoso 	famous, well-known	adj
+2050	fantasía 	fantasy, fancy	nf
+2449	fantasma 	ghost, phantom	nm
+2360	fantástico 	fantastic, unreal	adj
+4290	farmacia 	pharmacy, drugstore	nf
+3853	fascinante 	fascinating	adj
+4854	fascinar 	to fascinate	v
+2310	fase 	phase, stage	nf
+2539	fatal 	fateful, deadly, awful	adj
+4303	fatiga 	fatigue	nf
+468	favor 	favor, benefit	nm
+2204	favorable 	favorable, suitable	adj
+2044	favorecer 	to favor, help	v
+2699	favorito 	favorite	adj
+1060	fe 	faith	nf
+1722	febrero 	February	nm
+749	fecha 	date, day	nf
+1892	felicidad 	happiness	nf
+3532	felicitar 	to congratulate	v
+956	feliz 	happy, fortunate	adj
+1345	femenino 	feminine, female	adj
+966	fenómeno 	phenomenon	nm
+2381	feo 	ugly, nasty, rude	adj
+3358	feria 	fair, festival	nf
+3560	feroz 	ferocious, fierce	adj
+2537	ferrocarril 	railway	nm
+4765	fértil 	fertile, rich	adj
+4328	fiar 	to vouch for, confide, trust	v
+3424	fibra 	fiber, grain	nf
+3165	ficción 	fiction	nf
+3736	ficha 	index card, chip, token	nf
+3885	fidelidad 	faithfulness, accuracy	nf
+2739	fiebre 	fever, excitement	nf
+1913	fiel 	faithful, loyal	adj
+4923	fiera 	wild beast	nf
+988	fiesta 	party, feast	nf
+495	figura 	figure	nf
+1227	figurar 	to appear, represent, figure in	v
+407	fijar 	to set, fix, [se] notice	v
+1061	fijo 	fixed, steady	adj
+1647	fila 	line, row, file	nf
+3309	filo 	cutting edge	nm
+1808	filosofía 	philosophy	nf
+2716	filosófico 	philosophical	adj
+2653	filósofo 	philosopher	nm
+3781	filtrar 	to seep, filter	v
+156	fin 	end	nm
+307	final 	al final: finally, in the end (nmf)	nmf
+771	final 	final (adj)	adj
+3287	finalidad 	purpose, aim	nf
+3011	finalizar 	to end, finalize	v
+728	finalmente 	finally, at last	adv
+4615	financiar 	to finance	v
+3289	financiero 	financial	adj
+4294	finca 	property, estate	nf
+4113	fingir 	to feign, pretend	v
+1348	fino 	fine, delicate	adj
+1567	firma 	company, signature, signing	nf
+870	firmar 	to sign	v
+1570	firme 	firm, steady	adj
+4677	firmemente 	firmly	adv
+4001	firmeza 	firmness	nf
+4423	fiscal 	fiscal, treasury (adj)	adj
+4612	fiscal 	district attorney, prosecutor (nc)	nc
+3852	físicamente 	physically	adv
+643	físico 	physical (adj)	adj
+3868	físico 	physicist (nm/f)	nm/f
+3673	flaco 	thin, frail	adj
+4781	flecha 	arrow, dart	nf
+3097	flexible 	flexible	adj
+950	flor 	flower	nf
+3628	florecer 	to flower, bloom, flourish	v
+2967	flotar 	to float, flutter	v
+3350	fluir 	to flow	v
+3624	flujo 	flow, tide, discharge	nm
+2843	foco 	focus	nm
+3676	fomentar 	to foster, promote, encourage	v
+318	fondo 	bottom, end	nm
+113	forma 	form, shape, way	nf
+938	formación 	formation, education	nf
+2036	formal 	formal, polite	adj
+287	formar 	to form	v
+3414	formidable 	formidable, tremendous	adj
+1546	fórmula 	formula	nf
+2462	formular 	to formulate	v
+4409	fortalecer 	to fortify	v
+3205	fortaleza 	fortress, strength	nf
+1782	fortuna 	fortune, fate	nf
+1959	forzar 	to force	v
+4803	fósforo 	match, match stick	nm
+2054	foto 	photo, picture	nf
+1385	fotografía 	photograph	nf
+4333	fotográfico 	photographic	adj
+4027	fotógrafo 	photographer	nm/f
+2277	fracasar 	to fail, to be unsuccessful	v
+1451	fracaso 	failure, collapse	nm
+4216	fracción 	fraction	nf
+3202	frágil 	fragile, weak	adj
+3004	fragmento 	fragment, passage	nm
+2909	francamente 	frankly, openly	adv
+646	francés 	French	adj
+3878	franco 	open, frank, outspoken	adj
+3670	franja 	strip, stripe, fringe	nf
+4477	frasco 	bottle, jar, flask	nm
+809	frase 	phrase	nf
+1137	frecuencia 	frequency	nf
+4037	frecuentar 	to frequent, visit	v
+1693	frecuente 	frequent	adj
+3753	frecuentemente 	frequently, often	adv
+2952	frenar 	to brake, restrain	v
+3513	freno 	brake	nm
+260	frente 	al frente: facing; frente a: across from	nmf
+2124	fresco 	cool, healthy, fresh (adj)	adj
+2679	fresco 	freshness, coolness (nm)	nm
+4827	frialdad 	coldness, indifference	nf
+907	frío 	cold (adj)	adj
+1120	frío 	cold (nm)	nm
+4936	frívolo 	trivial, frivolous	adj
+4837	frontal 	frontal	adj
+1150	frontera 	border, frontier	nf
+3096	frustración 	frustration	nf
+2801	frustrado 	frustrated	adj
+1701	fruta 	fruit	nf
+1490	fruto 	fruit, result	nm
+1346	fuego 	fire, gunfire	nm
+801	fuente 	source, fountain	nf
+451	fuera 	out, outside, away	adv
+1010	fuerte 	strong	adj
+3759	fuertemente 	strongly	adv
+255	fuerza 	strength, force, power	nf
+2895	fuga 	flight, escape	nf
+2472	fumar 	to smoke	v
+543	función 	function, meeting	nf
+3711	funcional 	functional	adj
+2258	funcionamiento 	functioning, operation	nm
+692	funcionar 	to work, function	v
+1653	funcionario 	civil servant	nm
+4058	fundación 	foundation	nf
+3577	fundador 	founder	nm
+1086	fundamental 	fundamental	adj
+2688	fundamentalmente 	fundamentally, basically	adv
+2597	fundamento 	foundation, ground	nm
+1117	fundar 	to found, base	v
+3893	fundir 	to melt, cast, smelt	v
+4095	furia 	fury, rage	nf
+3939	furioso 	furious	adj
+2513	fútbol 	soccer	nm
+623	futuro 	future (nm)	nm
+1300	futuro 	future (adj)	adj
+4514	gabinete 	cabinet, den, office	nm
+4075	gala 	gala (performance/dinner)	nf
+3191	galería 	gallery, balcony	nf
+3023	gallina 	hen, coward	nf
+3872	gallo 	rooster	nm
+4512	gama 	range, musical scale	nf
+1177	gana 	desire	nf
+2425	ganado 	livestock, cattle	nm
+4855	ganador 	winner	nm
+4155	ganancia 	gain, profit	nf
+286	ganar 	to win, earn	v
+2106	garantía 	guarantee, warranty	nf
+2345	garantizar 	to guarantee	v
+3090	garganta 	throat, gorge	nf
+4795	garra 	claw, fang	nf
+2144	gas 	gas	nm
+1526	gastar 	to spend money	v
+1249	gasto 	expense, expenditure	nm
+1412	gato 	cat	nm
+906	generación 	generation	nf
+227	general 	general (adj)	adj
+1400	general 	general (nm)	nm
+2621	generalizar 	to generalize, popularize	v
+1463	generalmente 	generally, usually	adv
+2157	generar 	to generate	v
+1501	género 	sort, gender, genre	nm
+3777	generosidad 	generosity	nf
+2398	generoso 	generous	adj
+4156	genético 	genetic	adj
+3216	genial 	brilliant, inspired	adj
+2654	genio 	genius, disposition	nm
+158	gente 	people	nf
+2670	geografía 	geography	nf
+3194	geográfico 	geographical	adj
+4557	geométrico 	geometric	adj
+2831	gestión 	management, step, negotiation	nf
+1065	gesto 	gesture	nm
+4264	gigante 	gigantic (adj)	adj
+4738	gigante 	giant (nc)	nc
+2970	gigantesco 	giant, gigantic	adj
+3903	gira 	tour	nf
+1371	girar 	to rotate, revolve	v
+2465	giro 	turn, draft, expression	nm
+3760	global 	global, overall	adj
+3408	globo 	balloon, globe	nm
+2146	gloria 	glory, fame	nf
+3689	glorioso 	glorious	adj
+3907	gobernador 	governor	nm
+4396	gobernante 	ruler, leader	nc
+2322	gobernar 	to govern	v
+476	gobierno 	government	nm
+657	golpe 	hit, strike, punch	nm
+1904	golpear 	to hit, strike	v
+3677	goma 	rubber	nf
+2217	gordo 	fat, thick	adj
+2619	gota 	drop	nf
+1304	gozar 	to enjoy	v [also disfrutar]
+4476	grabación 	recording	nf
+1448	grabar 	to record, engrave	v
+272	gracia 	thank you, grace, favor	nf
+3221	gracioso 	funny, charming, amusing	adj
+756	grado 	degree, grade	nm
+4336	gráfico 	graphic, explicit	adj
+62	grande 	large, great, big	adj
+3252	grandeza 	greatness, size	nf
+4491	grandioso 	magnificent, grandiose	adj
+2748	grano 	grain, kernel	nm
+3275	grasa 	grease, fat	nf
+4682	gratitud 	gratitude	nf
+3442	grato 	agreeable, pleasant	adj
+3299	gratuito 	free, arbitrary, gratuitous	adj
+548	grave 	serious, solemn	adj
+2596	gravedad 	seriousness, gravity	nf
+1467	griego 	Greek	adj
+4788	grieta 	crack, opening, slit	nf
+2290	gris 	gray, gloomy	adj
+1597	gritar 	to shout	v
+1671	grito 	cry, shout, scream	nm
+4096	grosero 	crude, rude, crass	adj
+4874	grotesco 	grotesque, ridiculous	adj
+2262	grueso 	thick (adj)	adj
+4474	grueso 	bulk, mass (nm)	nm
+216	grupo 	group	nm
+3392	guante 	glove	nm
+4140	guapo 	handsome, beautiful	adj
+566	guardar 	to keep, save	v
+1842	guardia 	guard, watch, lookout	nc
+377	guerra 	war, warfare	nf
+4787	guerrero 	warrior, warlike (adj)	adj
+4885	guerrero 	warrior, soldier (nm/f)	nm/f
+2318	guía 	guide, leader	nc
+2522	guiar 	to guide, lead, steer	v
+2885	guitarra 	guitar	nf
+4559	gusano 	worm, caterpillar	nm
+353	gustar 	to be pleasing to	v
+593	gusto 	pleasure, taste, preference	nm
+11	haber 	to have (aux v)	v
+2997	hábil 	skillful, clever	adj
+1582	habilidad 	ability, skill, talent	nf
+1610	habitación 	room, bedroom, habitat	nf
+1287	habitante 	inhabitant	nm
+2624	habitar 	to inhabit	v
+1596	hábito 	habit	nm
+1403	habitual 	usual, habitual, customary	adj
+3245	habitualmente 	habitually	adv
+2729	habla 	speech, talking	nf el
+92	hablar 	to speak, talk	v
+25	hacer 	to do, to make	v
+125	hacia 	toward, towards	prep
+3561	hacienda 	ranch	nf
+1166	hallar 	to find out	v
+3337	hallazgo 	finding, discovery	nm
+1204	hambre 	hunger, starvation	nf el
+3614	harina 	flour	nf
+2600	harto 	fed up with	adj
+54	hasta 	until, up to, even (adv)	prep
+3857	hazaña 	deed, heroic feat	nf
+235	hecho 	fact, happening	nm
+4991	hectárea 	hectare	nf
+2987	helado 	iced, freezing, icy	adj
+3379	hembra 	female, woman	nf
+2555	heredar 	to inherit	v
+3968	heredero 	heir, heiress	nm
+2016	herencia 	inheritance, legacy	nf
+2460	herida 	wound, injury	nf
+2647	herido 	wounded, injured (adj)	adj
+4469	herido 	wounded (person) (nm)	nm
+3109	herir 	to wound, hurt	v
+1256	hermana 	sister	nf
+539	hermano 	brother, [pl] siblings	nm
+1224	hermoso 	beautiful, lovely	adj
+2186	héroe 	hero	nm
+3351	heroico 	heroic	adj
+2498	herramienta 	tool	nf
+4065	hervir 	to boil	v
+2321	hielo 	ice	nm
+2850	hierba 	herb, grass, weed	nf
+1716	hierro 	iron	nm
+4203	hígado 	liver	nm
+4973	higiene 	hygiene	nf
+715	hija 	daughter	nf
+166	hijo 	son, [pl] children	nm
+1851	hilo 	thread, yarn, wire	nm
+3881	himno 	hymn, anthem	nm
+2461	hipótesis 	hypothesis	nf
+4983	hispano 	Hispanic	adj
+192	historia 	history, story	nf
+3159	historiador 	historian	nm/f
+980	histórico 	historical	adj
+992	hogar 	home, hearth	nm
+1000	hoja 	sheet, leaf	nf
+4752	hola 	hello, hi	interj
+4206	holandés 	Dutch	adj
+80	hombre 	man, mankind, husband	nm
+1927	hombro 	shoulder	nm
+2396	homenaje 	homage, tribute	nm
+2549	hondo 	deep	adj
+3326	honesto 	honest	adj
+1211	honor 	honor, honesty	nm
+4428	honrado 	honest, respectable	adj
+3931	honrar 	to honor	v
+143	hora 	hour, time (specific)	nf
+2095	horario 	schedule, timetable	nm
+3728	horizontal 	horizontal	adj
+2140	horizonte 	horizon	nm
+4553	hormiga 	ant	nf
+3432	horno 	oven, furnace	nm
+2738	horrible 	horrible	adj
+2334	horror 	horror, atrocity	nm
+1298	hospital 	hospital	nm
+3871	hostil 	hostile, unfriendly	adj
+4667	hostilidad 	hostility, enmity	nf
+1643	hotel 	hotel	nm
+164	hoy 	today, nowadays	adv
+2880	hueco 	hole, cavity (nm)	nm
+4714	hueco 	hollow (adj)	adj
+2604	huelga 	strike, protest	nf
+2099	huella 	trace, track, footstep	nf
+1695	hueso 	bone	nm
+1900	huevo 	egg	nm
+1574	huir 	to flee, run away	v
+1566	humanidad 	humanity, mankind	nf
+218	humano 	human (adj)	adj
+3586	humano 	human (nm)	nm
+2777	humedad 	humidity	nf
+2665	húmedo 	humid, damp	adj
+2367	humilde 	humble, modest	adj
+4456	humillación 	humiliation	nf
+2789	humo 	smoke	nm
+1889	humor 	mood, humor	nm
+4055	hundido 	buried, sunken	adj
+1850	hundir 	to sink, submerge	v
+4164	ida 	departure, first half of a trip	nf
+193	idea 	idea	nf
+1702	ideal 	ideal, goal (nm)	nm
+1717	ideal 	ideal (adj)	adj
+2085	idéntico 	identical	adj
+1583	identidad 	identity	nf
+2897	identificación 	identification	nf
+986	identificar 	to identify	v
+3369	ideología 	ideology	nf
+2917	ideológico 	ideological	adj
+1027	idioma 	language	nm
+4769	idiota 	idiot, dunce	nc
+1111	iglesia 	church	nf
+3076	ignorancia 	ignorance	nf
+3467	ignorante 	ignorant	adj
+1247	ignorar 	to be unaware	v
+239	igual 	equal, same as	adj
+4114	igualar 	to equate, equalize	v
+2867	igualdad 	equality	nf
+1431	igualmente 	equally	adv
+4659	ilegal 	illegal	adj
+4674	ilimitado 	unlimited	adj
+3989	iluminación 	illumination, lighting	nf
+3342	iluminado 	illuminated	adj
+2515	iluminar 	to illuminate, light up	v
+1372	ilusión 	illusion, hope, dream	nf
+4309	ilustración 	illustration	nf
+3473	ilustrado 	learned, illustrated	adj
+3941	ilustrar 	to illustrate	v
+2771	ilustre 	renowned, illustrious	adj
+484	imagen 	image, picture	nf
+1838	imaginación 	imagination, fantasy	nf
+486	imaginar 	to imagine	v
+3504	imaginario 	imaginary	adj
+4209	imitación 	imitation	nf
+2063	imitar 	to imitate, copy, mimic	v
+2390	impacto 	impact	nm
+4736	impartir 	to impart, administer	v
+4575	impecable 	impeccable, faultless	adj
+751	impedir 	to prevent, hinder	v
+4357	imperial 	imperial, imperialist	adj
+3032	imperio 	empire, fortune	nm
+4584	implacable 	relentless, implacable	adj
+1788	implicar 	to implicate, imply	v
+4909	imponente 	impressive, magnificent	adj
+641	imponer 	to impose, enforce	v
+4753	importado 	imported	adj
+429	importancia 	importance	nf
+207	importante 	important	adj
+464	importar 	to matter, import	v
+4052	imposibilidad 	impossibility	nf
+592	imposible 	impossible	adj
+4028	imposición 	imposition	nf
+4664	impotencia 	impotence	nf
+4825	impreciso 	imprecise	adj
+4453	imprenta 	printing house	nf
+2617	imprescindible 	essential, indispensable	adj
+874	impresión 	impression, printing	nf
+2320	impresionante 	impressive, astonishing	adj
+2292	impresionar 	to impress	v
+3697	impreso 	printed	adj
+4436	imprevisto 	unforeseen, unexpected	adj
+2502	imprimir 	to print	v
+3144	improvisar 	to improvise	v
+2806	impuesto 	tax	nm
+1875	impulsar 	to push, promote, drive	v
+1520	impulso 	impulse, momentum	nm
+2403	inaugurar 	to inaugurate, start	v
+3730	incapacidad 	inability, incompetence	nf
+1733	incapaz 	incapable	adj
+2695	incendio 	fire, conflagration	nm
+2972	incertidumbre 	uncertainty	nf
+4832	incidencia 	ocurrence, impact	nf
+3003	incidente 	incident	nm
+4841	incidir 	to influence, affect	v
+3536	incierto 	uncertain	adj
+4178	incipiente 	incipient, beginning	adj
+3877	incitar 	to incite	v
+2035	inclinación 	slope, incline, tendency	nf
+2835	inclinado 	inclined, slanting	adj
+1814	inclinar 	to bow, tilt, incline	v
+720	incluir 	to include	v
+3568	inclusive 	including, even	adv
+294	incluso 	including, even (adv)	adv
+2535	incómodo 	uncomfortable	adj
+4134	incomprensible 	incomprehensible	adj
+2705	inconsciente 	unconscious, thoughtless	adj
+2151	inconveniente 	inconvenience, drawback	nm
+4301	incorporación 	inclusion, incorporation	nf
+1087	incorporar 	to incorporate, include	v
+1669	increíble 	incredible, unbelievable	adj
+3964	incrementar 	to increase	v [also aumentar]
+4866	incremento 	increase, raise	nm
+4867	incurrir 	to incur, fall into	v
+4965	incursión 	invasion, incursion	nf
+4515	indagar 	to investigate	v [also investigar]
+4471	indefinido 	vague, indefinite	adj
+1767	independencia 	independence	nf
+1291	independiente 	independent, self-sufficient	adj
+4135	independientemente 	independently	adv
+4084	indicación 	indication	nf
+479	indicar 	to indicate	v
+2000	índice 	index, forefinger	nm
+3184	indicio 	indication, sign	nm
+3217	indiferencia 	indifference	nf
+2902	indiferente 	indifferent	adj
+2302	indígena 	indigenous, native	adj
+4122	indignación 	indignation	nf
+1411	indio 	Indian	nm
+3061	indirecto 	indirect	adj
+4452	indiscutible 	indisputable, unquestionable	adj
+1949	indispensable 	indispensable, essential	adj
+1482	individual 	individual	adj
+1037	individuo 	individual, person	nm
+2927	índole 	nature, temperament	nf
+2857	inducir 	to lead to	v
+4002	indudable 	unquestionable	adj
+3360	indudablemente 	doubtless, undoubtedly	adv
+1884	industria 	industry, factory	nf
+2005	industrial 	industrial	adj
+3879	inédito 	unpublished	adj
+2904	inesperado 	unexpected, unforeseen	adj
+4926	inestable 	unstable, unsteady	adj
+1694	inevitable 	inevitable, unavoidable	adj
+3842	inevitablemente 	inevitably	adv
+4792	inexistente 	non-existent	adj
+4358	inexplicable 	unexplainable	adj
+1928	infancia 	infancy, childhood	nf
+1186	infantil 	of children, childlike, infantile	adj
+4703	infección 	infection	nf
+4161	infeliz 	unhappy, unfortunate	adj
+1350	inferior 	lower, inferior	adj
+3062	infierno 	hell, inferno	nm
+4127	infinidad 	infinity, countless	nf
+2215	infinito 	infinite (adj)	adj
+4839	infinito 	infinite, infinity (nm)	nm
+1102	influencia 	influence	nf
+2022	influir 	to have influence	v
+682	información 	information	nf
+835	informar 	to inform	v
+4744	informativo 	informative	adj
+1548	informe 	report	nm
+1761	ingeniero 	engineer	nm/f
+3378	ingenio 	ingenuity, talent, wit	nm
+4549	ingenioso 	ingenious, clever	adj
+3507	ingenuo 	naive, ingenuous	adj
+608	inglés 	English	adj
+4708	ingrediente 	ingredient	nm
+1791	ingresar 	to join, deposit, admit	v
+1690	ingreso 	entrance, admission, income	nm
+1879	inicial 	initial (adj)	adj
+4830	inicial 	initial (letters) (nf)	nf
+4920	inicialmente 	initially	adv
+568	iniciar 	to initiate, start	v
+1668	iniciativa 	initiative	nf
+2512	inicio 	beginning, start	nm
+2554	injusticia 	injustice	nf
+2378	injusto 	unfair, unjust	adj
+882	inmediatamente 	immediately	adv
+724	inmediato 	immediate	adj
+1074	inmenso 	immense, vast, huge	adj
+4144	inmerso 	engrossed, immersed	adj
+4993	inmigrante 	immigrant	nc
+4351	inminente 	imminent	adj
+4093	inmóvil 	immovable, motionless	adj
+3248	innecesario 	unnecessary	adj
+4482	innovación 	innovation	nf
+3399	innumerable 	innumerable, countless	adj
+3520	inocencia 	innocence	nf
+2538	inocente 	innocent, naïve	adj
+4251	inolvidable 	unforgettable	adj
+4478	inquietante 	disquieting	adj
+4490	inquietar 	to make uneasy, disturb	v
+2986	inquieto 	restless, anxious	adj
+1453	inquietud 	restlessness, anxiety	nf
+3993	inscribir 	to register, record	v [also registrar]
+3684	inscripción 	inscription, registration	nf
+3542	insecto 	insect	nm
+3738	inseguridad 	insecurity	nf
+4529	inseguro 	unsure, unsafe	adj
+4922	inseparable 	inseparable	adj
+4785	insertar 	to insert, put in	v
+3747	insignificante 	insignificant	adj
+3453	insinuar 	to insinuate, hint	v
+3587	insistencia 	insistence, persistence	nf
+699	insistir 	to insist on	v
+3951	insólito 	unusual, uncommon	adj
+3401	insoportable 	unbearable, intolerable	adj
+4829	inspección 	inspection	nf
+4521	inspector 	inspector	nm/f
+3055	inspiración 	inspiration, inhalation	nf
+2072	inspirar 	to inspire, inhale	v
+2395	instalación 	installation, facilities	nf
+958	instalar 	to install	v
+2495	instancia 	instance	nf
+1215	instante 	instant, moment	nm
+2914	instinto 	instinct	nm
+1115	institución 	institution	nf
+4595	institucional 	institutional	adj
+3699	instituto 	institute	nm
+1611	instrucción 	instruction	nf
+4918	instruir 	to instruct	v
+813	instrumento 	instrument	nm
+3278	insuficiente 	insufficient	adj
+4390	insultar 	to insult, berate	v
+3622	insulto 	insult	nm
+3259	intacto 	intact	adj
+4174	integración 	integration	nf
+3889	integrante 	integral, part of a group	adj
+1439	integrar 	to integrate, fit in	v
+4105	integridad 	integrity	nf
+4754	íntegro 	whole, entire, honest	adj
+1103	intelectual 	intellectual	adj
+1375	inteligencia 	intelligence	nf
+1447	inteligente 	intelligent	adj
+876	intención 	intention	nf
+3914	intensamente 	intensely	adv
+2174	intensidad 	intensity, force	nf
+1119	intenso 	intense, acute	adj
+376	intentar 	to try, attempt	v
+1012	intento 	attempt, try	nm
+3704	intercambiar 	to exchange	v
+2490	intercambio 	exchange, interchange	nm
+308	interés 	interest	nm
+1605	interesado 	interested	adj
+762	interesante 	interesting	adj
+448	interesar 	to interest	v
+614	interior 	interior, inside (nm)	nm
+1263	interior 	interior, inside (adj)	adj
+3657	interlocutor 	participant in a dialog	nm
+3223	intermedio 	interim, intermediate (adj)	adj
+4777	intermedio 	means, interval (nm)	nm
+3235	interminable 	endless, interminable	adj
+1189	internacional 	international	adj
+4899	internar 	to confine	v
+783	interno 	internal	adj
+4229	interponer 	to interpose, intervene	v
+1468	interpretación 	interpretation, interpreting	nf
+983	interpretar 	to interpret	v
+4716	intérprete 	performer, interpreter	nc
+4190	interrogante 	question, interrogator	nc
+3746	interrogar 	to question, interrogate	v
+1405	interrumpir 	to interrupt	v
+3518	interrupción 	interruption	nf
+4214	intervalo 	interval, gap	nm
+1615	intervención 	intervention	nf
+847	intervenir 	to intervene	v
+4083	íntimamente 	intimately	adv
+2540	intimidad 	private life, intimacy	nf
+1684	íntimo 	close, intimate	adj
+3346	introducción 	introduction	nf
+949	introducir 	to introduce, bring in	v
+3509	intuición 	intuition	nf
+4368	intuir 	to sense	v
+4902	inundación 	flood, deluge	nf
+4090	inundar 	to flood, inundate	v
+1564	inútil 	useless	adj
+1764	invadir 	to invade, overcome	v
+2573	invasión 	invasion	nf
+3510	invención 	invention, contrivance	nf
+1018	inventar 	to invent, make up	v
+3086	invento 	invention	nm
+2458	inversión 	investment, outlay	nf
+3703	inverso 	inverse, opposite	adj
+4374	invertido 	reversed, inverted	adj
+1945	invertir 	to invest	v
+890	investigación 	investigation	nf
+2981	investigador 	researcher, investigator	nm/f
+1749	investigar 	to investigate	v [also indagar]
+1340	invierno 	winter	nm
+3572	invisible 	invisible	adj
+2300	invitación 	invitation	nf
+2583	invitado 	guest	nm
+954	invitar 	to invite	v
+4252	invocar 	to invoke	v
+4790	involuntario 	involuntary	adj
+4658	inyección 	shot, injection	nf
+30	ir 	to go	v
+3545	ira 	rage, wrath	nf
+3531	ironía 	irony	nf
+4536	irónico 	ironic, mocking	adj
+4053	irracional 	irrational	adj
+4966	irreal 	unreal	adj
+3214	irregular 	irregular	adj
+4847	irreversible 	irreversible	adj
+4711	irritar 	to irritate	v
+4994	irrumpir 	to burst in, raid	v
+1229	isla 	island	nf
+953	italiano 	Italian	adj
+940	izquierda 	left	nf
+1703	izquierdo 	left (opposite of right)	adj
+788	jamás 	never	adv
+2169	japonés 	Japanese	adj
+1837	jardín 	garden	nm
+4005	jaula 	cage, crate, playpen	nf
+761	jefe 	leader, boss, manager	nm/f
+3335	jerarquía 	hierarchy, rank	nf
+4789	jinete 	rider, horseman	nm
+4535	joder 	to f**k, screw (around/up)	v
+2007	jornada 	working day, shift	nf
+442	joven 	young (adj)	adj
+581	joven 	teenager, young person (nc)	nc
+4300	jovencito 	young person	nm
+2698	joya 	jewel, treasure	nf
+2957	judicial 	judicial	adj
+2319	judío 	Jewish	adj
+371	juego 	game, play, sport	nm
+2606	jueves 	Thursday	nm
+1259	juez 	judge	nc
+4998	jugada 	move, play	nf
+3168	jugador 	player, gambler	nm
+355	jugar 	to play (sport/game)	v
+3712	jugo 	juice	nm
+2672	juguete 	toy	nm
+795	juicio 	judgment	nm
+1559	julio 	July	nm
+2349	junio 	June	nm
+3213	junta 	meeting, conference, seam	nf
+2280	juntar 	to put togerther, to get together	v [also reunir]
+378	junto 	together with, next to (adv)	adv
+729	junto 	together (adj)	adj
+2846	jurar 	to swear, take an oath	v
+2769	jurídico 	legal, juridical	adj
+1485	justamente 	just, exactly	adv
+1290	justicia 	justice, fairness	nf
+3211	justificación 	justification	nf
+4331	justificado 	justifiable, justified	adj
+1308	justificar 	to justify, excuse	v
+915	justo 	just (adv)	adv
+1834	justo 	fair, just (adj)	adj
+2561	juvenil 	young, juvenile	adj
+1311	juventud 	youth	nf
+1396	juzgar 	to judge	v
+2648	kilo 	kilogram	nm
+1297	kilómetro 	kilometer	nm
+33	la 	3rd person dir obj-f	pron
+4348	laberinto 	maze, labyrinth	nm
+2759	labio 	lip	nm
+930	labor 	labor, work, task	nf
+3268	laboral 	labor, industry	adj
+2264	laboratorio 	laboratory	nm
+4941	laborioso 	laborious, industrious	adj
+165	lado 	side	nm
+3056	ladrillo 	brick	nm
+449	ladrón 	thief	nm
+2680	lago 	lake	nm
+2386	lágrima 	tear, teardrop	nf
+2961	laguna 	lagoon	nf
+3232	lamentable 	regrettable	adj
+3919	lamentablemente 	regrettably	adv
+2509	lamentar 	to regret	v
+3770	lámina 	sheet of metal	nf
+3347	lámpara 	lamp	nf
+3060	lana 	wool	nf
+611	lanzar 	to throw (violently), to hurl [also arrojar]	v
+3296	lápiz 	pencil	nm
+4080	lapso 	lapse	nm
+4888	largamente 	for a long time, at length	adv
+4767	largar 	to let go, start out	v
+175	largo 	long (adj)	adj
+1640	largo 	length (nm)	nm
+4608	larguísimo 	very long	adj
+3294	lástima 	shame, pity	nf
+2493	lata 	tin can	nf
+4201	latente 	latent	adj
+4007	lateral 	side, lateral	adj
+3040	latín 	Latin (nm)	nm
+1862	latino 	Latin (adj)	adj
+3971	latinoamericano 	Latin American	adj
+4379	latir 	to beat (heart)	v
+4771	latitud 	latitude	nf
+1762	lavar 	to wash	v
+2612	lazo 	bow, knot, tie, lasso	nm
+19	le 	3rd person indir obj	pron
+3897	leal 	loyal, faithful	adj
+3996	lealtad 	loyalty, faithfulness	nf
+1977	lección 	lesson	nf
+1334	leche 	milk	nf
+3732	lecho 	bed	nm
+1810	lector 	reader, lecturer	nm
+839	lectura 	reading	nf
+244	leer 	to read	v
+2017	legal 	legal	adj
+4760	legislación 	legislation	nf
+2966	legítimo 	legitimate	adj
+1152	lejano 	distant	adj
+469	lejos 	far away, far off	adv
+3838	lema 	motto, slogan	nm
+4185	leña 	firewood	nf
+596	lengua 	language, tongue, strip of land	nf
+841	lenguaje 	language, speech	nm
+1975	lentamente 	slowly	adv
+4193	lente 	lens, [pl] glasses	nmf
+3875	lentitud 	slowness	nf
+1128	lento 	slow	adj
+2756	león 	lion	nm
+4527	lesión 	injury, wound, harm	nf
+865	letra 	letter, handwriting, lyrics	nf
+372	levantar 	to raise, lift	v
+2671	leve 	slight, trifling, light	adj
+384	ley 	law, bill, rule	nf
+2031	leyenda 	legend	nf
+2361	liberación 	liberation	nf
+2014	liberal 	liberal	adj
+1363	liberar 	to free, liberate	v
+435	libertad 	freedom, liberty	nf
+4964	libra 	pound (money/weight)	nf
+2556	librar 	to liberate, set free	v
+413	libre 	free, vacant	adj
+2804	libremente 	freely	adv
+4577	librería 	bookstore	nf
+253	libro 	book	nm
+3415	licencia 	license, permission	nf
+2427	líder 	leader	nc
+2926	ligado 	linked, joined	adj
+4645	ligar 	to tie, link, bind	v
+2974	ligeramente 	slightly, lightly	adv
+1696	ligero 	light (in weight), slight	adj
+2581	limitación 	limitation	nf
+1866	limitado 	limited	adj
+1021	limitar 	to limit	v
+934	límite 	limit	nm
+4779	limosna 	alms, charity	nf
+1537	limpiar 	to clean	v
+2447	limpieza 	cleanliness, purity	nf
+1397	limpio 	clean	adj
+2582	lindo 	pretty, nice, lovely	adj
+473	línea 	line, course	nf
+3890	lingüístico 	linguistic	adj
+4235	lío 	mess, problem, bad situation	nm
+4347	liquidar 	to liquidate, sell off	v
+2438	líquido 	liquid	nm
+3632	liso 	smooth, flat, straight	adj
+1049	lista 	list, roster, roll	nf
+1456	listo 	ready, clever, smart	adj
+3750	literalmente 	literally	adv
+1494	literario 	literary	adj
+1090	literatura 	literature	nf
+4239	litro 	liter	nm
+4242	liviano 	light, frivolous	adj
+3835	llama 	flame, llama	nf
+1022	llamada 	call, knock	nf
+1510	llamado 	call, calling	nm
+104	llamar 	to call, name	v [also denominar]
+4322	llamativo 	striking	adj
+4694	llano 	flat, level, plain	adj
+4163	llanto 	crying, weeping	nm
+4196	llanura 	plain, prairie, plainness	nf
+2150	llave 	key, faucet, wrench	nf
+1616	llegada 	arrival	nf
+66	llegar 	to arrive	v
+925	llenar 	to fill	v
+508	lleno 	full, filled (as an object would de filled)	adj
+93	llevar 	to take, carry	v
+1466	llorar 	to cry	v
+2053	llover 	to rain	v
+1217	lluvia 	rain	nf
+20	lo 	the (neuter art)	art
+21	lo 	3rd person dir obj-m	pron
+3898	lobo 	wolf	nm
+1516	local 	local (adj)	adj
+1880	local 	place, quarters (nm)	nm
+3894	localidad 	town, locality	nf
+3102	localizar 	to locate, find, localize	v
+1377	loco 	crazy, insane	adj
+2441	locura 	madness, insanity	nf
+2015	lógica 	logic	nf
+3470	lógicamente 	logically	adv
+1214	lógico 	logical	adj
+311	lograr 	to get, to manage to (do something)	v
+3433	logro 	success, achievement	nm
+4868	lomo 	back, loin, spine	nm
+4434	longitud 	length, longitude	nf
+758	lucha 	fight, struggle, wrestle	nf
+1026	luchar 	to fight, wrestle	v
+2741	lucir 	to show off, shine	v
+132	luego 	later, afterwards	adv
+135	lugar 	place, position	nm
+1614	lujo 	luxury	nm
+3866	lujoso 	luxurious	adj
+2651	luminoso 	bright, luminous	adj
+2394	luna 	moon	nf
+2187	lunes 	Monday	nm
+256	luz 	light	nf
+3239	macho 	male, manliness	nm
+987	madera 	wood	nf
+278	madre 	mother	nf
+2241	madrugada 	dawn, daybreak	nf [also alba]
+3819	madurar 	to mature, ripen	v
+2684	madurez 	maturity, ripeness	nf
+2578	maduro 	mature, ripe	adj
+3966	maestra 	teacher (f)	nf
+961	maestro 	teacher (m), master (nm)	nm
+1469	maestro 	master (adj)	adj
+3019	magia 	magic	nf
+2708	mágico 	magic, magical	adj
+1812	magnífico 	magnificent, splendid	adj
+2863	magnitud 	magnitude, extent	nf
+3314	maíz 	corn, maize	nm
+301	mal 	badly (adv)	adv
+1580	mal 	evil (nm)	nm
+4646	maldad 	evil, wickedness	nf
+4948	maldición 	damnation, curse	nf
+4088	maldito 	damned, wretched	adj
+3496	malestar 	discomfort, unease, unrest	nm
+4146	maleta 	suitcase, case	nf
+4710	maligno 	evil, malignant	adj
+275	malo 	bad	adj
+2286	mamá 	mom	nf
+401	mañana 	morning, tomorrow (nf)	nf
+1235	mañana 	tomorrow (adv)	adv
+2491	mancha 	stain, spot	nf
+529	mandar 	to send, order	v
+3443	mandato 	mandate, order, command	nm
+2125	mando 	command, authority	nm
+916	manejar 	to drive, handle	v
+2385	manejo 	handling, management	nm
+152	manera 	way, manner (nf)	nf
+3266	manga 	sleeve	nf
+4256	mango 	handle, mango	nm
+4562	manía 	obsession, mania	nf
+1551	manifestación 	protest, manifestation	nf
+1069	manifestar 	to express, show	v
+3111	manifiesto 	poner de manifiesto: to show	nm
+2903	maniobra 	maneuver, operation	nf
+4145	manipular 	to manipulate, handle	v
+150	mano 	hand	nf
+4063	manta 	blanket	nf
+234	mantener 	to keep, maintain	v
+3720	mantenimiento 	maintenance, sustenance	nm
+3904	manto 	cloak	nm
+3929	manual 	manual, handbook (nm)	nm
+4271	manual 	manual (adj)	adj
+2853	manzana 	apple, city block	nf
+2185	mapa 	map	nm
+806	máquina 	machine	nf
+3582	maquinaria 	machinery	nf
+645	mar 	sea	nmf
+2023	maravilla 	wonder, marvel	nf
+1743	maravilloso 	wonderful, marvelous	adj
+1370	marca 	mark, brand, trademark	nf
+677	marcar 	to mark, note, dial	v
+785	marcha 	march, progress	nf
+1203	marchar 	to walk, to work (like a machine)	v
+1316	marco 	frame, mark, setting	nm
+4109	marea 	wave, tide, ebb	nf
+1413	margen 	edge, margin, border, brink	nmf
+3721	marginal 	marginal, minor	adj
+1032	marido 	husband	nm
+4949	marinero 	sailor	nm/f
+2720	marino 	marine, naval	adj
+3883	mariposa 	butterfly, wing nut	nf
+4199	mármol 	marble	nm
+4951	marrón 	brown	adj
+3490	martes 	Tuesday	nm
+4688	martillo 	hammer	nm
+2002	marzo 	March	nm
+777	mas 	but, however	conj
+24	más 	more	adj
+935	masa 	mass, dough, bulk, crowd	nf
+3449	máscara 	mask	nf
+2142	masculino 	masculine, manly, male	adj
+3778	masivo 	mass, massive	adj
+4626	matanza 	slaughter, carnage	nf
+557	matar 	to kill	v
+3865	mate 	mate (beverage)	nm
+3257	matemática 	mathematics	nf
+3912	matemático 	mathematical	adj
+668	materia 	matter, subject	nf
+656	material 	material, element (nm)	nm
+1414	material 	material (adj)	adj
+3167	materno 	maternal	adj
+2291	matiz 	shade, tint, nuance	nm
+4307	matrimonial 	matrimonial	adj
+1109	matrimonio 	marriage, married couple	nm
+1089	máximo 	maximum (adj)	adj
+2308	máximo 	maximum (nm)	nm
+1422	mayo 	May	nm
+138	mayor 	larger, older, main	adj
+531	mayoría 	majority	nf
+35	me 	me (pron)	pron [also mí]
+3949	mecánica 	mechanics, mechanism	nf
+1973	mecánico 	mechanical	adj
+1599	mecanismo 	mechanism	nm
+3995	medalla 	medal, medallion	nf
+2342	media 	average; a m.: halfways	nf
+2566	mediado 	mid, middle	adj
+3103	mediano 	average, medium, ordinary	adj
+896	mediante 	by means of	prep
+4655	mediar 	to mediate	v
+4669	medicamento 	medicine, drug	nm
+1725	medicina 	medicine	nf
+564	médico 	doctor (nm/f)	nm/f
+1170	médico 	medical (adj)	adj
+333	medida 	measure; a medida que: to the extent	nf
+4426	medieval 	medieval	adj
+171	medio 	means, middle (nm)	nm
+208	medio 	half, middle (adj)	adj
+4042	mediocre 	mediocre	adj
+2618	mediodía 	noon, midday	nm
+929	medir 	to measure	v
+3901	meditar 	to meditate, ponder	v
+4528	mejilla 	cheek	nf
+121	mejor 	best, better (adv)	adj
+3044	mejora 	improvement	nf
+960	mejorar 	to improve, get better	v
+4684	melancólico 	melancholy	adj
+4311	melodía 	melody	nf
+605	memoria 	memory	nf
+3291	mención 	mention	nf
+905	mencionar 	to mention, cite	v
+334	menor 	younger, youngest	adj
+98	menos 	less, fewer	adj
+1047	mensaje 	message	nm
+3618	mensual 	monthly	adj
+1674	mental 	mental	adj
+3334	mentalidad 	mindset, mind	nf
+4932	mentalmente 	mentally	adv
+993	mente 	mind	nf
+2416	mentir 	to (tell a) lie	v
+1768	mentira 	lie	nf
+609	mercado 	market	nm
+2935	mercancía 	goods, merchandise	nf
+4397	merced 	favor, mercy	nf
+716	merecer 	to deserve, be worthy of	v
+1935	mérito 	worth, merit	nm
+2060	mero 	mere	adj
+210	mes 	month	nm
+461	mesa 	table, board	nf
+2293	meta 	goal, aim, purpose	nf
+4568	metáfora 	metaphor	nf
+2075	metal 	metal	nm
+2842	metálico 	metallic	adj
+573	meter 	to put into	v
+1129	método 	method	nm
+563	metro 	meter (unit of measure), subway	nm
+3892	mexicano 	Mexican	adj
+1606	mezcla 	mixture, blend	nf
+2579	mezclado 	mixed	adj
+1500	mezclar 	to mix	v
+49	mi 	my	adj
+357	mí 	me (pron)	pron [also me]
+4834	micrófono 	microphone	nm
+450	miedo 	fear	nm [also temor]
+2990	miel 	honey	nf
+732	miembro 	member, limb	nm
+154	mientras 	while, whereas, as long as	conj
+3431	miércoles 	Wednesday	nm
+4355	mierda 	shit, crap, excrement	nf
+217	mil 	thousand	num
+2181	milagro 	miracle	nm
+856	militar 	military (adj)	adj
+1697	militar 	soldier, military person (nm)	nm
+523	millón 	million, fortune	num
+3013	mina 	mine (nf)	nf
+990	mínimo 	minimum (adj)	adj
+2343	mínimo 	minimum (nm)	nm
+3136	ministerio 	ministry	nm
+1519	ministro 	government secretary, minister	nm/f
+4137	minoría 	minority	nf
+4394	minucioso 	meticulous, thorough	adj
+4636	minúsculo 	minute, insignificant	adj
+459	minuto 	minute	nm
+872	mío 	mine (pron)	pron
+1197	mirada 	gaze, look	nf
+142	mirar 	to look, watch	v
+2510	misa 	religious mass	nf
+3441	miserable 	wretched, miserable	adj
+1963	miseria 	misery, wretchedness	nf
+1432	misión 	mission, task	nf
+4900	mismísimo 	very same	adj
+51	mismo 	same	adj
+2223	misterio 	mystery	nm
+2849	misterioso 	mysterious	adj
+4881	místico 	mystical	adj
+625	mitad 	half, middle	nf
+2467	mito 	myth	nm
+4277	mixto 	mixed, co-ed	adj
+1180	moda 	fashion, form	nf
+4506	modalidad 	mode, manner	nf
+747	modelo 	model, pattern	nc
+671	moderno 	modern	adj
+2024	modesto 	modest, humble	adj
+3717	modificación 	modification, alteration	nf
+1758	modificar 	to modify	v
+198	modo 	way, manner (nm)	nm
+4383	mojado 	wet	adj
+3766	mojar 	to make wet, dampen	v
+3800	molde 	mold, cast, pattern	nm
+1272	molestar 	to bother, disturb, upset	v
+3481	molestia 	bother, nuisance, trouble	nf
+3371	molesto 	annoyed, bothered, upset	adj
+4893	molino 	mill, windmill	nm
+108	momento 	moment, time	nm
+1107	moneda 	coins, currency	nf
+3548	monja 	nun	nf
+3471	mono 	monkey	nm
+4433	monótono 	monotonous	adj
+3405	monstruo 	monster, monstrosity	nm
+4842	monstruoso 	monstrous	adj
+1212	montaña 	mountain (nf)	nf
+998	montar 	to ride, mount, assemble	v
+1844	monte 	mountain (nm)	nm
+1946	montón 	lot of, heap, pile	nm
+4990	monumental 	monumental	adj
+2889	monumento 	monument	nm
+1082	moral 	moral (adj)	adj
+1756	moral 	morals, ethics (nf)	nf
+3588	morder 	to bite	v
+2303	moreno 	dark, brown	adj
+293	morir 	to die	v
+3112	mortal 	mortal, lethal, deadly (adj)	adj
+4879	mortal 	mortal (nc)	nc
+4861	mosaico 	mosaic	nm
+2956	mosca 	fly (insect)	nf
+392	mostrar 	to show	v
+3416	motivación 	motivation	nf
+3071	motivar 	to motivate, cause	v
+504	motivo 	motive, cause	nm
+1698	motor 	engine, motor	nm
+402	mover 	to move, incite	v
+4686	móvil 	mobile	adj
+3787	movilizar 	to mobilize	v
+362	movimiento 	movement	nm
+4324	mozo 	waiter, youth, bellboy	nm
+2506	muchacha 	girl	nf
+1687	muchacho 	boy	nm [also chico]
+1305	muchísimo 	great many, great amount	adj
+45	mucho 	much, many, a lot	adj, adv
+3688	mudar 	to move, change	v
+3118	mudo 	mute, silent	adj
+1952	mueble 	piece of furniture	nm
+4530	muelle 	wharf, dock	nm
+424	muerte 	death	nf
+687	muerto 	dead (adj)	adj
+2032	muerto 	dead person (nm)	nm
+1594	muestra 	proof, sample, sign	nf
+127	mujer 	woman, wife	nf
+1556	múltiple 	multiple, many	adj
+2034	multiplicar 	to multiply	v
+2424	multitud 	multitude	nf
+1951	mundial 	worldwide	adj
+118	mundo 	world	nm
+3082	muñeca 	doll, wrist	nf
+2686	municipal 	municipal, town	adj
+3812	muralla 	city wall	nf
+1942	muro 	outer wall, rampart	nm
+3029	músculo 	muscle	nm
+2525	museo 	museum	nm
+550	música 	music	nf
+1752	musical 	musical	adj
+2518	músico 	musician	nm/f
+4807	muslo 	thigh	nm
+4117	mutuamente 	mutually, each other	adv
+2326	mutuo 	mutual	adj
+42	muy 	very, really	adv
+330	nacer 	to be born	v
+1339	nacimiento 	birth, origin	nm
+1891	nación 	nation	nf
+507	nacional 	national	adj
+4321	nacionalidad 	nationality	nf
+95	nada 	nothing, not at all	pron
+3050	nadar 	to swim	v
+233	nadie 	nobody, anybody	pron
+2950	naranja 	orange (fruit)	nf
+2119	nariz 	nose	nf
+4283	narración 	narration, account	nf
+3623	narrar 	to narrate, tell	v
+3381	nativo 	native	adj
+414	natural 	natural	adj
+674	naturaleza 	nature	nf
+3742	naturalidad 	ease, spontaneity	nf
+1523	naturalmente 	naturally	adv
+4947	navaja 	razor, blade, navaja	nf
+2542	nave 	spacecraft, ship	nf
+4870	navegación 	navigation, shipping	nf
+3375	navegar 	to navigate, sail	v
+2282	necesariamente 	necessarily	adv
+322	necesario 	necessary	adj
+340	necesidad 	necessity, need	nf
+4470	necesitado 	poor, needy	adj
+229	necesitar 	to need	v
+617	negar 	to deny, refuse	v
+3142	negativa 	negative, denial	nf
+1631	negativo 	negative, pessimistic	adj
+4538	negociación 	negotiation	nf
+3921	negociar 	to negotiate, deal with	v
+864	negocio 	business, transaction	nm
+317	negro 	black	adj
+2744	nervio 	nerve	nm
+1410	nervioso 	nervous, uptight	adj
+4801	neutro 	neutral	adj
+64	ni 	not even, neither, nor	conj
+3298	nido 	nest	nm
+4274	niebla 	fog	nf
+2615	nieto 	grandchild	nm
+2423	nieve 	snow	nf
+1052	niña 	child, young girl	nf
+4184	niñez 	childhood, infancy	nf
+144	ninguno 	no, none, nobody	adj pron
+178	niño 	child, little boy	nm
+4908	nítido 	clear, clean, neat	adj
+475	nivel 	level	nm
+10	no 	no	adv
+2545	noble 	noble (adj)	adj
+4463	noble 	nobleman, noble (nc)	nc
+4662	nobleza 	nobility, uprightness	nf
+196	noche 	night, evening	nf
+2871	noción 	notion, idea	nf
+1979	nocturno 	nocturnal, evening	adj
+1147	nombrar 	to name, appoint	v
+199	nombre 	name, noun	nm
+1349	norma 	standard, pattern, norm	nf
+664	normal 	normal, usual, regular	adj
+4367	normalidad 	normality	nf
+2212	normalmente 	normally	adv
+895	norte 	north	nm
+1246	norteamericano 	North American	adj
+65	nos 	us	pron
+191	nosotros 	we	pron
+3290	nostalgia 	nostalgia, homesickness	nf
+853	nota 	note, grade	nf
+1475	notable 	outstanding, noteworthy	adj
+571	notar 	to notice [also percibir]	v
+703	noticia 	news	nf
+3138	notorio 	notorious, noticeable	adj
+1864	novedad 	latest news, newness	nf
+1080	novela 	novel	nf
+4468	novelista 	novelist	nc
+3417	noventa 	ninety	num
+2726	novia 	girlfriend, bride	nf
+2148	noviembre 	November	nm
+2730	novio 	boyfriend, groom	nm
+1961	nube 	cloud	nf
+2238	núcleo 	nucleus, core	nm
+3488	nudo 	knot	nm
+82	nuestro 	our	adj
+1454	nuevamente 	anew, again	adv
+786	nueve 	nine	num
+99	nuevo 	new	adj
+4581	nulo 	void, null	adj
+315	número 	number	nm
+1101	numeroso 	numerous	adj
+151	nunca 	never, ever	adv
+26	o 	or	conj
+1513	obedecer 	to obey	v
+4647	obediencia 	obedience	nf
+3363	obispo 	bishop	nm
+1210	objetivo 	objective (nm)	nm
+2027	objetivo 	objective, impartial (adj)	adj
+419	objeto 	object, thing	nm
+1040	obligación 	obligation	nf
+1255	obligado 	obliged, required	adj
+642	obligar 	to obligate, force	v
+3007	obligatorio 	obligatory, compulsory	adj
+206	obra 	work, book, deed	nf
+4344	obrar 	to work, act	v
+2243	obrero 	worker, laborer (nm/f)	nm/f [also trabajador]
+2851	obrero 	working class (adj)	adj
+1535	observación 	observation	nf
+3208	observador 	observer	nm
+478	observar 	to observe, to notice	v
+3412	obsesión 	mania, obsession	nf
+2588	obstáculo 	obstacle	nm
+1679	obstante 	no + obstante: nevertheless	adj
+466	obtener 	to obtain	v
+3811	obviamente 	obviously	adv
+2586	obvio 	obvious	adj
+463	ocasión 	opportunity, occasion	nf
+4987	ocasional 	occasional, random	adj
+3464	ocasionar 	to occasion, bring about	v
+2323	occidental 	occidental, western	adj
+3646	océano 	ocean	nm
+2120	ochenta 	eighty	num
+492	ocho 	eight	num
+4366	ocio 	leisure time	nm
+1688	octubre 	October	nm
+1541	ocultar 	to hide	v
+2039	oculto 	hidden, occult	adj
+2059	ocupación 	occupation, use	nf
+1601	ocupado 	busy, occupied	adj
+397	ocupar 	to occupy, use	v
+4648	ocurrencia 	idea, witty remark	nf
+200	ocurrir 	to happen, occur	v
+3444	odiar 	to hate	v
+2177	odio 	hatred	nm
+3821	oeste 	West	nm
+3936	ofender 	to offend	v
+2205	oferta 	offer, bid, supply	nf
+1099	oficial 	official, authorized (adj)	adj
+1781	oficial 	official, officer (nc)	nc
+4545	oficialmente 	officially	adv
+1113	oficina 	office	nf
+1644	oficio 	job, occupation, function	nm
+368	ofrecer 	to offer, present	v
+2736	oh 	oh	interj [also ah]
+1969	oído 	hearing, ear	nm
+263	oír 	to hear	v
+3067	ojalá 	I hope that	adv
+247	ojo 	eye	nm
+2406	ola 	wave, billow	nf
+3036	oler 	to smell	v
+4913	olfato 	sense of smell	nm
+4927	olla 	pot, kettle	nf
+1986	olor 	smell, odor, fragrance	nm
+383	olvidar 	to forget	v
+2504	olvido 	forgetfulness, omission	nm
+1455	once 	eleven	num
+2160	onda 	wave, ripple	nf
+4362	opaco 	dull, opaque, heavy	adj
+2305	opción 	option, choice	nf
+3757	ópera 	opera	nf
+848	operación 	operation	nf
+1424	operar 	to operate	v
+1209	opinar 	to think, be of the opinion	v
+632	opinión 	opinion, view	nf
+1225	oponer 	to oppose	v
+624	oportunidad 	opportunity, chance	nf
+1937	oportuno 	opportune, timely	adj
+1699	oposición 	opposition	nf
+2384	optar 	to choose, opt for	v
+3864	optimismo 	optimism	nm
+3030	optimista 	optimistic	adj
+4129	óptimo 	optimum	adj
+1785	opuesto 	opposite, contrary	adj
+2543	oración 	prayer	nf
+3773	oral 	oral	adj
+4522	órbita 	orbit, socket, field	nf
+302	orden 	order; sequence (m), religious (f)	nmf
+2417	ordenado 	organized, clean	adj
+1167	ordenar 	to put in order, organize	v
+2478	ordinario 	vulgar, ordinary	adj
+2407	oreja 	ear	nf
+3716	orgánico 	organic	adj
+1458	organismo 	organization, organism, human body	nm
+1243	organización 	organization	nf
+2058	organizado 	organized	adj
+825	organizar 	to organize	v
+1563	órgano 	organ	nm
+2006	orgullo 	pride	nm
+2388	orgulloso 	proud, arrogant	adj [also soberbio]
+2683	orientación 	orientation, direction	nf
+4385	orientado 	positioned, guided	adj
+1955	oriental 	eastern, oriental	adj
+2250	orientar 	guide, show the way	v
+2413	oriente 	East	nm
+606	origen 	origin, cause	nm
+1191	original 	original (adj)	adj
+3581	original 	original (nm)	nm
+2819	originar 	to give rise to, cause	v
+2096	orilla 	shore, edge	nf
+914	oro 	gold	nm
+3301	orquesta 	orchestra, dance band	nf
+1373	os 	you (obj pl fam)	pron
+3578	oscilar 	oscillate	v
+4212	oscurecer 	to get dark	v
+2468	oscuridad 	darkness	nf
+888	oscuro 	dark, obscure	adj
+4555	oso 	bear	nm
+4254	ostentar 	to flaunt, show off	v
+3357	otoño 	autumn	nm
+2224	otorgar 	to give, grant, award	v
+31	otro 	other, another	adj
+3556	oveja 	sheep, ewe	nf
+4844	oxígeno 	oxygen	nm
+4740	pabellón 	pavilion, sports hall	nm
+2336	paciencia 	patience	nf
+1511	paciente 	patient	nc
+3105	pacífico 	peaceful	adj
+2530	pacto 	pact, agreement	nm
+1590	padecer 	to suffer	v
+182	padre 	father	nm
+4732	padrino 	godparent, sponsor	nm
+342	pagar 	to pay	v
+1135	página 	page	nf
+1807	pago 	payment	nm
+133	país 	country	nm
+1508	paisaje 	landscape	nm
+3483	paja 	straw, thatching	nf
+1824	pájaro 	bird	nm [also ave]
+4601	pala 	shovel	nf
+176	palabra 	word	nf
+1968	palacio 	palace	nm
+3161	pálido 	pale, ghastly, faded	adj
+2938	palma 	palm tree, palm	nf
+2012	palo 	stick, pole	nm
+3700	paloma 	dove	nf
+4191	palpar 	to feel, touch, fondle	v
+1392	pan 	bread	nm
+3227	pánico 	panic	nm
+2500	panorama 	panorama, landscape	nm
+2330	pantalla 	screen, monitor	nf
+2489	pantalón 	pants, trousers	nm
+3900	pañuelo 	handkerchief, shawl	nm
+2669	papa 	Pope (m), potato (f)	nmf
+2281	papá 	dad	nm
+277	papel 	paper, role, part	nm
+2166	paquete 	package, packet	nm
+768	par 	pair, couple (m)	nmf
+15	para 	for, to, in order to	prep
+3649	parada 	transportation stop	nf
+2244	parado 	stopped, standing	adj
+2983	paraíso 	paradise	nm
+4935	paraje 	place, spot	nm
+2477	paralelo 	parallel	adj
+4473	paralizado 	paralyzed	adj
+3962	paralizar 	to paralyze	v
+1001	parar 	to stop moving	v
+4004	parcela 	piece of property	nf
+3775	parcial 	partial, biased	adj
+4894	parcialmente 	partially	adv
+3722	pardo 	brown, dark, dim	adj
+81	parecer 	to seem, look like (v)	v
+1933	parecer 	opinion, looks (nm)	nm
+837	parecido 	similar	adj [also similar]
+736	pared 	interior wall	nf
+901	pareja 	couple, pair	nf
+3975	parentesco 	kinship	nm
+4525	paréntesis 	parenthesis, digression	nm
+2297	pariente 	relative (nc)	nc
+3602	parir 	to give birth	v
+4961	parlamentario 	parliamentary	adj
+1760	parque 	park	nm
+3461	párrafo 	paragraph	nm
+4260	parroquia 	parish	nf
+86	parte 	part, portion	nf
+1438	participación 	participation, involvement	nf
+4616	participante 	participant	nm
+750	participar 	to participate	v
+4776	partícula 	particle	nf
+854	particular 	particular, peculiar (adj)	adj
+1260	particular 	particular, detail, individual (nm)	nm
+2652	particularmente 	particularly, personally	adv
+1165	partida 	game, match, departure	nf
+2436	partidario 	supporter, partisan	nm
+425	partido 	party, group, sports match	nm
+290	partir 	to leave	v [also salir]
+3550	parto 	birth	nm
+445	pasado 	past, last (adj)	adj
+902	pasado 	past (nm)	nm
+2446	pasaje 	fare, passage, lane	nm
+3354	pasajero 	passenger (nm)	nm
+4570	pasajero 	fleeting, transitory (adj)	adj
+67	pasar 	to pass, spend time	v
+1985	pasear 	to go for a walk, ride	v
+2209	paseo 	walk, ride	nm
+2666	pasillo 	hall, corridor	nm
+1445	pasión 	passion, desire	nf
+4317	pasivo 	passive	adj
+267	paso 	step, pace	nm
+3771	pasta 	pasta, dough	nf
+4354	pastilla 	pill, capsule	nf
+3870	pasto 	grass, pasture	nm
+3474	pastor 	shepherd, pastor	nm/f
+2052	pata 	leg, paw	nf
+4078	patada 	kick, punt	nf
+4628	paterno 	paternal	adj
+1700	patio 	courtyard, playground, yard	nm
+4786	pato 	duck	nm
+2135	patria 	native land, fatherland	nf
+3114	patrimonio 	patrimony, inheritance	nm
+4972	patriótico 	patriotic	adj
+1648	patrón 	employer, landlord, patron saint	nm
+2802	pausa 	pause	nf
+3325	pauta 	guideline, rule, standard	nf
+702	paz 	peace	nf
+2551	pecado 	sin	nm
+3828	pecar 	to sin	v
+1649	pecho 	chest, breast	nm
+2746	peculiar 	peculiar	adj
+4864	pedagógico 	pedagogical, teaching	adj
+2855	pedazo 	piece, bit	nm
+204	pedir 	to ask for, request	v
+1395	pegar 	to hit, stick on	v
+3034	pelea 	fight, quarrel	nf
+1823	pelear 	to fight, struggle	v
+826	película 	movie, film	nf
+913	peligro 	danger, menace	nm
+1127	peligroso 	dangerous	adj
+1056	pelo 	hair	nm [also cabello]
+2445	pelota 	ball	nf
+575	pena 	trouble (be of worth)	nf 
+4285	penal 	penal	adj
+1296	pendiente 	aware of, pending	adj
+4569	penetración 	penetration, insight	nf
+1531	penetrar 	to penetrate, come in	v
+3737	penoso 	painful, laborious	adj
+2734	pensado 	thought-out, designed	adj
+789	pensamiento 	thought, thinking	nm
+106	pensar 	to think	v
+2469	pensión 	boarding house	nf
+4997	penumbra 	semidarkness, twilight	nf
+4519	peón 	unskilled laborer, field hand	nm
+866	peor 	worse (adv)	adv
+1965	peor 	worse, worst (adj)	adj
+4566	pequeñito 	very small, tiny	adj
+184	pequeño 	little, small, young	adj
+4826	percatar 	to inform, become aware	v
+4136	percepción 	perception	nf
+1575	percibir 	to notice [also notar]	v
+190	perder 	to lose, miss	v
+1417	pérdida 	loss	nf
+931	perdido 	lost	adj
+2240	perdón 	forgiveness, pardon	nm
+1678	perdonar 	to forgive, excuse	v
+4085	perdurar 	to last, live on, endure	v
+2776	perfección 	perfection	nf
+3366	perfeccionar 	to perfect	v
+850	perfectamente 	perfectly	adv
+810	perfecto 	perfect	adj
+2108	perfil 	profile, outline	nm
+4969	perfilar 	to outline, shape	v
+3843	perfume 	perfume	nm
+765	periódico 	newspaper, periodical	nm
+4652	periodismo 	journalism	nm
+1464	periodista 	journalist	nc
+4032	periodístico 	journalistic	adj
+1440	período 	period, time	nm
+3267	perjudicar 	to endanger	v
+3994	perjuicio 	damage, loss	nm
+4172	perla 	pearl	nf
+821	permanecer 	to stay, remain	v
+3429	permanencia 	permanence, tenure	nf
+1239	permanente 	permanent	adj
+3462	permanentemente 	permanently	adv
+1753	permiso 	permission, permit	nm
+220	permitir 	to allow, permit	v
+23	pero 	but, yet, except	conj
+4192	perpetuo 	continual, perpetual	adj
+939	perro 	dog	nm
+3031	persecución 	pursuit, persecution	nf
+1094	perseguir 	to pursue	v
+4843	persistente 	persistent	adj
+3254	persistir 	to persist	v
+137	persona 	person	nf
+712	personaje 	character (e.g. movie)	nm
+590	personal 	personal (adj)	adj
+1404	personal 	personnel, staff, staffing (nm)	nm
+1421	personalidad 	personality, celebrity	nf
+1964	personalmente 	personally	adv
+1066	perspectiva 	perspective	nf
+654	pertenecer 	to belong	v
+4467	perteneciente 	pertaining, belonging	adj
+3846	pertenencia 	membership, property	nf
+4627	perturbar 	to perturb, upset	v
+4359	peruano 	Peruvian	adj
+4444	perverso 	perverse, wicked	adj
+3479	pesadilla 	nightmare	nf
+1367	pesado 	heavy, boring, tiresome	adj
+366	pesar 	sorrow (nm)	nm
+770	pesar 	to weigh (v)	v
+3495	pesca 	fishing	nf
+2584	pescado 	fish (cooked)	nm
+3824	pescador 	fisherman	nm/f
+2958	pescar 	to fish	v
+3725	peseta 	peseta (money)	nf
+3817	pésimo 	dreadful, awful	adj
+417	peso 	peso (money), weight, load	nm
+3943	peste 	plague, pestilence, pest	nf
+3435	petición 	request, petition	nf
+3427	petróleo 	oil, petroleum	nm
+2426	pez 	fish (alive)	nm
+4671	piadoso 	devout, pious, merciful	adj
+2727	piano 	piano	nm
+2840	picar 	to bite, sting, itch	v
+1553	pico 	y pico: and a bit; beak, peak	nm
+386	pie 	foot, base	nm
+4267	piedad 	pity, mercy	nf
+719	piedra 	stone, rock	nf
+884	piel 	skin, hide, fur	nf
+1201	pierna 	leg	nf
+639	pieza 	piece, part	nf
+3672	pila 	baptismal font, battery, heap	nf
+4128	pilar 	pillar, column	nm
+4249	piloto 	pilot, driver	nm/f
+4157	pino 	pine tree	nm
+4630	pinta 	appearance, look, aspect	nf
+2347	pintado 	painted	adj
+1158	pintar 	to paint	v
+2218	pintor 	painter	nm/f
+4293	pintoresco 	picturesque	adj
+1097	pintura 	painting, paint	nf
+4980	pionero 	pioneer	nm
+4799	pirámide 	pyramid	nf
+2667	pisar 	to step on	v
+4653	piscina 	swimming pool	nf
+797	piso 	floor, story	nm
+2065	pista 	clue, track, trace	nf
+3745	pistola 	gun, pistol	nf
+3330	placa 	plaque, plate, badge	nf
+1205	placer 	pleasure	nm
+598	plan 	plan	nm
+4073	plancha 	electric iron, plate, sheet	nf
+2872	planear 	to plan	v
+2004	planeta 	planet	nm
+875	plano 	plane, map, level (nm)	nm
+3005	plano 	flat, plain, even, level (adj)	adj
+711	planta 	plant, floor	nf
+2949	plantar 	to plant	v
+3626	planteamiento 	proposal, exposition	nm
+910	plantear 	to propose, present	v
+2947	plástico 	plastic (nm)	nm
+2988	plástico 	plastic (adj)	adj
+1281	plata 	silver, money	nf
+3965	plataforma 	platform, springboard	nf
+1836	plato 	plate, dish	nm
+1713	playa 	beach, seaside	nf
+1020	plaza 	square, marketplace	nf
+1295	plazo 	deadline, installment	nm
+4378	pleito 	litigation, suit, dispute	nm
+2340	plenamente 	fully	adv
+3383	plenitud 	fullness, abundance	nf
+679	pleno 	complete, fulfilled (as emotionally)	adj
+3386	plomo 	lead, bullet	nm
+2444	pluma 	pen, feather	nf
+900	población 	population	nf
+3695	poblado 	populated	adj
+4142	poblar 	to populate, inhabit	v
+373	pobre 	poor	adj
+1874	pobreza 	poverty, lack, scarcity	nf
+74	poco 	little, few, a little bit (adv)	adj
+27	poder 	to be able to, can (v)	v
+428	poder 	power (nm)	nm
+1560	poderoso 	powerful	adj
+1855	poema 	poem	nm
+1841	poesía 	poetry, poem	nf
+1262	poeta 	poet	nc
+3312	poético 	poetic	adj
+3774	polémica 	polemics, argument	nf
+1017	policía 	police, police force, police officer	nc
+3311	policial 	police	adj
+506	política 	politics, policy	nf
+284	político 	political (adj)	adj
+1237	político 	politician (nm/f)	nm/f
+3231	pollo 	chicken	nm
+3609	polo 	pole, polo, polo shirt	nm
+1971	polvo 	dust, powder	nm
+4763	pólvora 	gunpowder, powder	nf
+77	poner 	to put on	v
+709	popular 	popular	adj
+2463	poquito 	little bit	adj
+12	por 	by, for, through	prep
+3015	porcentaje 	percentage	nm
+3403	porción 	part, portion, share	nf
+38	porque 	because	conj
+3046	porquería 	filth, junk	nf
+3362	portador 	bearer, carrier	nm
+2254	portar 	to behave [se], carry	v
+4315	portero 	porter, doorkeeper, goalkeeper	nm/f
+3913	portugués 	Portuguese	adj
+2766	porvenir 	future, time to come	nm
+4709	posar 	to rest, pose, land	v
+1005	poseer 	to possess, own	v
+2158	posesión 	possession	nf
+367	posibilidad 	possibility	nf
+225	posible 	possible	adj
+1980	posiblemente 	possibly	adv
+503	posición 	position	nf
+1356	positivo 	positive	adj
+1399	posterior 	rear, backside	adj
+2430	posteriormente 	afterwards	adv
+2985	postre 	dessert; a la postre: in the end	nmf
+1636	postura 	posture, position, attitude	nf
+1779	potencia 	power, potential	nf
+4439	potencial 	potential	adj
+3133	potente 	potent, powerful	adj
+2625	pozo 	well, shaft	nm
+933	práctica 	practice, skill	nf
+1106	prácticamente 	practically	adv
+1303	practicar 	to practice	v
+1270	práctico 	practical, skillful	adj
+4046	precario 	precarious	adj
+2918	precaución 	caution, forethought	nf
+4858	precedente 	precedent	nm
+3288	preceder 	to precede	v
+708	precio 	price, cost, value	nm
+1839	precioso 	beautiful, precious	adj
+3119	precipitar 	to plunge, hurl, rush	v
+580	precisamente 	precisely	adv
+1923	precisar 	to do exactly, specify	v
+1847	precisión 	precision	nf
+739	preciso 	precise, necessary	adj
+4496	predecir 	to predict	v
+3917	predicar 	to preach	v
+4567	predominar 	to predominate	v
+2623	preferencia 	preference	nf
+3126	preferible 	preferable	adj
+3744	preferido 	preferred, favorite	adj
+541	preferir 	to prefer	v
+481	pregunta 	question	nf
+323	preguntar 	to ask a question	v
+2906	prejuicio 	prejudice	nm
+4853	prematuro 	premature	adj
+4583	premiar 	to award	v
+1337	premio 	prize, reward	nm
+2939	prenda 	piece of clothing	nf
+2454	prender 	to turn on, apprehend	v
+1318	prensa 	press	nf
+995	preocupación 	worry, concern	nf
+1677	preocupado 	worried, concerned	adj
+766	preocupar	to worry	se 
+2128	preparación 	preparation, training	nf
+1067	preparado 	prepared	adj
+499	preparar 	to prepare	v
+2635	presa 	dam, prisoner (f)	nf
+3692	prescindir 	to do without	v
+519	presencia 	presence, appearance	nf
+3538	presenciar 	to be present at, witness	v
+1990	presentación 	presentation, introduction	nf
+249	presentar 	to introduce, present	v
+802	presente 	present (nm)	nm
+1088	presente 	present, current (adj)	adj
+4783	presentir 	to sense in advance	v
+3361	preservar 	to preserve	v
+4087	presidencia 	presidency	nf
+4388	presidencial 	presidential	adj
+831	presidente 	president	nm
+3020	presidir 	to preside over	v
+967	presión 	pressure	nf
+2896	presionar 	to press, pressure	v
+3069	preso 	prisoner (nm)	nm
+3756	preso 	imprisoned, confined (adj)	adj
+2682	prestado 	borrowed, lent	adj
+3694	préstamo 	loan, borrowing	nm
+767	prestar 	to lend	v
+1908	prestigio 	prestige	nm
+4620	prestigioso 	prestigious	adj
+3340	presumir 	to boast, show off, suppose	v
+4501	presunto 	alleged, presumed	adj
+2630	presupuesto 	budget	nm
+584	pretender 	to attempt	v
+2728	pretensión 	pretension, claim	nf
+2737	pretexto 	pretext, excuse	nm
+4265	prevalecer 	to prevail	v
+4995	prevención 	prevention, warning	nf
+3270	prevenir 	to avoid, prevent	v [also evitar]
+2105	prever 	to foresee, anticipate, forecast	v
+2891	previamente 	previously	adv [also anteriormente]
+1437	previo 	previous	adj
+4835	previsible 	foreseeable	adj
+3440	previsión 	forecast, precaution	nf
+2086	previsto 	foreseen, planned	adj
+3283	prima 	female cousin, down payment	nf
+1715	primario 	primary	adj
+2325	primavera 	spring, spring-like	nf
+60	primero 	first	adj
+2038	primitivo 	primitive	adj
+1860	primo 	cousin	nm
+4152	primordial 	fundamental, primary	adj
+4402	princesa 	princess	nf
+496	principal 	main, principal	adj
+2226	principalmente 	principally, mainly	adv
+2616	príncipe 	prince	nm
+237	principio 	beginning, principle	nm
+4505	prioridad 	priority	nf
+3253	prisa 	hurry	nf
+2980	prisión 	prison, imprisonment	nf
+3176	prisionero 	prisoner	nm
+706	privado 	private	adj
+2868	privar 	to deprive of	v
+3579	privilegiado 	privileged	adj
+1843	privilegio 	privilege	nm
+4393	probabilidad 	probability	nf
+1840	probable 	probable	adj
+971	probablemente 	probably	adv
+911	probar 	to test, prove, try	v
+169	problema 	problem	nm
+4611	procedencia 	origin, source	nf
+3260	procedente 	coming from	adj [also proveniente]
+1322	proceder 	to proceed, start	v
+1544	procedimiento 	procedure, proceedings	nm
+4280	procesión 	procession	nf
+452	proceso 	process, procedure	nm
+2944	proclamar 	to proclaim	v
+1100	procurar 	to try, seek	v
+4938	prodigioso 	prodigious, famous	adj
+1721	producción 	production	nf [also elaboración]
+195	producir 	to produce, cause	v
+4589	productivo 	productive, profitable	adj
+589	producto 	product	nm
+4312	productor 	producer	nm
+1206	profesión 	profession, occupation	nf
+640	profesional 	professional	adj
+621	profesor 	professor, teacher	nm/f
+4804	profeta 	prophet	nm
+1365	profundamente 	profoundly, deeply	adv
+1330	profundidad 	depth, profundity	nf
+3634	profundizar 	to deepen, analyze in depth	v
+489	profundo 	deep, profound	adj
+467	programa 	program, plan	nm
+3162	programar 	to plan, program	v
+2916	progresar 	to progress	v
+3685	progresivo 	progressive	adj
+1591	progreso 	progress	nm
+4343	prohibición 	prohibition	nf
+2257	prohibido 	prohibited	adj
+1741	prohibir 	to prohibit, forbid	v
+4749	prolongación 	extension	nf
+2929	prolongado 	prolonged, lengthy	adj
+2077	prolongar 	to extend, prolong	v
+2051	promesa 	promise	nf
+1641	prometer 	to promise	v
+2706	promoción 	promotion	nf
+2767	promover 	to promote	v
+396	pronto 	soon, quick	adv
+944	pronunciar 	to pronounce	v
+2508	propaganda 	advertising, propaganda	nf
+4958	propagar 	to propagate, spread	v
+3079	propiamente 	exactly, properly	adv
+3884	propiciar 	to favor, foster, aid	v
+3636	propicio 	appropriate, suitable	adj
+588	propiedad 	property	nf
+2526	propietario 	owner	nm
+140	propio 	own, proper, typical	adj
+500	proponer 	to propose	v
+2109	proporción 	proportion	nf
+1742	proporcionar 	to supply	v
+3647	proposición 	proposition	nf
+752	propósito 	intention, purpose	nm
+2173	propuesta 	proposal, proposition	nf
+4524	prosa 	prose	nf
+2534	proseguir 	to continue, carry on	v
+4154	prosperar 	to prosper, thrive	v
+2536	protagonista 	protagonist, main character	nc
+1652	protección 	protection	nf
+4288	protector 	protector, defender	nm
+1006	proteger 	to protect	v
+2134	protesta 	objection, protest	nf
+2288	protestar 	to protest, object	v
+3617	provecho 	benefit, use	nm
+2911	proveer 	to provide	v
+4151	proveniente 	coming from	adj [also procedente]
+1958	provenir 	to come from, be from	v
+1624	provincia 	province, region	nf
+4654	provincial 	provincial	adj
+663	provocar 	to cause, provoke	v
+3338	proximidad 	proximity	nf
+440	próximo 	next	adj
+3057	proyección 	projection, screening	nf
+1471	proyectar 	to project	v
+604	proyecto 	project, plan	nm
+3621	prudencia 	prudence, moderation	nf
+2884	prudente 	sensible, prudent	adj
+505	prueba 	proof, trial, test	nf
+4437	psicología 	psychology	nf
+3123	psicológico 	psychological	adj
+4604	psicólogo 	psychologist	nm/f
+2702	publicación 	publication	nf
+4877	públicamente 	publicly, in public	adv
+743	publicar 	to publish	v
+2925	publicidad 	advertising, publicity	nf
+4297	publicitario 	advertising	adj
+465	público 	public (adj)	adj
+769	público 	public, audience (nm)	nm
+241	pueblo 	people, village	nm
+1353	puente 	bridge	nm
+354	puerta 	door	nf
+1364	puerto 	port, harbor	nm
+103	pues 	then, well then	conj
+755	puesto 	job, place, position	nm
+4712	pugna 	battle, struggle	nf
+3420	pulmón 	lung	nm
+3762	pulso 	pulse, pulsation	nm
+4693	puñado 	fistful, small group	nm
+3563	puño 	fist, handle, cuff	nm
+1427	punta 	tip, point	nf
+147	punto 	point, dot, period	nm
+3498	puntual 	punctual	adj
+2753	puramente 	purely, simply	adv
+3455	pureza 	purity, chastity	nf
+637	puro 	pure, clean	adj
+4982	puta 	whore, prostitute	nf
+3	que 	that, which	conj
+47	qué 	what?, which?, how (adj)!	adj
+2375	quebrar 	to break, bend, weaken	v
+89	quedar 	to remain, stay	v
+3410	quehacer 	task, job, chore	nm
+2922	queja 	complaint	nf
+1530	quejar 	to complain	v
+3365	quemado 	burned, burnt	adj
+1509	quemar 	to burn	v
+57	querer 	to want, love	v
+2009	querido 	dear, beloved	adj
+3182	queso 	cheese	nm
+141	quien 	who, whom	pron
+292	quién 	who?, whom?	pron
+3154	quieto 	still, motionless, calm	adj
+2864	químico 	chemical	adj
+1033	quince 	fifteen	num
+3426	quinientos 	five hundred	num
+1179	quinto 	fifth	adj
+669	quitar 	to remove, take away	v
+297	quizás 	perhaps, maybe	adv
+2887	rabia 	rage	nf
+2890	racional 	rational	adj
+1987	radical 	radical	adj
+4464	radicalmente 	radically	adv
+3763	radicar 	to lie, be situated	v
+824	radio 	radio; set (m), communication (f)	nmf
+1028	raíz 	root	nf
+1160	rama 	branch, bough, limb	nf
+4284	ramo 	bunch of flowers, branch	nm
+4533	rancho 	ranch, farm	nm
+3085	rango 	rank, range	nm
+1008	rápidamente 	rapidly, quickly	adv
+1899	rapidez 	speed, velocity	nf [also velocidad]
+652	rápido 	quick, fast	adj
+849	raro 	strange, rare, scarce	adj
+4542	rascar 	to scratch, scrape	v
+1355	rasgo 	feature, trait	nm
+3465	rastro 	track, sign, flea market	nm
+3497	rata 	rat	nf
+3942	ratificar 	to ratify	v
+1478	rato 	moment, while, time	nm
+3856	ratón 	mouse, rat	nm
+3249	raya 	line, ray, stripe	nf
+2197	rayo 	ray, beam, lightning	nm
+1620	raza 	race, lineage	nf
+212	razón 	reason	nf
+2405	razonable 	reasonable	adj
+3472	razonamiento 	reasoning	nm
+4680	razonar 	to reason out, think	v
+1122	reacción 	reaction	nf
+1521	reaccionar 	to react	v
+462	real 	royal, real, authentic	adj
+202	realidad 	reality, actuality	nf
+3780	realismo 	realism	nm
+2678	realista 	realistic	adj
+2790	realización 	fulfillment, realization	nf
+299	realizar 	to fulfill, carry out	v
+416	realmente 	really, actually, in fact	adv
+3686	reanudar 	to renew, resume	v
+4337	reaparecer 	to reappear	v
+4159	rebajar 	to discount	v
+4919	rebaño 	herd, flock	nm
+4813	rebasar 	to exceed, pass over	v
+3576	rebelde 	rebel (adj)	adj
+4400	rebelde 	rebel, insurgent (nc)	nc
+3977	rebeldía 	rebelliousness, defiance	nf
+4202	rebelión 	rebellion	nf
+4817	recelo 	mistrust, suspicion	nm
+3327	recepción 	reception, waiting-room	nf
+3196	receta 	recipe, prescription	nf
+1182	rechazar 	to reject	v
+2275	rechazo 	rejection, refusal	nm
+205	recibir 	to receive	v
+863	recién 	recently, just	adv
+1332	reciente 	recent	adj
+2749	recientemente 	recently	adv
+3088	recinto 	grounds, precincts	nm
+4960	recipiente 	container, recipient, tank	nm
+4761	recíproco 	reciprocal	adj
+3594	recitar 	to recite	v
+1507	reclamar 	to demand, require	v
+4465	reclamo 	claim, complaint, protest	nm
+3580	recobrar 	to recover, regain	v
+634	recoger 	to pick up	v
+2908	recomendación 	recommendation	nf
+1581	recomendar 	to recommend	v
+4815	recompensa 	reward, recompense	nf
+327	reconocer 	to recognize, admit	v
+1794	reconocimiento 	recognition, acknowledgment	nm
+4259	reconstrucción 	reconstruction	nf
+2328	reconstruir 	to reconstruct	v
+215	recordar 	to remember, remind	v [also acordar]
+808	recorrer 	to travel, cover distance	v
+2231	recorrido 	journey, itinerary, route	nm
+3643	recortar 	to trim, cut off, clip	v
+3804	recorte 	clipping, cutting, trimming	nm
+4728	recrear 	to recreate, amuse	v
+4683	rectificar 	to rectify, straighten out	v
+2816	recto 	right, straight, honest	adj
+628	recuerdo 	memory, keepsake	nm
+3101	recuperación 	recovery, recuperation	nf
+965	recuperar 	to recuperate, recover	v
+1555	recurrir 	to resort to	v
+735	recurso 	resource, recourse, means	nm
+1658	red 	network, net, system	nf
+3735	redacción 	editing, wording, essay	nf
+2870	redactar 	to edit, write, compose	v
+1757	redondo 	round (adj)	adj
+3815	reducción 	reduction	nf
+1736	reducido 	reduced, limited	adj
+996	reducir 	to reduce	v
+3198	reemplazar 	to replace	v
+1063	referencia 	reference, allusion	nf
+3073	referente 	concerning	adj
+409	referir 	to refer to	v
+4071	refinado 	refined	adj
+4224	reflejado 	reflected	adj
+1176	reflejar 	to reflect	v
+1675	reflejo 	reflection (reflected image)	nm
+1826	reflexión 	reflection, thought	nf
+2788	reflexionar 	to reflect, consider on	v
+2641	reforma 	reform, improvement	nf
+3012	reforzar 	to reinforce, strengthen	v
+3603	refugiar 	to take shelter, give refuge	v
+2964	refugio 	shelter, refuge	nm
+1528	regalar 	to give as a gift	v
+2067	regalo 	gift, present	nm
+4148	regar 	to water, irrigate	v
+1426	régimen 	regime, diet	nm
+1050	región 	region	nf
+3484	regional 	regional	adj
+3222	regir 	to rule, govern, manage	v
+1536	registrar 	to register, record	v [also inscribir]
+2214	registro 	register, record	nm
+1014	regla 	rule, ruler, regulation	nf
+3805	reglamento 	regulations, rules	nm
+799	regresar 	to return to a place	v
+1557	regreso 	return	nm [also retorno]
+1956	regular 	regular (adj)	adj
+4131	regular 	to regulate, adjust (v)	v
+2020	reina 	queen	nf
+4054	reinar 	to reign, prevail	v
+2255	reino 	kingdom, reign	nm
+1493	reír 	to laugh	v
+2900	reiterar 	to reiterate, repeat	v
+4702	reivindicación 	claim, demand, redemption	nf
+230	relación 	relationship, relation	nf
+1402	relacionado 	related, regarding	adj
+1745	relacionar 	to relate	v
+4724	relajar 	to relax	v
+2733	relatar 	to tell, narrate	v
+2519	relativamente 	relatively	adv
+1747	relativo 	relative (adj)	adj
+2221	relato 	tale, story	nm
+4104	relevante 	relevant, significant	adj
+3521	relieve 	relief; poner de relieve: to emphasize	nm
+1460	religión 	religion	nf
+886	religioso 	religious	adj
+1685	reloj 	clock, watch	nm
+4133	rematar 	to finish off, finish up	v
+4327	remediar 	to heal, cure	v
+1379	remedio 	alternative, cure, solution	nm
+3234	remitir 	to remit	v
+2580	remontar 	to go back to (time)	v
+2313	remoto 	remote, far-off	adj
+3827	remover 	to remove	v
+4805	renacer 	to be reborn, reappear	v
+4387	rencor 	grudge, spite	nm
+3874	rendimiento 	yield, output, efficiency	nm
+1534	rendir 	to yield, to produce	v
+3937	renovación 	renewal, renovation	nf
+2269	renovar 	to renew, renovate	v
+3210	renta 	income	nf
+3693	renuncia 	resignation, renunciation	nf
+1621	renunciar 	to give up, renounce	v
+2770	reparar 	to repair, to mend, to fix	v
+1161	repartir 	to divide, deliver, distribute	v
+3437	reparto 	distribution, delivery	nm
+4353	repasar 	to review, revise	v
+2183	repente 	de + repente: suddenly	adv
+3394	repentino 	sudden	adj [also súbito]
+4852	repercusión 	repercussion, impact	nf
+4072	repertorio 	repertoire, list, index	nm
+3113	repetición 	repetition	nf
+2471	repetido 	repeated	adj
+382	repetir 	to repeat	v
+3515	repleto 	full, overcrowded	adj
+3758	réplica 	answer, retort, copy	nf
+4177	replicar 	to reply	v
+3423	reponer 	to replace, restore	v
+4056	reportaje 	news report	nm
+4632	reposar 	to rest, lie down	v
+3769	reposo 	rest, peace	nm
+1425	representación 	representation	nf
+1491	representante 	representative (nc)	nc
+527	representar 	to represent	v
+3930	representativo 	representative (adj)	adj
+3814	represión 	repression	nf
+3895	reprimir 	to repress	v
+3982	reprochar 	to reproach	v
+4660	reproche 	reproach, criticism	nm
+3637	reproducción 	reproduction	nf
+1654	reproducir 	to reproduce, repeat	v
+3389	república 	republic	nf
+4486	republicano 	republican	adj
+1081	requerir 	to require	v
+2644	requisito 	prerequisite, requirement	nm
+3701	resaltar 	to emphasize	v
+2559	rescatar 	to rescue, save	v
+4617	rescate 	rescue, ransom	nm
+4110	resentimiento 	resentment	nm
+1527	reserva 	reservation, reserve	nf
+2960	reservado 	reserved, booked	adj
+2750	reservar 	to reserve, book	v
+2844	residencia 	residence	nf
+2764	residir 	to reside, live in	v
+3934	residuo 	residue, waste	nm
+4759	resignación 	resignation, acceptance	nf
+4878	resignar 	to resign, relinquish	v
+1415	resistencia 	resistance, opposition	nf
+1312	resistir 	to resist, endure	v
+2711	resolución 	resolution	nf
+622	resolver 	to resolve, settle, work out	v
+4369	resonancia 	resonance, repercussion	nf
+2692	respaldo 	support, backing, back	nm
+1797	respectivo 	respective	adj
+433	respecto 	respect, con respecto a: with regards to	nm
+4021	respetable 	respectable	adj
+880	respetar 	to respect	v
+894	respeto 	respect, regard	nm
+3653	respetuoso 	respectful	adj
+3171	respiración 	respiration, breath	nf
+1792	respirar 	to breathe	v
+456	responder 	to answer, respond	v
+781	responsabilidad 	responsibility	nf
+955	responsable 	responsible	adj
+472	respuesta 	answer, reply	nf
+4806	restablecer 	to reestablish, restore	v
+3482	restante 	remaining	adj
+2836	restar 	to subtract, minimize	v
+3014	restaurante 	restaurant	nm
+4187	restaurar 	to restore, reinstate	v
+447	resto 	rest, remainder, leftover	nm
+4819	restricción 	restriction	nf
+4603	resucitar 	to resuscitate	v
+2428	resuelto 	resolved, determined	adj
+379	resultado 	result, outcome	nm
+238	resultar 	to result, turn out	v
+2593	resumen 	summary	nm
+3041	resumir 	to summarize	v
+2452	retener 	to keep, retain	v
+3861	retirada 	retreat, withdrawal	nf
+4067	retirado 	retired, remote, secluded	adj
+817	retirar 	to take away, retire	v
+4809	retiro 	withdrawal, retreat	nm
+3476	reto 	challenge, defiance	nm
+3489	retomar 	to retake, restart	v
+3754	retornar 	to return, give back	v [also devolver]
+3035	retorno 	return	nm [also regreso]
+4188	retrasar 	to delay, fall behind	v
+3886	retraso 	delay	nm
+2492	retrato 	portrait, photograph	nm
+2724	retroceder 	to go back	v
+4833	retroceso 	movement backwards	nm
+746	reunión 	meeting, reunion	nf
+509	reunir 	to put togerther, to get together	v [also juntar]
+3724	revelación 	revelation	nf
+1691	revelar 	to reveal, disclose	v
+4009	reventar 	to burst, puncture	v
+1993	revés 	al revés: backwards, upside down, inside out	nm
+1632	revisar 	to check, revise, inspect	v
+3860	revisión 	checking revision	nf
+804	revista 	magazine, journal	nf
+3662	revivir 	to revive	v
+957	revolución 	revolution	nf
+1947	revolucionario 	revolutionary	adj
+3752	revolver 	to stir, to make upset, to rummage through	v
+4338	revuelto 	confused, messed up	adj
+1238	rey 	king	nm
+2847	rezar 	to pray, recite	v
+627	rico 	rich, tasty	adj
+3209	ridículo 	ridiculous, absurd (adj)	adj
+3543	ridículo 	ridicule (nm)	nm
+3829	rienda 	rein, restraint	nf
+1016	riesgo 	risk	nm
+4845	rigidez 	rigidity	nf
+2411	rígido 	rigid, stiff, firm	adj
+2249	rigor 	harshness, rigor	nm
+2528	riguroso 	rigorous, severe	adj
+2118	rincón 	corner, nook	nm
+4292	riñón 	kidney	nm
+559	río 	river	nm
+1474	riqueza 	riches, wealth	nf
+2192	risa 	laugh, chuckle	nf
+4978	rítmico 	rhythmic	adj
+877	ritmo 	rhythm	nm
+3093	rito 	rite, ritual	nm
+3534	ritual 	ritual, rite	nm
+3796	rival 	rival	nc
+1492	robar 	to rob, steal	v
+2919	robo 	theft, robbery	nm
+4689	robusto 	strong, robust, sturdy	adj
+2497	roca 	rock	nf
+4748	roce 	brush, graze	nm
+3179	rodar 	to roll, run, scatter	v
+1801	rodeado 	surrounded	adj
+1174	rodear 	to surround	v
+2208	rodilla 	knee	nf
+3160	rogar 	to implore, pray, ask	v
+533	rojo 	red	adj
+4764	rol 	role	nm
+4014	rollo 	roll, coil	nm
+1774	romano 	Roman	adj
+2338	romántico 	romantic	adj
+601	romper 	to break	v
+3786	ronda 	round (nf)	nf
+1285	ropa 	clothes, clothing	nf
+1978	rosa 	rose	nf
+4461	rosado 	pink, rosy	adj
+4258	rosario 	rosary, beads, string	nm
+2040	rostro 	face, countenance	nm
+1914	roto 	broken, torn	adj
+3388	rotundo 	categorical	adj
+3226	rozar 	to touch lightly	v
+3269	rubio 	blonde, fair	adj
+4859	rudo 	rude, crude, coarse	adj
+1352	rueda 	wheel	nf
+1184	ruido 	noise	nm
+4261	ruidoso 	noisy	adj
+2397	ruina 	ruin, collapse	nf
+2414	rumbo 	direction, course, bearing	nm
+2626	rumor 	rumor, murmur	nm
+2457	ruptura 	break-up, rupture	nf
+2631	rural 	rural, country	adj
+2307	ruso 	Russian	adj
+4395	rústico 	rustic, rural	adj
+2113	ruta 	route	nf
+3042	rutina 	routine	nf
+1816	sábado 	Saturday	nm
+3859	sábana 	bed sheet	nf
+46	saber 	to know (a fact), find out (v)	v
+1625	saber 	knowledge (nm)	nm
+2856	sabiduría 	wisdom, knowledge	nf
+1790	sabio 	wise, learned	adj
+2126	sabor 	taste, flavor, sensation	nm
+4605	sabroso 	delicious, tasty	adj
+228	sacar 	to take out	v
+1974	sacerdote 	priest	nm
+2798	saco 	sack, bag, plunder	nm
+2752	sacrificar 	to sacrifice	v
+1848	sacrificio 	sacrifice	nm
+2969	sacudir 	to shake, jolt	v
+1775	sagrado 	sacred	adj
+2608	sal 	salt	nf
+811	sala 	room, hall	nf
+3307	salario 	salary, wages	nm
+694	salida 	exit, escape, outcome	nf
+111	salir 	to leave	v [also partir]
+1637	salón 	hall, room	nm
+1071	saltar 	to jump, leap, hop	v
+1391	salto 	jump, hop, skip	nm
+973	salud 	health	nf
+3803	saludable 	healthy, wholesome	adj [also sano]
+1744	saludar 	to greet, say hello	v
+2661	saludo 	greeting	nm
+3575	salvación 	salvation, rescue	nf
+2001	salvaje 	wild, savage, uncultivated	adj
+753	salvar 	to save, rescue	v
+924	salvo 	except for, but	adv
+4141	sanción 	sanction, approval, penalty	nf
+613	sangre 	blood	nf
+3911	sangriento 	bloody	adj
+4047	sanitario 	health, sanitary, clean	adj
+1394	sano 	healthy, wholesome	adj [also saludable]
+793	santa 	saint (f)	nf
+258	santo 	saint (m)	nm
+4727	sargento 	sergeant	nm
+1299	satisfacción 	satisfaction	nf
+1517	satisfacer 	to satisfy	v
+3316	satisfactorio 	satisfactory	adj
+1735	satisfecho 	satisfied	adj
+9	se 	the reflexive marker	pron
+2496	secar 	to dry	v
+1910	sección 	section, cut	nf
+1178	seco 	dry, arid	adj
+1245	secretario 	secretary	nm/f
+1731	secreto 	secret (adj)	adj
+1954	secreto 	secret (nm)	nm
+1096	sector 	sector, area, section	nm
+3241	secuencia 	sequence	nf
+4911	secular 	secular, lay	adj
+2213	secundario 	secondary	adj
+3080	sed 	thirst	nf
+3271	seda 	silk	nf
+4236	sede 	headquarters, seat	nf
+4831	seducir 	to seduce, tempt	v
+2818	seguida 	en seguida: right away, at once	adv
+1465	seguido 	in a row, successive	adj
+4170	seguidor 	follower, supporter, fan	nm
+97	seguir 	to follow, to go on	v
+257	según 	according to	prep
+243	segundo 	second (adj)	adj
+577	segundo 	second (nm)	nm
+994	seguramente 	surely, securely	adv
+560	seguridad 	security, safety	nf
+1118	seguro 	safe, sure, secure (adj)	adj
+3377	seguro 	insurance (nm)	nm
+375	seis 	six	num
+2533	selección 	selection, choice	nf
+2912	seleccionar 	to select	v
+2999	sello 	stamp, seal	nm
+2138	selva 	forest, jungle	nf
+304	semana 	week	nf
+4268	semanal 	weekly	adj
+2717	sembrar 	to sow, plant	v
+1039	semejante 	similar, such, alike	adj
+3522	semejanza 	similarity, likeness	nf
+2875	semilla 	seed	nf
+4108	seminario 	seminar, seminary	nm
+3533	seña 	sign, mark, seal	nf
+4386	senador 	senator	nm/f
+1360	señal 	sign, mark, token	nf
+493	señalar 	to point out, signal	v
+2352	sencillamente 	simply	adv
+4380	sencillez 	simplicity	nf
+922	sencillo 	simple, plain, easy	adj
+4585	senda 	path, lane	nf
+4036	sendero 	foot path	nm
+1776	seno 	breast, bosom, cavity	nm
+240	señor 	sir, Mr., lord	nm
+976	señora 	Mrs., lady, madam	nf
+2622	señorita 	young woman	nf
+1023	sensación 	sensation, feeling	nf
+1554	sensibilidad 	sensitivity	nf
+2030	sensible 	sensitive, sentient	adj
+1231	sentado 	seated	adj
+710	sentar 	to sit down, seat	v
+2709	sentencia 	legal sentence, judgment	nf
+265	sentido 	sense, feeling	nm
+2646	sentimental 	sentimental	adj
+867	sentimiento 	feeling, sentiment	nm
+131	sentir 	to feel, regret (v)	v
+3690	sentir 	feeling (nm)	nm
+2041	separación 	separation	nf
+1208	separado 	separate	adj
+792	separar 	to separate	v
+2574	septiembre 	September	nm
+4905	séptimo 	seventh	adj
+4364	sequía 	drought	nf
+8	ser 	to be (norm) (v)	v
+352	ser 	being (nm)	nm
+3743	serenidad 	serenity, calm	nf
+4066	sereno 	serene, calm	adj
+3206	seriamente 	seriously	adv
+522	serie 	series	nf
+3022	seriedad 	seriousness	nf
+545	serio 	serious	adj
+4150	serpiente 	snake	nf
+390	servicio 	service, helpfulness	nm
+4010	servidor 	servant	nm/f
+4602	servidumbre 	staff of servants, servitude	nf
+226	servir 	to serve	v
+1306	sesenta 	sixty	num
+1683	sesión 	session, meeting	nf
+1773	setenta 	seventy	num
+1832	severo 	severe	adj
+1667	sexo 	sex	nm
+3140	sexto 	sixth	adj
+1796	sexual 	sexual	adj
+34	si 	if, whether	conj
+70	sí 	yes	adv
+90	siempre 	always, forever	adv
+3390	sierra 	mountain range, saw	nf
+4176	siesta 	siesta, afternoon nap	nf
+470	siete 	seven	num
+273	siglo 	century, age	nm
+4862	significación 	meaning, significance	nf
+1966	significado 	meaning	nm
+502	significar 	to mean	v
+1939	significativo 	significant, meaningful	adj
+1359	signo 	sign, mark, symbol	nm
+309	siguiente 	following, next	adj
+923	silencio 	silence	nm
+3374	silencioso 	quiet, silent	adj
+1307	silla 	chair, seat	nf
+3604	sillón 	armchair, seat	nm
+4418	silvestre 	wild	adj
+3349	simbólico 	symbolic	adj
+1723	símbolo 	symbol	nm
+1325	similar 	similar	adj [also parecideo]
+2327	simpatía 	sympathy, affinity	nf
+2590	simpático 	nice, likeable, friendly	adj
+661	simple 	simple, mere, simple-minded	adj
+591	simplemente 	simply, just	adv
+3947	simular 	to pretend, simulate	v
+3627	simultáneamente 	simultaneously	adv
+4609	simultáneo 	simultaneous	adj
+43	sin 	without	prep
+3574	sinceramente 	sincerely	adv
+4069	sinceridad 	sincerity	nf
+2915	sincero 	sincere	adj
+3882	sindicato 	trade union	nm
+2854	singular 	single, singular	adj
+4880	siniestro 	sinister	adj
+109	sino 	but, except, rather	conj
+2742	síntesis 	synthesis	nf
+4954	sintético 	synthetic	adj
+2228	síntoma 	symptom	nm
+602	siquiera 	even if	adv
+4696	sirena 	siren, mermaid	nf
+430	sistema 	system	nm
+3567	sistemático 	systematic	adj
+672	sitio 	place, space	nm
+268	situación 	situation	nf
+1798	situado 	situated, located	adj
+2089	situar 	to situate, place, locate	v
+4824	soberanía 	sovereignty	nf
+4782	soberano 	sovereign, self-assured	adj
+4576	soberbio 	proud, arrogant	adj [also orgulloso]
+4547	sobra 	excess, surplus, leftover	nf
+2978	sobrar 	to be too much, left over	v
+48	sobre 	on top of, over, about	prep
+3620	sobrepasar 	excel, out perform	v
+3779	sobresalir 	to stand out, excel	v
+4811	sobrevenir 	to occur, befall, strike	v
+1999	sobrevivir 	to survive, outlive	v
+3593	sobrino 	nephew	nm
+280	social 	social	adj
+2820	socialista 	socialist	adj
+408	sociedad 	society	nf
+2314	socio 	member, partner	nm
+4546	sofisticado 	sophisticated	adj
+686	sol 	sun	nm
+336	solamente 	only	adv [also únicamente]
+3841	solar 	solar	adj
+1568	soldado 	soldier	nm/f
+2116	soledad 	loneliness, solitude	nf
+3115	solemne 	solemn	adj
+487	soler 	to be accustomed to	v [also acostumbrar]
+1384	solicitar 	to solicit, request	v
+3540	solicitud 	request, application	nf
+2668	solidaridad 	solidarity, togetherness	nf
+4472	solidario 	united, jointly shared	adj
+1569	sólido 	solid, strong	adj
+2064	solitario 	solitary, lonely	adj
+102	solo 	only, just (adv)	adv
+160	solo 	lonely, alone (adj)	adj
+2272	soltar 	to release, loosen, let out	v
+3175	soltero 	single, not married	adj
+871	solución 	solution, answer	nf
+2184	solucionar 	to solve, settle	v
+1324	sombra 	shade, shadow	nf
+2899	sombrero 	hat, sombrero	nm
+4455	sombrío 	shady, dark, dismal	adj
+1116	someter 	to subject	v
+1068	sonar 	to sound, ring	v
+1593	soñar 	to dream	v
+1192	sonido 	sound	nm
+2762	sonoro 	loud, resounding	adj
+2731	sonreír 	to smile	v
+4579	sonriente 	smiling	adj
+2754	sonrisa 	smile	nf
+3795	sopa 	soup	nf
+3201	soplar 	to blow (wind)	v
+1310	soportar 	to endure, stand (something)	v
+4797	soporte 	support, endorsement	nm
+2933	sordo 	deaf, dull	adj
+2203	sorprendente 	surprising, astonishing	adj
+1320	sorprender 	to surprise	v
+3120	sorprendido 	surprised	adj
+1264	sorpresa 	surprise	nf
+2602	sospecha 	suspicion	nf
+1984	sospechar 	to suspect, suppose	v
+3592	sospechoso 	suspicious	adj
+883	sostener 	to support, hold up	v
+3279	sostenido 	sustained, steady	adj
+4930	sótano 	basement	nm
+4438	soviético 	Soviet	adj
+14	su 	his/her/their/your (formal)	adj
+1784	suave 	soft, gentle, mild	adj
+3915	suavemente 	softly	adv
+443	subir 	to go up	v
+4130	súbito 	sudden	adj [also repentino]
+4793	subjetivo 	subjective	adj
+3396	subrayar 	to underline, highlight, emphasize	v
+3748	subsistir 	to subsist, survive	v
+3555	subterráneo 	underground	adj
+406	suceder 	to happen	v
+2655	sucesión 	succession, series	nf
+3428	sucesivamente 	successively, step by step	adv
+2379	sucesivo 	successive, following	adj
+2563	suceso 	event, incident	nm
+1994	sucio 	dirty, filthy, underhanded	adj
+4619	sudar 	to sweat	v
+4081	sudor 	sweat, perspiration	nm
+1770	sueldo 	salary, pay	nm
+432	suelo 	ground, floor	nm
+1941	suelto 	loose	adj
+583	sueño 	dream, sleep	nm
+725	suerte 	luck, fortune	nf
+547	suficiente 	sufficient, enough	adj
+1805	suficientemente 	enough	adv
+2658	sufrimiento 	suffering	nm
+457	sufrir 	to suffer, undergo	v
+3784	sugerencia 	suggestion	nf
+1327	sugerir 	to suggest, hint at	v
+3329	suicidio 	suicide	nm
+4500	suizo 	Swiss	adj
+2879	sujetar 	to fasten, attach, hold	v
+1748	sujeto 	subject, individual (nm)	nm
+1759	sujeto 	fastened, subject to (adj)	adj
+1271	suma 	sum, amount, summary	nf
+2380	sumamente 	extremely, highly	adv
+1608	sumar 	to add up, amount to	v
+4431	sumergir 	to submerge, plunge	v
+4876	sumido 	sunken, drowned	adj
+3570	sumo 	utmost, highest	adj
+975	superar 	to overcome, surpass	v
+2693	superficial 	superficial	adj
+1442	superficie 	surface, area	nf
+535	superior 	superior, upper	adj
+4011	superioridad 	superiority	nf
+3983	supervivencia 	survival	nf
+305	suponer 	to suppose, assume	v
+2633	supremo 	supreme	adj
+2976	suprimir 	to suppress, delete	v
+4262	supuestamente 	supposedly, allegedly	adv
+511	supuesto 	supposed; por supuesto: of course	adj
+1064	sur 	south	nm
+553	surgir 	to appear, spring forth	v
+4250	susceptible 	susceptible	adj
+3010	suscitar 	to arouse, provoke	v
+1929	suspender 	to suspend, hang, fail	v
+4558	suspirar 	to sigh	v
+2598	sustancia 	substance, essence	nf
+4392	sustentar 	to maintain, support	v
+1786	sustituir 	to substitute, replace	v
+3048	susto 	fright, scare	nm
+2577	sutil 	subtle	adj
+520	suyo 	his, hers, yours, theirs (formal)	pron
+2560	tabaco 	tobacco, cigarette, cigar	nm
+1833	tabla 	chart, board, table, plank	nf
+4207	tablero 	board, panel	nm
+4623	táctica 	tactics, strategy	nf
+4411	tacto 	sense of touch, feel	nm
+120	tal 	such a	adj
+2143	talento 	talent, skill	nm
+4330	talla 	size (of clothing), stature	nf
+2373	taller 	workshop, shop	nm
+4447	talón 	heel, check, coupon, stub	nm
+776	tamaño 	size, dimension	nm
+53	también 	also	adv
+4057	tambor 	drum	nm
+279	tampoco 	neither, nor, either	adv
+83	tan 	such, as, too, so	adv
+4594	tanque 	tank, large container	nm
+79	tanto 	so much, so many	adj
+3492	tapa 	cover, lid	nf
+2129	tapar 	to cover, wrap	v
+959	tardar 	to delay, take long	v
+242	tarde 	afternoon, evening (nf)	nf
+1046	tarde 	late (adv)	adv
+3487	tardío 	late, belated	adj
+585	tarea 	task, job	nf
+2309	tarjeta 	card	nf
+4550	tasa 	rate, fee, levy	nf
+3402	taxi 	taxi, cab	nm
+3218	taza 	cup, bowl	nf
+136	te 	you (obj, familiar)	pron
+2145	té 	tea	nm
+3295	teatral 	theatrical	adj
+861	teatro 	theater, drama	nm
+1386	techo 	roof	nm
+1187	técnica 	technique, skill	nf
+1480	técnico 	technical (adj)	adj
+2982	técnico 	technician (nm/f)	nm/f
+2931	tecnología 	technology	nf
+3972	tecnológico 	technological	adj
+4944	tejado 	roof, housetop	nm
+2941	tejer 	to sew, weave	v
+2547	tejido 	fabric, tissue	nm
+1719	tela 	cloth, fabric	nf
+2888	telefónico 	telephone	adj
+999	teléfono 	phone, telephone	nm
+1078	televisión 	TV, television	nf
+3250	televisor 	television set	nm
+283	tema 	theme, subject, topic	nm
+3255	temblar 	to tremble, shake	v
+3902	temblor 	tremor, shudder, shiver	nm
+1387	temer 	to fear	v
+3952	temeroso 	fearful	adj
+1154	temor 	fear	nm [also miedo]
+4586	temperamento 	temperament, personality	nm
+1558	temperatura 	temperature	nf
+2437	templo 	temple, church	nm
+1887	temporada 	season, period, time	nf
+3225	temporal 	temporary	adj
+1200	temprano 	early	adj
+1347	tendencia 	tendency, style	nf
+727	tender 	to tend to, lay out	v
+3727	tendido 	spread, hung, laid out	adj
+18	tener 	to have	v
+3608	teniente 	lieutenant, deputy mayor	nm
+4968	tenis 	tennis	nm
+4814	tenor 	meaning, sense	nm
+1514	tensión 	tension, stress, strain	nf
+3043	tenso 	tight, tense	adj
+2765	tentación 	temptation	nf
+4869	tentar 	to tempt, entice	v
+4450	tenue 	tenuous, flimsy	adj
+970	teoría 	theory	nf
+2866	teórico 	theoretical	adj
+394	tercero 	third	adj
+3988	tercio 	third (one-third)	nm
+219	terminar 	to finish, end	v
+561	término 	term (language), end	nm
+3797	ternura 	tenderness	nf
+4074	terraza 	terrace, balcony	nf
+4100	terremoto 	earthquake	nm
+796	terreno 	ground, earth, terrain	nm
+4663	terrestre 	earthly, of the earth	adj
+1228	terrible 	terrible	adj
+4928	terriblemente 	terribly	adv
+1382	territorio 	territory	nm
+2189	terror 	terror, horror	nm
+4483	tertulia 	get-together, meeting of friends	nf
+2117	tesis 	thesis, exposition	nf
+2629	tesoro 	treasure, thesaurus	nm
+1618	testigo 	witness	nm
+2066	testimonio 	testimony, evidence	nm
+800	texto 	text	nm
+1704	ti 	you (obj prep singular familiar)	pron
+2199	tía 	aunt	nf
+3590	tibio 	lukewarm	adj
+68	tiempo 	time (general), weather	nm
+1650	tienda 	shop, store, tent	nf
+2973	tierno 	tender, soft	adj
+276	tierra 	earth, land, ground	nf
+4582	tigre 	tiger	nm
+3404	timbre 	doorbell, bell, seal, stamp	nm
+3447	timidez 	shyness, timidity	nf
+2795	tímido 	timid, shy, half-hearted	adj
+3089	tinta 	ink	nf
+4451	tinte 	tint, dye	nm
+1755	tío 	uncle, guy	nm
+1651	típico 	typical	adj
+157	tipo 	type, kind	nm
+4102	tira 	strip, strap	nf
+759	tirar 	to throw, pull	v
+1737	tiro 	throw, shot	nm
+3655	titular 	headline, holder (nm)	nm
+4035	titular 	to title, call (v)	v
+653	título 	title, heading	nm
+4967	toalla 	towel	nf
+325	tocar 	to touch, play an instrument	v
+211	todavía 	still, yet	adv [also aún]
+22	todo 	all, every	adj
+3792	tolerancia 	tolerance	nf
+2874	tolerar 	to tolerate, put up with	v
+122	tomar 	to take, drink	v
+3920	tomate 	tomato	nm
+4399	tonelada 	ton	nf
+972	tono 	tone	nm
+3074	tontería 	stupidity, stupid thing	nf [also estupidez]
+2191	tonto 	stupid, dumb	adj
+4230	topar 	to run into, bump into	v
+3448	toque 	touch, ringing, warning	nm
+4221	torcer 	to twist, bend, distort	v
+2841	tormenta 	storm	nf
+3263	tornar 	to transform, turn	v
+1230	torno 	en torno a: about, regarding	nm
+2331	toro 	bull	nm
+3629	torpe 	clumsy, awkward, slow	adj
+2162	torre 	tower	nf
+4715	torta 	cake	nf
+3585	tortura 	torture	nf
+629	total 	total, entire (adj)	adj
+1043	total 	sum, total (nm)	nm
+2276	totalidad 	whole, totality	nf
+662	totalmente 	totally, completely	adv
+1714	trabajador 	worker, laborer (nm/f)	nm/f [also obrero]
+4489	trabajador 	hardworking (adj)	adj
+183	trabajar 	to work	v
+145	trabajo 	work, job, effort	nm
+898	tradición 	tradition	nf
+1309	tradicional 	traditional	adj
+4657	tradicionalmente 	traditionally	adv
+3344	traducción 	translation	nf
+1603	traducir 	to translate	v
+289	traer 	to bring, carry	v
+2188	tráfico 	traffic, trade	nm
+2965	tragar 	to swallow	v
+1905	tragedia 	tragedy	nf
+2501	trágico 	tragic	adj
+4215	trago 	swig, drink	nm
+3493	traición 	treason, betrayal	nf
+3713	traicionar 	to betray	v
+4286	traidor 	traitor	nm
+1710	traje 	suit, dress, costume	nm
+3566	trama 	plot, theme	nf
+3246	trámite 	procedure, step, requirement	nm
+3475	tramo 	section, stretch, plot	nm
+2548	trampa 	trick, trap; hacer trampa: to cheat	nf
+4457	trance 	trance, fix, enrapture	nm
+3247	tranquilamente 	calmly, peacefully	adv
+1729	tranquilidad 	tranquility, peace	nf
+3848	tranquilizar 	to calm down	v
+1144	tranquilo 	calm, tranquil, relaxed	adj
+1579	transcurrir 	to occur, take place	v
+3155	transcurso 	passing, course, lapse	nm
+2450	transformación 	transformation	nf
+891	transformar 	to transform, change	v
+3139	transición 	transition	nf
+4821	transitar 	to roam, go by	v
+2792	tránsito 	traffic, transit	nm
+4381	transitorio 	transitory	adj
+4034	transmisión 	broadcast, transmission	nf
+1202	transmitir 	to transmit, broadcast	v
+4059	transparencia 	transparency, slide	nf
+2657	transparente 	transparent, clear	adj
+2690	transportar 	to transport, carry	v
+1657	transporte 	transportation, transport	nm
+4502	tranvía 	trolley, tram, streetcar	nm
+4244	trapo 	rag, cloth	nm
+534	tras 	after, behind	prep
+3233	trascendencia 	transcendent nature, significance	nf
+4613	trascendental 	far-reaching, transcendental	adj 
+4564	trascendente 	transcendent	adj
+4962	trasero 	behind, back	adj
+1219	trasladar 	to move, transfer	v
+2763	traslado 	transfer	nm
+3502	traspasar 	to go beyond, cross over	v
+4298	trastorno 	confusion, trouble, upheaval	nm
+2270	tratado 	treaty, treatise	nm
+1418	tratamiento 	treatment, processing	nm
+134	tratar 	to try, treat, deal with	v
+1241	trato 	treatment, manner, agreement	nm
+3407	trayecto 	trajectory, course, path	nm
+3215	trayectoria 	trajectory, path	nf
+4556	trazo 	line, stroke	nm
+2115	trece 	thirteen	num
+4640	tregua 	truce, rest	nf
+722	treinta 	thirty	num
+1198	tremendo 	tremendous, dreadful, huge	adj
+1220	tren 	train, convoy	nm
+4116	trepar 	to climb	v
+119	tres 	three	num
+3341	trescientos 	three hundred	num
+4016	triángulo 	triangle	nm
+2963	tribu 	tribe	nf
+2571	tribunal 	court	nm
+3961	trigo 	wheat	nm
+4520	triple 	triple	adj
+1314	triste 	sad, unhappy	adj
+2233	tristeza 	sadness	nf
+2697	triunfar 	to triumph	v
+1813	triunfo 	triumph, victory	nm
+2936	tronco 	trunk, torso	nm
+4510	trono 	throne	nm
+2312	tropa 	troops, forces	nf
+2907	tropezar 	to trip, stumble	v
+3873	tropical 	tropical	adj
+2527	trozo 	piece, chunk	nm
+4020	truco 	trick, ruse	nm
+349	tu 	your (singular familiar)	adj
+554	tú 	you (subj singular familiar)	pron [also vos]
+2932	tubo 	tube, pipe	nm
+2485	tumba 	tomb, grave	nf
+4720	tumbar 	to knock over, cast down	v
+2942	túnel 	tunnel	nm
+3691	turco 	Turkish	adj
+4012	turismo 	tourism	nm
+3177	turista 	tourist (nc)	nc
+4572	turístico 	tourist (adj)	adj
+2252	turno 	turn, shift; en turno a: around	nm
+2797	tuyo 	yours (singular familiar)	pron
+3559	ubicación 	position, location	nf
+1750	ubicar 	to find, locate	v
+2475	últimamente 	lately, recently	adv
+139	último 	last, final	adj
+3639	umbral 	threshold, outset	nm
+7	un 	a, an	art
+3106	uña 	nail, fingernail, toenail	nf
+1409	únicamente 	only	adv [also solamente]
+181	único 	only, unique, sole	adj
+1025	unidad 	unit, unity	nf
+858	unido 	united	adj
+2341	uniforme 	uniform (nm)	nm
+3880	uniforme 	uniform (adj)	adj
+2081	unión 	union	nf
+918	unir 	to unite	v
+1488	universal 	universal	adj
+1473	universidad 	university, college	nf
+2029	universitario 	university	adj
+2179	universo 	universe	nm
+72	uno 	one	num
+2176	urbano 	urban, city, urbane	adj
+2391	urgencia 	urgency	nf
+2265	urgente 	urgent	adj
+3305	usado 	worn out, old, used	adj
+380	usar 	to use	v
+619	uso 	use	nm
+269	usted 	you (subj formal)	pron
+4729	usual 	normal, usual	adj
+1195	útil 	useful	adj
+2921	utilidad 	usefulness, utility	nf
+3491	utilización 	use, utilization	nf
+338	utilizar 	to use, utilize	v
+3682	uva 	grape	nf
+2234	vaca 	cow	nf
+1623	vacaciones 	vacation	nf
+3584	vaciar 	to empty, pour out	v
+4323	vacilar 	to vacillate, hesitate	v
+1532	vacío 	empty, vacant (adj)	adj
+1538	vacío 	emptiness, void (nm)	nm
+3318	vago 	vague	adj
+4773	vaivén 	swinging, rocking	nm
+387	valer 	to be worth, cost	v
+4410	validez 	validity	nf
+2216	válido 	valid	adj
+3131	valiente 	brave, courageous, bold	adj
+2178	valioso 	valuable, precious	adj
+1663	valle 	valley	nm
+326	valor 	value, worth (n)	nm
+2994	valorar 	to value	v
+4043	vanguardia 	vanguard, forefront	nf
+3935	vanidad 	vanity, conceit	nf
+3367	vano 	vain, useless	adj
+2827	vapor 	vapor, steam	nm
+4822	vara 	rod, stick	nf
+2703	variación 	variation	nf
+2464	variado 	varied, mixed	adj
+3798	variante 	variant, difference	nf
+2210	variar 	to change, vary	v
+2368	variedad 	variety	nf
+224	varios 	several, various	adj
+2088	varón 	male, man	nm
+3946	vasco 	Basque	adj
+2107	vaso 	drinking glass, vase	nm
+2799	vasto 	vast, immense, huge	adj
+4910	vecindad 	nearness, vicinity	nf
+1095	vecino 	neighbor (nm)	nm
+1666	vecino 	nearby, neighboring (adj)	adj
+3837	vegetación 	vegetation	nf
+3304	vegetal 	plant, vegetable (adj)	adj
+4921	vegetal 	plant, vegetable (nm)	nm
+1446	vehículo 	vehicle, car	nm
+582	veinte 	twenty	num
+2311	veinticinco 	twenty-five	num
+2998	veinticuatro 	twenty-four	num
+4873	veintidós 	twenty-two	num
+4099	vejez 	old age	nf
+2287	vela 	candle, sail, vigil	nf
+3243	velar 	to watch over	v
+4531	velo 	veil	nm
+1145	velocidad 	speed, velocity	nf [also rapidez]
+4429	veloz 	fast, quick	adj
+3512	vena 	vein	nf
+1193	vencer 	to overcome, conquer	v
+2266	vendedor 	salesperson	nm/f
+526	vender 	to sell	v
+4198	veneno 	poison, venom	nm
+3450	venganza 	revenge, vengeance	nf
+4849	vengar 	to take revenge, avenge	v
+105	venir 	to come	v
+1075	venta 	sale	nf
+1226	ventaja 	advantage, benefit	nf
+1265	ventana 	window	nf
+4836	ventanilla 	vehicle window	nf
+37	ver 	to see	v
+3038	vera 	de veras: really, for real	nf
+893	verano 	summer	nm
+3256	verbal 	verbal, oral	adj
+4278	verbo 	verb	nm
+209	verdad 	truth	nf
+1407	verdaderamente 	truly	adv
+420	verdadero 	true, real	adj
+878	verde 	green	adj
+4480	verdura 	vegetables, greenery	nf
+4700	vereda 	path, sidewalk	nf
+2206	vergüenza 	embarrassment	nf
+3610	verificar 	to verify	v
+1613	versión 	version, account	nf
+2643	verso 	verse, poem	nm
+4924	verter 	to pour, spill, shed	v
+3297	vertical 	vertical, upright	adj
+4516	vertiginoso 	dizzying	adj
+1870	vestido 	dressed (adj)	adj
+2220	vestido 	dress (nm)	nm
+1317	vestir 	to wear, dress	v
+4641	vestuario 	wardrobe, changing room	nm
+44	vez 	time (specific occurrence)	nf
+982	vía 	road, way	nf
+790	viajar 	to travel	v
+431	viaje 	travel, trip	nm
+3091	viajero 	traveler, passenger	nm
+4818	vibración 	vibration	nf
+4413	vibrar 	to vibrate, tremble	v
+4904	viceversa 	vice versa	adv
+2805	vicio 	vice, bad habit, defect	nm
+1712	víctima 	victim, casualty	nf
+1821	victoria 	victory, triumph	nf
+88	vida 	life	nf
+2112	vidrio 	glass, pane	nm
+281	viejo 	old, aged	adj
+1216	viento 	wind, scent	nm
+3434	vientre 	womb, belly	nm
+2483	viernes 	Friday	nm
+3801	vigente 	in force, valid	adj
+2632	vigilancia 	surveillance, vigilance	nf
+2247	vigilar 	to watch over, guard	v
+3306	vigor 	force, strength, vigor	nm
+4596	vigoroso 	vigorous, strong	adj
+3731	villa 	village, town	nf
+3181	vinculado 	connected	adj
+4407	vincular 	to connect, link, bind	v
+3219	vínculo 	tie, bond, link	nm
+917	vino 	wine	nm
+4481	violación 	violation, rape	nf
+2673	violar 	to violate, trespass, rape	v
+1190	violencia 	violence	nf
+4425	violentamente 	violently	adv
+1389	violento 	violent	adj
+4745	violín 	violin	nm
+3981	virgen 	virgin (nf)	nf
+4304	virgen 	virgin (adj)	adj
+1378	virtud 	virtue, quality	nf
+2459	visible 	visible	adj
+908	visión 	vision	nf
+828	visita 	visit, visitor, guest	nf
+2760	visitante 	visitor	nc
+834	visitar 	to visit	v
+4665	vislumbrar 	to glimpse	v
+3541	víspera 	eve	nf
+310	vista 	view, sight	nf
+4479	visual 	visual	adj
+1428	vital 	vital, lively, essential	adj
+3807	vitalidad 	vitality, health	nf
+2488	viuda 	widow	nf
+1600	vivienda 	housing, dwelling	nf
+128	vivir 	to live	v
+453	vivo 	alive, bright	adj
+3927	vocabulario 	vocabulary	nm
+1829	vocación 	vocation, calling	nf
+4458	volante 	steering wheel	nm
+1376	volar 	to fly	v
+4981	volcán 	volcano	nm
+3153	volcar 	to turn/knock over, empty	v
+1274	volumen 	volume	nm
+745	voluntad 	will, willpower, intention	nf
+4891	voluntariamente 	voluntarily	adv
+2953	voluntario 	voluntary, volunteer	adj
+112	volver 	to turn, to turn over, to return to a place	v
+3430	vos 	you (subj singular familiar)	pron [also tú]
+4132	vosotros 	you (subj plural familiar)	pron
+3172	votar 	to vote	v
+2201	voto 	vote	nm
+320	voz 	voice	nf
+1665	vuelo 	flight	nm
+600	vuelta 	return, turn	nf
+3137	vuestro 	your (plural familiar)	adj
+2991	vulgar 	vulgar, common, banal	adj
+4554	vulnerable 	vulnerable	adj
+4571	whisky 	whisky	nm
+4	y 	and	conj
+36	ya 	already, still	adv
+52	yo 	I (pron)	pron
+1932	zapato 	shoe	nm
+449	zona 	area, zone (nf)	nf
